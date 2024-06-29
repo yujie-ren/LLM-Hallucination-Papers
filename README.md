@@ -1,4 +1,4 @@
-# Awesome-LLM-Hallucination
+# LLM-Hallucination-Papers
 Collection of LLM hallucination Papers
 
 ## Contents
@@ -25,7 +25,7 @@ Coming ...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTc3MTc4Nyw3Mjk2NzQ4NDAsLTg4Nz
+eyJoaXN0b3J5IjpbMTU4NzMyOTAwMSw3Mjk2NzQ4NDAsLTg4Nz
 IxNTI0MCwyMDk0Mjg3MDE2LC05NTM1NzY1MDIsLTY2NjQwMzcz
 Myw5Mjc3OTcxMTgsMjEyMDA0MjE1MCwtNTExNzc4NjQ5LDIwND
 k5MjE0OTMsLTQ4MDc4OTk3MiwtMTExODU5NzI5Nl19
