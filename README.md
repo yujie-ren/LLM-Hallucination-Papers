@@ -3,7 +3,7 @@ Collection of LLM hallucination Papers
 
 ## Contents
 - [Conference Papers](##Conference-Papers)
-	- 2024: [ACL](###-2024-ACL), EMNLP, NAACL, Others
+	- 2024: [ACL](###2024-ACL), EMNLP, NAACL, Others
 	- 2023: ACL, [EMNLP](###2023-EMNLP), Others
 	- 2022: ACL, EMNLP, NAACL, Others
 	- 2021: ACL, EMNLP, NAACL, Others
@@ -41,7 +41,7 @@ Coming ...
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTExODA3MTUsLTEwNDA0NjM3MDgsNj
+eyJoaXN0b3J5IjpbLTEwNDA0NjM3MDgsLTEwNDA0NjM3MDgsNj
 UxNDA2NTksMTIwMzczMTEyMiwyMDM2NDA4MTAsNzI5Njc0ODQw
 LC04ODcyMTUyNDAsMjA5NDI4NzAxNiwtOTUzNTc2NTAyLC02Nj
 Y0MDM3MzMsOTI3Nzk3MTE4LDIxMjAwNDIxNTAsLTUxMTc3ODY0
