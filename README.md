@@ -22,12 +22,12 @@ Coming ...
 - [Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination?](https://aclanthology.org/2024.naacl-long.424/)
 - **[Hallucination Diversity-Aware Active Learning for Text Summarization](https://aclanthology.org/2024.naacl-long.479/)**
 - **[ALOHa: A New Measure for Hallucination in Captioning Models](https://aclanthology.org/2024.naacl-short.30/)**
--   
-Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
+-   **[Trusting Your Evidence: Hallucinate Less with Context-aware Decoding](https://aclanthology.org/2024.naacl-short.69/)**
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg5Mjc0Miw3Mjk2NzQ4NDAsLTg4Nz
+eyJoaXN0b3J5IjpbMTY1NjI3MzY0Niw3Mjk2NzQ4NDAsLTg4Nz
 IxNTI0MCwyMDk0Mjg3MDE2LC05NTM1NzY1MDIsLTY2NjQwMzcz
 Myw5Mjc3OTcxMTgsMjEyMDA0MjE1MCwtNTExNzc4NjQ5LDIwND
 k5MjE0OTMsLTQ4MDc4OTk3MiwtMTExODU5NzI5Nl19
