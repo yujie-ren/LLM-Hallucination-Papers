@@ -19,12 +19,12 @@ Coming ...
 - Language Models Hallucinate, but May Excel at Fact Verification [[pdf]](https://aclanthology.org/2024.naacl-long.62/)
 - **[Can Knowledge Graphs Reduce Hallucinations in  LLMs? : A Survey](https://aclanthology.org/2024.naacl-long.219/)**
 - **[TofuEval: Evaluating Hallucinations of  LLMs on Topic-Focused Dialogue Summarization](https://aclanthology.org/2024.naacl-long.251/)**
-- **[Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination?](https://aclanthology.org/2024.naacl-long.424/)**
+- [Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination?](https://aclanthology.org/2024.naacl-long.424/)
 - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3MDI3NDgwLC04ODcyMTUyNDAsMjA5ND
+eyJoaXN0b3J5IjpbNzI5Njc0ODQwLC04ODcyMTUyNDAsMjA5ND
 I4NzAxNiwtOTUzNTc2NTAyLC02NjY0MDM3MzMsOTI3Nzk3MTE4
 LDIxMjAwNDIxNTAsLTUxMTc3ODY0OSwyMDQ5OTIxNDkzLC00OD
 A3ODk5NzIsLTExMTg1OTcyOTZdfQ==
