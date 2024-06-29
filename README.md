@@ -14,11 +14,11 @@ Coming
 ### 2024 EMNLP
 Coming
 ### 2024 NAACL
-**[Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision](https://aclanthology.org/2024.naacl-long.23/)**  
+[Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision][pdf](https://aclanthology.org/2024.naacl-long.23/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQxOTA5MjksMjA5NDI4NzAxNiwtOT
-UzNTc2NTAyLC02NjY0MDM3MzMsOTI3Nzk3MTE4LDIxMjAwNDIx
-NTAsLTUxMTc3ODY0OSwyMDQ5OTIxNDkzLC00ODA3ODk5NzIsLT
-ExMTg1OTcyOTZdfQ==
+eyJoaXN0b3J5IjpbLTcxNDU2NjUzNywyMDk0Mjg3MDE2LC05NT
+M1NzY1MDIsLTY2NjQwMzczMyw5Mjc3OTcxMTgsMjEyMDA0MjE1
+MCwtNTExNzc4NjQ5LDIwNDk5MjE0OTMsLTQ4MDc4OTk3MiwtMT
+ExODU5NzI5Nl19
 -->
