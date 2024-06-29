@@ -16,8 +16,10 @@ Coming
 ### 2024 NAACL
 -   **Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision**  
 Seongyun Lee, Sue Hyun Park, Yongrae Jo, Minjoon Seo
+**[Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision](https://aclanthology.org/2024.naacl-long.23/)**  
+[Seongyun Lee](https://aclanthology.org/people/s/seongyun-lee/) | [Sue Park](https://aclanthology.org/people/s/sue-park/) | [Yongrae Jo](https://aclanthology.org/people/y/yongrae-jo/) | [Minjoon Seo](https://aclanthology.org/people/m/minjoon-seo/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODEzMDI2NjYsLTY2NjQwMzczMyw5Mj
-c3OTcxMTgsMjEyMDA0MjE1MCwtNTExNzc4NjQ5LDIwNDk5MjE0
-OTMsLTQ4MDc4OTk3MiwtMTExODU5NzI5Nl19
+eyJoaXN0b3J5IjpbLTk1MzU3NjUwMiwtNjY2NDAzNzMzLDkyNz
+c5NzExOCwyMTIwMDQyMTUwLC01MTE3Nzg2NDksMjA0OTkyMTQ5
+MywtNDgwNzg5OTcyLC0xMTE4NTk3Mjk2XX0=
 -->
