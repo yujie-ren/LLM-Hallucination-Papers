@@ -3,39 +3,13 @@ Collection of LLM hallucination Papers
 
 ## Contents
 - [Conference Papers](##Conference-Papers)
-	- 2024: ACL, EMNLP, NAACL, Others
+	- 2024: [ACL](### 2024-ACL), EMNLP, NAACL, Others
 	- 2023: ACL, EMNLP, Others
 	- 2022: ACL, EMNLP, NAACL, Others
 	- 2021: ACL, EMNLP, NAACL, Others
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Conference Papers
+
 ### 2024 ACL
 Coming ...
 ### 2024 EMNLP
@@ -48,15 +22,16 @@ Coming ...
 - TofuEval: Evaluating Hallucinations of  LLMs on Topic-Focused Dialogue Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.251/)
 - Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)
+
 ### 2023 ACL
 
 ### 2023 EMNLP
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0MTk1NzksNjUxNDA2NTksMTIwMzczMT
-EyMiwyMDM2NDA4MTAsNzI5Njc0ODQwLC04ODcyMTUyNDAsMjA5
-NDI4NzAxNiwtOTUzNTc2NTAyLC02NjY0MDM3MzMsOTI3Nzk3MT
-E4LDIxMjAwNDIxNTAsLTUxMTc3ODY0OSwyMDQ5OTIxNDkzLC00
-ODA3ODk5NzIsLTExMTg1OTcyOTZdfQ==
+eyJoaXN0b3J5IjpbOTExMDU1MDU4LDY1MTQwNjU5LDEyMDM3Mz
+ExMjIsMjAzNjQwODEwLDcyOTY3NDg0MCwtODg3MjE1MjQwLDIw
+OTQyODcwMTYsLTk1MzU3NjUwMiwtNjY2NDAzNzMzLDkyNzc5Nz
+ExOCwyMTIwMDQyMTUwLC01MTE3Nzg2NDksMjA0OTkyMTQ5Mywt
+NDgwNzg5OTcyLC0xMTE4NTk3Mjk2XX0=
 -->
