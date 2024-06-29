@@ -22,13 +22,13 @@ Coming ...
 - Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)
 ### 2023 ACL
-Coming ...
+
 ### 2023 EMNLP
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDk3NzU2Myw3Mjk2NzQ4NDAsLTg4Nz
-IxNTI0MCwyMDk0Mjg3MDE2LC05NTM1NzY1MDIsLTY2NjQwMzcz
-Myw5Mjc3OTcxMTgsMjEyMDA0MjE1MCwtNTExNzc4NjQ5LDIwND
-k5MjE0OTMsLTQ4MDc4OTk3MiwtMTExODU5NzI5Nl19
+eyJoaXN0b3J5IjpbMjAzNjQwODEwLDcyOTY3NDg0MCwtODg3Mj
+E1MjQwLDIwOTQyODcwMTYsLTk1MzU3NjUwMiwtNjY2NDAzNzMz
+LDkyNzc5NzExOCwyMTIwMDQyMTUwLC01MTE3Nzg2NDksMjA0OT
+kyMTQ5MywtNDgwNzg5OTcyLC0xMTE4NTk3Mjk2XX0=
 -->
