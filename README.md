@@ -8,9 +8,9 @@ Collection of LLM hallucination Papers
 	- 2022:  [ACL](#acl-2022),  [EMNLP](#emnlp-2022),  [NAACL](#naacl-2022)
 	- 2021:  [ACL](#acl-2021),  [EMNLP](#emnlp-2021),  [NAACL](#naacl-2021)
 
-| Year    |    Conference    |                      |                      |
-| :---:   |    :----:        |        :---:         |        :---:         |
-| 2024    | [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |
+|  Year  |    Conference    |                      |                      |
+| :---:  |    :----:        |        :---:         |        :---:         |
+|  2024  | [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |
 
 
 ## Conference Papers
@@ -33,7 +33,7 @@ Coming ...
 ### EMNLP 2023
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDAwMjE2OCw1NzEzMDg0OTcsMTg2Nj
+eyJoaXN0b3J5IjpbMjA5MDE1MzQzMiw1NzEzMDg0OTcsMTg2Nj
 c2MTA5MywtMTQ4Mjk4MzkzMywyODUzMjU4MzAsLTg5MzkwOTIx
 MiwzNDMxODIxMTYsLTEwNDA0NjM3MDgsLTEwNDA0NjM3MDgsNj
 UxNDA2NTksMTIwMzczMTEyMiwyMDM2NDA4MTAsNzI5Njc0ODQw
