@@ -15,15 +15,13 @@ Coming ...
 Coming ...
 ### 2024 NAACL
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)
-
-**[On Large Language Models’ Hallucination with Regard to Known Facts](https://aclanthology.org/2024.naacl-long.60/)**
-
-**[Language Models Hallucinate, but May Excel at Fact Verification](https://aclanthology.org/2024.naacl-long.62/)**
+- On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)
+- Language Models Hallucinate, but May Excel at Fact Verification [[pdf]](https://aclanthology.org/2024.naacl-long.62/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTc5NDQ4MywtODg3MjE1MjQwLDIwOT
-QyODcwMTYsLTk1MzU3NjUwMiwtNjY2NDAzNzMzLDkyNzc5NzEx
-OCwyMTIwMDQyMTUwLC01MTE3Nzg2NDksMjA0OTkyMTQ5MywtND
-gwNzg5OTcyLC0xMTE4NTk3Mjk2XX0=
+eyJoaXN0b3J5IjpbLTk0MzU1MTIxLC04ODcyMTUyNDAsMjA5ND
+I4NzAxNiwtOTUzNTc2NTAyLC02NjY0MDM3MzMsOTI3Nzk3MTE4
+LDIxMjAwNDIxNTAsLTUxMTc3ODY0OSwyMDQ5OTIxNDkzLC00OD
+A3ODk5NzIsLTExMTg1OTcyOTZdfQ==
 -->
