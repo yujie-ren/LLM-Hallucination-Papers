@@ -33,12 +33,14 @@ Coming ...
 - CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization [[pdf]](https://aclanthology.org/2023.findings-acl.685/)
 ### EMNLP 2023
 - Evaluating Object Hallucination in Large Vision-Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.20/)
+- **[HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation](https://aclanthology.org/2023.emnlp-main.42/)**
+- **[Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus](https://aclanthology.org/2023.emnlp-main.58/)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3NjgyODU3LC05ODc5ODI1NzEsMTA4OT
-YxNTI3LDYwODg5OTAxNywtNDM1NzcyMTE3LDU3MTMwODQ5Nywx
-ODY2NzYxMDkzLC0xNDgyOTgzOTMzLDI4NTMyNTgzMCwtODkzOT
-A5MjEyLDM0MzE4MjExNiwtMTA0MDQ2MzcwOCwtMTA0MDQ2Mzcw
-OCw2NTE0MDY1OSwxMjAzNzMxMTIyLDIwMzY0MDgxMCw3Mjk2Nz
-Q4NDAsLTg4NzIxNTI0MCwyMDk0Mjg3MDE2LC05NTM1NzY1MDJd
-fQ==
+eyJoaXN0b3J5IjpbLTE0NTU4NzU0MTUsLTk4Nzk4MjU3MSwxMD
+g5NjE1MjcsNjA4ODk5MDE3LC00MzU3NzIxMTcsNTcxMzA4NDk3
+LDE4NjY3NjEwOTMsLTE0ODI5ODM5MzMsMjg1MzI1ODMwLC04OT
+M5MDkyMTIsMzQzMTgyMTE2LC0xMDQwNDYzNzA4LC0xMDQwNDYz
+NzA4LDY1MTQwNjU5LDEyMDM3MzExMjIsMjAzNjQwODEwLDcyOT
+Y3NDg0MCwtODg3MjE1MjQwLDIwOTQyODcwMTYsLTk1MzU3NjUw
+Ml19
 -->
