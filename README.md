@@ -25,15 +25,17 @@ Coming ...
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)
 
 ### ACL 2023
-
+- Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity  Even Better[[pdf]](https://aclanthology.org/2023.acl-long.3/)
+- Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination[[pdf]](https://aclanthology.org/2023.acl-long.329/)
+- 
 ### EMNLP 2023
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4ODk5MDE3LC00MzU3NzIxMTcsNTcxMz
-A4NDk3LDE4NjY3NjEwOTMsLTE0ODI5ODM5MzMsMjg1MzI1ODMw
-LC04OTM5MDkyMTIsMzQzMTgyMTE2LC0xMDQwNDYzNzA4LC0xMD
-QwNDYzNzA4LDY1MTQwNjU5LDEyMDM3MzExMjIsMjAzNjQwODEw
-LDcyOTY3NDg0MCwtODg3MjE1MjQwLDIwOTQyODcwMTYsLTk1Mz
-U3NjUwMiwtNjY2NDAzNzMzLDkyNzc5NzExOCwyMTIwMDQyMTUw
+eyJoaXN0b3J5IjpbMTYyMjQwNTcxOCw2MDg4OTkwMTcsLTQzNT
+c3MjExNyw1NzEzMDg0OTcsMTg2Njc2MTA5MywtMTQ4Mjk4Mzkz
+MywyODUzMjU4MzAsLTg5MzkwOTIxMiwzNDMxODIxMTYsLTEwND
+A0NjM3MDgsLTEwNDA0NjM3MDgsNjUxNDA2NTksMTIwMzczMTEy
+MiwyMDM2NDA4MTAsNzI5Njc0ODQwLC04ODcyMTUyNDAsMjA5ND
+I4NzAxNiwtOTUzNTc2NTAyLC02NjY0MDM3MzMsOTI3Nzk3MTE4
 XX0=
 -->
