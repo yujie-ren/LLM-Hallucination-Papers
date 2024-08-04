@@ -33,17 +33,17 @@ Coming ...
 - CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization [[pdf]](https://aclanthology.org/2023.findings-acl.685/)
 ### EMNLP 2023
 - Evaluating Object Hallucination in Large Vision-Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.20/)
-- [HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation] [[pdf]](https://aclanthology.org/2023.emnlp-main.42/)
-- **[Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus] [[pdf]](https://aclanthology.org/2023.emnlp-main.58/)**
-- **[The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations] [[pdf]](https://aclanthology.org/2023.emnlp-main.155/)**
-- **[Critic-Driven Decoding for Mitigating Hallucinations in Data-to-text Generation] [[pdf]](https://aclanthology.org/2023.emnlp-main.172/)**
-- **[Why  LLMs Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation] [[pdf]](https://aclanthology.org/2023.emnlp-main.192/)**
-- **[The Curious Case of Hallucinatory (Un)answerability: Finding Truths in the Hidden States of Over-Confident Large Language Models] [[pdf]](https://aclanthology.org/2023.emnlp-main.220/)**
-- [Fine-tuned  LLMs Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over  Wikidata](https://aclanthology.org/2023.emnlp-main.353/)
-- [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://aclanthology.org/2023.emnlp-main.397/)
+- HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation [[pdf]](https://aclanthology.org/2023.emnlp-main.42/)
+- Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus [[pdf]](https://aclanthology.org/2023.emnlp-main.58/)
+- The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations [[pdf]](https://aclanthology.org/2023.emnlp-main.155/)
+- Critic-Driven Decoding for Mitigating Hallucinations in Data-to-text Generation [[pdf]](https://aclanthology.org/2023.emnlp-main.172/)
+- Why  LLMs Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation [[pdf]](https://aclanthology.org/2023.emnlp-main.192/)
+- The Curious Case of Hallucinatory (Un)answerability: Finding Truths in the Hidden States of Over-Confident Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.220/)
+- Fine-tuned  LLMs Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over  Wikidata [[pdf]](https://aclanthology.org/2023.emnlp-main.353/)
+- HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDY3ODE1MSwtOTg0NDcyNjkxLC0xNT
+eyJoaXN0b3J5IjpbMTMxNzY1NTE0NSwtOTg0NDcyNjkxLC0xNT
 M3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYxMSwtMTQ1NTg3
 NTQxNSwtOTg3OTgyNTcxLDEwODk2MTUyNyw2MDg4OTkwMTcsLT
 QzNTc3MjExNyw1NzEzMDg0OTcsMTg2Njc2MTA5MywtMTQ4Mjk4
