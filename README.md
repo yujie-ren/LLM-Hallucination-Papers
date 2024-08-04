@@ -25,20 +25,20 @@ Coming ...
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)
 
 ### ACL 2023
-- Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity  Even Better[[pdf]](https://aclanthology.org/2023.acl-long.3/)
-- Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination[[pdf]](https://aclanthology.org/2023.acl-long.329/)
-- Optimal Transport for Unsupervised Hallucination Detection in Neural Machine Translation[[pdf]](https://aclanthology.org/2023.acl-long.770/)
-- Towards Fewer Hallucinations in Knowledge-Grounded Dialogue Generation via Augmentative and Contrastive Knowledge-Dialogue[[pdf]](https://aclanthology.org/2023.acl-short.148/)
-- RHO: Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding[[pdf]](https://aclanthology.org/2023.findings-acl.275/)
-- CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization[[pdf]](https://aclanthology.org/2023.findings-acl.685/)
+- Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity  Even Better [[pdf]](https://aclanthology.org/2023.acl-long.3/)
+- Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination [[pdf]](https://aclanthology.org/2023.acl-long.329/)
+- Optimal Transport for Unsupervised Hallucination Detection in Neural Machine Translation [[pdf]](https://aclanthology.org/2023.acl-long.770/)
+- Towards Fewer Hallucinations in Knowledge-Grounded Dialogue Generation via Augmentative and Contrastive Knowledge-Dialogue [[pdf]](https://aclanthology.org/2023.acl-short.148/)
+- RHO: Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding [[pdf]](https://aclanthology.org/2023.findings-acl.275/)
+- CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization [[pdf]](https://aclanthology.org/2023.findings-acl.685/)
 ### EMNLP 2023
-
+- Evaluating Object Hallucination in Large Vision-Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.20/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Nzk4MjU3MSwxMDg5NjE1MjcsNjA4OD
-k5MDE3LC00MzU3NzIxMTcsNTcxMzA4NDk3LDE4NjY3NjEwOTMs
-LTE0ODI5ODM5MzMsMjg1MzI1ODMwLC04OTM5MDkyMTIsMzQzMT
-gyMTE2LC0xMDQwNDYzNzA4LC0xMDQwNDYzNzA4LDY1MTQwNjU5
-LDEyMDM3MzExMjIsMjAzNjQwODEwLDcyOTY3NDg0MCwtODg3Mj
-E1MjQwLDIwOTQyODcwMTYsLTk1MzU3NjUwMiwtNjY2NDAzNzMz
-XX0=
+eyJoaXN0b3J5IjpbMjk3NjgyODU3LC05ODc5ODI1NzEsMTA4OT
+YxNTI3LDYwODg5OTAxNywtNDM1NzcyMTE3LDU3MTMwODQ5Nywx
+ODY2NzYxMDkzLC0xNDgyOTgzOTMzLDI4NTMyNTgzMCwtODkzOT
+A5MjEyLDM0MzE4MjExNiwtMTA0MDQ2MzcwOCwtMTA0MDQ2Mzcw
+OCw2NTE0MDY1OSwxMjAzNzMxMTIyLDIwMzY0MDgxMCw3Mjk2Nz
+Q4NDAsLTg4NzIxNTI0MCwyMDk0Mjg3MDE2LC05NTM1NzY1MDJd
+fQ==
 -->
