@@ -38,12 +38,13 @@ Coming ...
 - **[The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations](https://aclanthology.org/2023.emnlp-main.155/)**
 - **[Critic-Driven Decoding for Mitigating Hallucinations in Data-to-text Generation](https://aclanthology.org/2023.emnlp-main.172/)**
 - **[Why  LLMs Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation](https://aclanthology.org/2023.emnlp-main.192/)**
+- **[The Curious Case of Hallucinatory (Un)answerability: Finding Truths in the Hidden States of Over-Confident Large Language Models](https://aclanthology.org/2023.emnlp-main.220/)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTg1ODgwMiwxODE5Mjk0NjExLC0xND
-U1ODc1NDE1LC05ODc5ODI1NzEsMTA4OTYxNTI3LDYwODg5OTAx
-NywtNDM1NzcyMTE3LDU3MTMwODQ5NywxODY2NzYxMDkzLC0xND
-gyOTgzOTMzLDI4NTMyNTgzMCwtODkzOTA5MjEyLDM0MzE4MjEx
-NiwtMTA0MDQ2MzcwOCwtMTA0MDQ2MzcwOCw2NTE0MDY1OSwxMj
-AzNzMxMTIyLDIwMzY0MDgxMCw3Mjk2NzQ4NDAsLTg4NzIxNTI0
-MF19
+eyJoaXN0b3J5IjpbLTE1Mzc5ODAxMTIsMTQ4OTg1ODgwMiwxOD
+E5Mjk0NjExLC0xNDU1ODc1NDE1LC05ODc5ODI1NzEsMTA4OTYx
+NTI3LDYwODg5OTAxNywtNDM1NzcyMTE3LDU3MTMwODQ5NywxOD
+Y2NzYxMDkzLC0xNDgyOTgzOTMzLDI4NTMyNTgzMCwtODkzOTA5
+MjEyLDM0MzE4MjExNiwtMTA0MDQ2MzcwOCwtMTA0MDQ2MzcwOC
+w2NTE0MDY1OSwxMjAzNzMxMTIyLDIwMzY0MDgxMCw3Mjk2NzQ4
+NDBdfQ==
 -->
