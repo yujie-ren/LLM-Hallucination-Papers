@@ -36,12 +36,13 @@ Coming ...
 - **[HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation](https://aclanthology.org/2023.emnlp-main.42/)**
 - **[Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus](https://aclanthology.org/2023.emnlp-main.58/)**
 - **[The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations](https://aclanthology.org/2023.emnlp-main.155/)**
+- **[Critic-Driven Decoding for Mitigating Hallucinations in Data-to-text Generation](https://aclanthology.org/2023.emnlp-main.172/)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTI5NDYxMSwtMTQ1NTg3NTQxNSwtOT
-g3OTgyNTcxLDEwODk2MTUyNyw2MDg4OTkwMTcsLTQzNTc3MjEx
-Nyw1NzEzMDg0OTcsMTg2Njc2MTA5MywtMTQ4Mjk4MzkzMywyOD
-UzMjU4MzAsLTg5MzkwOTIxMiwzNDMxODIxMTYsLTEwNDA0NjM3
-MDgsLTEwNDA0NjM3MDgsNjUxNDA2NTksMTIwMzczMTEyMiwyMD
-M2NDA4MTAsNzI5Njc0ODQwLC04ODcyMTUyNDAsMjA5NDI4NzAx
-Nl19
+eyJoaXN0b3J5IjpbMTc1OTk2Mzg5MSwxODE5Mjk0NjExLC0xND
+U1ODc1NDE1LC05ODc5ODI1NzEsMTA4OTYxNTI3LDYwODg5OTAx
+NywtNDM1NzcyMTE3LDU3MTMwODQ5NywxODY2NzYxMDkzLC0xND
+gyOTgzOTMzLDI4NTMyNTgzMCwtODkzOTA5MjEyLDM0MzE4MjEx
+NiwtMTA0MDQ2MzcwOCwtMTA0MDQ2MzcwOCw2NTE0MDY1OSwxMj
+AzNzMxMTIyLDIwMzY0MDgxMCw3Mjk2NzQ4NDAsLTg4NzIxNTI0
+MF19
 -->
