@@ -37,8 +37,9 @@ Coming ...
 - **[Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus](https://aclanthology.org/2023.emnlp-main.58/)**
 - **[The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations](https://aclanthology.org/2023.emnlp-main.155/)**
 - **[Critic-Driven Decoding for Mitigating Hallucinations in Data-to-text Generation](https://aclanthology.org/2023.emnlp-main.172/)**
+- **[Why  LLMs Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation](https://aclanthology.org/2023.emnlp-main.192/)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTk2Mzg5MSwxODE5Mjk0NjExLC0xND
+eyJoaXN0b3J5IjpbMTQ4OTg1ODgwMiwxODE5Mjk0NjExLC0xND
 U1ODc1NDE1LC05ODc5ODI1NzEsMTA4OTYxNTI3LDYwODg5OTAx
 NywtNDM1NzcyMTE3LDU3MTMwODQ5NywxODY2NzYxMDkzLC0xND
 gyOTgzOTMzLDI4NTMyNTgzMCwtODkzOTA5MjEyLDM0MzE4MjEx
