@@ -52,7 +52,7 @@ Coming ...
 - Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models [[pdf]](https://aclanthology.org/2024.findings-acl.414/)  
 (CAS，检测并减轻LVLM幻觉)
 - Visual Hallucinations of Multi-modal Large Language Models [[pdf]](https://aclanthology.org/2024.findings-acl.573/)  
-(USTC，)
+(USTC，评估MLLM幻觉，提出benchnark)
 
 
 
@@ -85,7 +85,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjExMzg3NTMsLTcxMDQwMzE0OCwxOT
+eyJoaXN0b3J5IjpbLTE2MTA4MDE5NTMsLTcxMDQwMzE0OCwxOT
 k5NDk3ODkzLC0xNzk4NTYzMDI5LC02NjcyNjExMjIsODg4NTYx
 MDk0LC0xODE1MzU0MTE0LC05ODIyMTc5MDEsMTc5MTE2NjkzMC
 wtNDMxNDgxMzQzLDc4MDUwNDExMSwxNzc3NDk4MzA5LC03ODEy
