@@ -56,7 +56,7 @@ Coming ...
 - ACUEval: Fine-grained Hallucination Evaluation and Correction for Abstractive Summarization [[pdf]](https://aclanthology.org/2024.findings-acl.597/)  
 (UNC Chapel Hill，检测摘要任务中的幻觉)
 - Truth-Aware Context Selection: Mitigating Hallucinations of Large Language Models Being Misled by Untruthful Contexts [[pdf]](https://aclanthology.org/2024.findings-acl.645/)  
-()
+(CAS，)
 
 
 
@@ -93,7 +93,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDA0Nzk0MywtNzEwNDAzMTQ4LDE5OT
+eyJoaXN0b3J5IjpbLTM2MzIyOTUyMCwtNzEwNDAzMTQ4LDE5OT
 k0OTc4OTMsLTE3OTg1NjMwMjksLTY2NzI2MTEyMiw4ODg1NjEw
 OTQsLTE4MTUzNTQxMTQsLTk4MjIxNzkwMSwxNzkxMTY2OTMwLC
 00MzE0ODEzNDMsNzgwNTA0MTExLDE3Nzc0OTgzMDksLTc4MTI4
