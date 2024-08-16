@@ -28,7 +28,7 @@ Coming ...
 - InterrogateLLM: Zero-Resource Hallucination Detection in  LLM-Generated Answers [[pdf]](https://aclanthology.org/2024.acl-long.506/)  
 (Microsoft，Detecting 幻觉 in LLMs)
 - RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models [[pdf]](https://aclanthology.org/2024.acl-long.585/)  
-()
+(UIUC，)
 
 
 
@@ -60,7 +60,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTMzMjQxMSwtMzcxODYwMjM0LDg2MT
+eyJoaXN0b3J5IjpbLTMzNTEwODU1MSwtMzcxODYwMjM0LDg2MT
 I5MTcyNSw1ODc2NzM1ODgsLTEyMjI4MDg1MDMsLTM0OTE0OTM0
 LC0yNzc4NDQ4NDksMTU2OTk4NzEyMSwzNjQyNDAyNywxMzE3Nj
 U1MTQ1LC05ODQ0NzI2OTEsLTE1Mzc5ODAxMTIsMTQ4OTg1ODgw
