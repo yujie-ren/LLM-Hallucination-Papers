@@ -59,7 +59,8 @@ Coming ...
 (CAS，减轻幻觉，识别输入中的虚假信息)
 - Enhancing Hallucination Detection through Perturbation-Based Synthetic Data Generation in System Responses] [[pdf]](https://aclanthology.org/2024.findings-acl.789/)  
 (ASAPP，幻觉检测)
-
+- Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models [[pdf]](https://aclanthology.org/2024.findings-acl.854/)  
+()
 
 
 
@@ -94,11 +95,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY5MTMxNjIsLTY5NzkyODExMywtMz
-g5NDYwMzc3LC03MTA0MDMxNDgsMTk5OTQ5Nzg5MywtMTc5ODU2
-MzAyOSwtNjY3MjYxMTIyLDg4ODU2MTA5NCwtMTgxNTM1NDExNC
-wtOTgyMjE3OTAxLDE3OTExNjY5MzAsLTQzMTQ4MTM0Myw3ODA1
-MDQxMTEsMTc3NzQ5ODMwOSwtNzgxMjgzNDA2LDE0MDMwNDM1Mz
-MsMTI3NDI5OTQyOCwtMzM1MTA4NTUxLC0zNzE4NjAyMzQsODYx
-MjkxNzI1XX0=
+eyJoaXN0b3J5IjpbLTM5MTgwNDA0MiwtNjk3OTI4MTEzLC0zOD
+k0NjAzNzcsLTcxMDQwMzE0OCwxOTk5NDk3ODkzLC0xNzk4NTYz
+MDI5LC02NjcyNjExMjIsODg4NTYxMDk0LC0xODE1MzU0MTE0LC
+05ODIyMTc5MDEsMTc5MTE2NjkzMCwtNDMxNDgxMzQzLDc4MDUw
+NDExMSwxNzc3NDk4MzA5LC03ODEyODM0MDYsMTQwMzA0MzUzMy
+wxMjc0Mjk5NDI4LC0zMzUxMDg1NTEsLTM3MTg2MDIzNCw4NjEy
+OTE3MjVdfQ==
 -->
