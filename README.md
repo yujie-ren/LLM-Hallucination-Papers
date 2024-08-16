@@ -22,6 +22,8 @@ Coming ...
 
 
 
+
+
 ### NAACL 2024
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)
 - On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)
@@ -50,7 +52,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjEyNDAzNSwtMjc3ODQ0ODQ5LDE1Nj
+eyJoaXN0b3J5IjpbMTY3NTUzNTc3NywtMjc3ODQ0ODQ5LDE1Nj
 k5ODcxMjEsMzY0MjQwMjcsMTMxNzY1NTE0NSwtOTg0NDcyNjkx
 LC0xNTM3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYxMSwtMT
 Q1NTg3NTQxNSwtOTg3OTgyNTcxLDEwODk2MTUyNyw2MDg4OTkw
