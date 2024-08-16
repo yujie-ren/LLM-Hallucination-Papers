@@ -24,7 +24,7 @@ Coming ...
 - ANAH: Analytical Annotation of Hallucinations in Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.442/)  
 (Measure LLM幻觉，提出数据集)
 - TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space [[pdf]](https://aclanthology.org/2024.acl-long.483/)  
-()
+(减轻幻觉，通过对特征进行映射，编辑等)
 
 
 ### NAACL 2024
@@ -55,11 +55,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3NjczNTg4LC0xMjIyODA4NTAzLC0zND
-kxNDkzNCwtMjc3ODQ0ODQ5LDE1Njk5ODcxMjEsMzY0MjQwMjcs
-MTMxNzY1NTE0NSwtOTg0NDcyNjkxLC0xNTM3OTgwMTEyLDE0OD
-k4NTg4MDIsMTgxOTI5NDYxMSwtMTQ1NTg3NTQxNSwtOTg3OTgy
-NTcxLDEwODk2MTUyNyw2MDg4OTkwMTcsLTQzNTc3MjExNyw1Nz
-EzMDg0OTcsMTg2Njc2MTA5MywtMTQ4Mjk4MzkzMywyODUzMjU4
-MzBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDIwNjc3MTcsNTg3NjczNTg4LC0xMj
+IyODA4NTAzLC0zNDkxNDkzNCwtMjc3ODQ0ODQ5LDE1Njk5ODcx
+MjEsMzY0MjQwMjcsMTMxNzY1NTE0NSwtOTg0NDcyNjkxLC0xNT
+M3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYxMSwtMTQ1NTg3
+NTQxNSwtOTg3OTgyNTcxLDEwODk2MTUyNyw2MDg4OTkwMTcsLT
+QzNTc3MjExNyw1NzEzMDg0OTcsMTg2Njc2MTA5MywtMTQ4Mjk4
+MzkzM119
 -->
