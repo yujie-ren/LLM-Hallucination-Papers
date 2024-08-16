@@ -22,11 +22,11 @@ Coming ...
 - UHGEval: Benchmarking the Hallucination of  Chinese Large Language Models via Unconstrained Generation [[pdf]](https://aclanthology.org/2024.acl-long.288/)  
 (RUC，评估LLM幻觉，提出无限制生成数据集)
 - ANAH: Analytical Annotation of Hallucinations in Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.442/)  
-(HKUST，Measure LLM幻觉，提出数据集)
+(HKUST，Measuring LLM幻觉，提出数据集)
 - TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space [[pdf]](https://aclanthology.org/2024.acl-long.483/)  
 (CAS，减轻幻觉，通过对特征进行映射，编辑等)
 - InterrogateLLM: Zero-Resource Hallucination Detection in  LLM-Generated Answers [[pdf]](https://aclanthology.org/2024.acl-long.506/)
-(Microsoft，)
+(Microsoft，Detecting Hallucinations in LLMs)
 
 ### NAACL 2024
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)
@@ -56,11 +56,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMjkxNzI1LDU4NzY3MzU4OCwtMTIyMj
-gwODUwMywtMzQ5MTQ5MzQsLTI3Nzg0NDg0OSwxNTY5OTg3MTIx
-LDM2NDI0MDI3LDEzMTc2NTUxNDUsLTk4NDQ3MjY5MSwtMTUzNz
-k4MDExMiwxNDg5ODU4ODAyLDE4MTkyOTQ2MTEsLTE0NTU4NzU0
-MTUsLTk4Nzk4MjU3MSwxMDg5NjE1MjcsNjA4ODk5MDE3LC00Mz
-U3NzIxMTcsNTcxMzA4NDk3LDE4NjY3NjEwOTMsLTE0ODI5ODM5
-MzNdfQ==
+eyJoaXN0b3J5IjpbLTgyMTM5NDQyOCw4NjEyOTE3MjUsNTg3Nj
+czNTg4LC0xMjIyODA4NTAzLC0zNDkxNDkzNCwtMjc3ODQ0ODQ5
+LDE1Njk5ODcxMjEsMzY0MjQwMjcsMTMxNzY1NTE0NSwtOTg0ND
+cyNjkxLC0xNTM3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYx
+MSwtMTQ1NTg3NTQxNSwtOTg3OTgyNTcxLDEwODk2MTUyNyw2MD
+g4OTkwMTcsLTQzNTc3MjExNyw1NzEzMDg0OTcsMTg2Njc2MTA5
+M119
 -->
