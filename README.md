@@ -33,11 +33,11 @@ Coming ...
 (RUC，提出HaluEval 2.0，测试了一系列用于减轻幻觉的技术)
 - Less is More: Mitigating Multimodal Hallucination from an  EOS  Decision Perspective  [[pdf]](https://aclanthology.org/2024.acl-long.633/)  
 (RUC，减轻LVLM幻觉)
-Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.648/)  
+- Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.648/)  
 (HIT，发现LVLM的幻觉会越积累越多，减轻方法)
 - VisDiaHalBench: A Visual Dialogue Benchmark For Diagnosing Hallucination in Large Vision-Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.658/)  
 (SYU，measure LVLM的幻觉，提出数据集)
-
+- Analyzing  LLM  Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends  [[pdf]](https://aclanthology.org/2024.acl-long.677/)**
 
 
 
@@ -70,7 +70,7 @@ Investigating and Mitigating the Multimodal Hallucination Snowballing in Large V
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxNzE4MjQ5LDE0MDMwNDM1MzMsMTI3ND
+eyJoaXN0b3J5IjpbMTUzODQ5OTgwLDE0MDMwNDM1MzMsMTI3ND
 I5OTQyOCwtMzM1MTA4NTUxLC0zNzE4NjAyMzQsODYxMjkxNzI1
 LDU4NzY3MzU4OCwtMTIyMjgwODUwMywtMzQ5MTQ5MzQsLTI3Nz
 g0NDg0OSwxNTY5OTg3MTIxLDM2NDI0MDI3LDEzMTc2NTUxNDUs
