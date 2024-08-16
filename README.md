@@ -27,7 +27,8 @@ Coming ...
 (CAS，减轻幻觉，通过对特征进行映射，编辑等)
 - InterrogateLLM: Zero-Resource Hallucination Detection in  LLM-Generated Answers [[pdf]](https://aclanthology.org/2024.acl-long.506/)  
 (Microsoft，Detecting 幻觉 in LLMs)
-
+- RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models [[pdf]](https://aclanthology.org/2024.acl-long.585/)  
+()
 
 
 
@@ -59,11 +60,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTg2MDIzNCw4NjEyOTE3MjUsNTg3Nj
-czNTg4LC0xMjIyODA4NTAzLC0zNDkxNDkzNCwtMjc3ODQ0ODQ5
-LDE1Njk5ODcxMjEsMzY0MjQwMjcsMTMxNzY1NTE0NSwtOTg0ND
-cyNjkxLC0xNTM3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYx
-MSwtMTQ1NTg3NTQxNSwtOTg3OTgyNTcxLDEwODk2MTUyNyw2MD
-g4OTkwMTcsLTQzNTc3MjExNyw1NzEzMDg0OTcsMTg2Njc2MTA5
-M119
+eyJoaXN0b3J5IjpbMTU4NTMzMjQxMSwtMzcxODYwMjM0LDg2MT
+I5MTcyNSw1ODc2NzM1ODgsLTEyMjI4MDg1MDMsLTM0OTE0OTM0
+LC0yNzc4NDQ4NDksMTU2OTk4NzEyMSwzNjQyNDAyNywxMzE3Nj
+U1MTQ1LC05ODQ0NzI2OTEsLTE1Mzc5ODAxMTIsMTQ4OTg1ODgw
+MiwxODE5Mjk0NjExLC0xNDU1ODc1NDE1LC05ODc5ODI1NzEsMT
+A4OTYxNTI3LDYwODg5OTAxNywtNDM1NzcyMTE3LDU3MTMwODQ5
+N119
 -->
