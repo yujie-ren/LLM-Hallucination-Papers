@@ -16,6 +16,7 @@ Coming ...
 
 ###  ACL 2024
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)
+()
 
 
 
@@ -48,11 +49,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTY0MTQzMSwzNjQyNDAyNywxMzE3Nj
-U1MTQ1LC05ODQ0NzI2OTEsLTE1Mzc5ODAxMTIsMTQ4OTg1ODgw
-MiwxODE5Mjk0NjExLC0xNDU1ODc1NDE1LC05ODc5ODI1NzEsMT
-A4OTYxNTI3LDYwODg5OTAxNywtNDM1NzcyMTE3LDU3MTMwODQ5
-NywxODY2NzYxMDkzLC0xNDgyOTgzOTMzLDI4NTMyNTgzMCwtOD
-kzOTA5MjEyLDM0MzE4MjExNiwtMTA0MDQ2MzcwOCwtMTA0MDQ2
-MzcwOF19
+eyJoaXN0b3J5IjpbNDMwNDc0NTU2LDM2NDI0MDI3LDEzMTc2NT
+UxNDUsLTk4NDQ3MjY5MSwtMTUzNzk4MDExMiwxNDg5ODU4ODAy
+LDE4MTkyOTQ2MTEsLTE0NTU4NzU0MTUsLTk4Nzk4MjU3MSwxMD
+g5NjE1MjcsNjA4ODk5MDE3LC00MzU3NzIxMTcsNTcxMzA4NDk3
+LDE4NjY3NjEwOTMsLTE0ODI5ODM5MzMsMjg1MzI1ODMwLC04OT
+M5MDkyMTIsMzQzMTgyMTE2LC0xMDQwNDYzNzA4LC0xMDQwNDYz
+NzA4XX0=
 -->
