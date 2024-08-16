@@ -25,7 +25,8 @@ Coming ...
 (Measure LLM幻觉，提出数据集)
 - TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space [[pdf]](https://aclanthology.org/2024.acl-long.483/)  
 (减轻幻觉，通过对特征进行映射，编辑等)
-
+- InterrogateLLM: Zero-Resource Hallucination Detection in  LLM-Generated Answers [[pdf]](https://aclanthology.org/2024.acl-long.506/)
+()
 
 ### NAACL 2024
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)
@@ -55,7 +56,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIwNjc3MTcsNTg3NjczNTg4LC0xMj
+eyJoaXN0b3J5IjpbLTEyMDE2ODAxMTksNTg3NjczNTg4LC0xMj
 IyODA4NTAzLC0zNDkxNDkzNCwtMjc3ODQ0ODQ5LDE1Njk5ODcx
 MjEsMzY0MjQwMjcsMTMxNzY1NTE0NSwtOTg0NDcyNjkxLC0xNT
 M3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYxMSwtMTQ1NTg3
