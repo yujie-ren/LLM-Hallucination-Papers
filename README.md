@@ -31,7 +31,8 @@ Coming ...
 (UIUC，measure 幻觉 in RAG-based LLM)
 - The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.586/)  
 (RUC，提出HaluEval 2.0，测试了一系列用于减轻幻觉的技术)
-
+- Less is More: Mitigating Multimodal Hallucination from an  EOS  Decision Perspective  [[pdf]](https://aclanthology.org/2024.acl-long.633/)  
+()
 
 
 
@@ -64,11 +65,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQzNzkzOTksLTMzNTEwODU1MSwtMz
-cxODYwMjM0LDg2MTI5MTcyNSw1ODc2NzM1ODgsLTEyMjI4MDg1
-MDMsLTM0OTE0OTM0LC0yNzc4NDQ4NDksMTU2OTk4NzEyMSwzNj
-QyNDAyNywxMzE3NjU1MTQ1LC05ODQ0NzI2OTEsLTE1Mzc5ODAx
-MTIsMTQ4OTg1ODgwMiwxODE5Mjk0NjExLC0xNDU1ODc1NDE1LC
-05ODc5ODI1NzEsMTA4OTYxNTI3LDYwODg5OTAxNywtNDM1Nzcy
-MTE3XX0=
+eyJoaXN0b3J5IjpbLTE4MDc1MzI1NywtMzM1MTA4NTUxLC0zNz
+E4NjAyMzQsODYxMjkxNzI1LDU4NzY3MzU4OCwtMTIyMjgwODUw
+MywtMzQ5MTQ5MzQsLTI3Nzg0NDg0OSwxNTY5OTg3MTIxLDM2ND
+I0MDI3LDEzMTc2NTUxNDUsLTk4NDQ3MjY5MSwtMTUzNzk4MDEx
+MiwxNDg5ODU4ODAyLDE4MTkyOTQ2MTEsLTE0NTU4NzU0MTUsLT
+k4Nzk4MjU3MSwxMDg5NjE1MjcsNjA4ODk5MDE3LC00MzU3NzIx
+MTddfQ==
 -->
