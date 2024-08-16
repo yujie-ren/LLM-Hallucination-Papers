@@ -39,6 +39,9 @@ Investigating and Mitigating the Multimodal Hallucination Snowballing in Large V
 (SYU，measure LVLM的幻觉，提出数据集)
 
 
+
+
+
 ### NAACL 2024
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)
 - On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)
@@ -67,11 +70,11 @@ Investigating and Mitigating the Multimodal Hallucination Snowballing in Large V
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA5MjA4NDUsMTQwMzA0MzUzMywxMj
-c0Mjk5NDI4LC0zMzUxMDg1NTEsLTM3MTg2MDIzNCw4NjEyOTE3
-MjUsNTg3NjczNTg4LC0xMjIyODA4NTAzLC0zNDkxNDkzNCwtMj
-c3ODQ0ODQ5LDE1Njk5ODcxMjEsMzY0MjQwMjcsMTMxNzY1NTE0
-NSwtOTg0NDcyNjkxLC0xNTM3OTgwMTEyLDE0ODk4NTg4MDIsMT
-gxOTI5NDYxMSwtMTQ1NTg3NTQxNSwtOTg3OTgyNTcxLDEwODk2
-MTUyN119
+eyJoaXN0b3J5IjpbNzYxNzE4MjQ5LDE0MDMwNDM1MzMsMTI3ND
+I5OTQyOCwtMzM1MTA4NTUxLC0zNzE4NjAyMzQsODYxMjkxNzI1
+LDU4NzY3MzU4OCwtMTIyMjgwODUwMywtMzQ5MTQ5MzQsLTI3Nz
+g0NDg0OSwxNTY5OTg3MTIxLDM2NDI0MDI3LDEzMTc2NTUxNDUs
+LTk4NDQ3MjY5MSwtMTUzNzk4MDExMiwxNDg5ODU4ODAyLDE4MT
+kyOTQ2MTEsLTE0NTU4NzU0MTUsLTk4Nzk4MjU3MSwxMDg5NjE1
+MjddfQ==
 -->
