@@ -29,7 +29,8 @@ Coming ...
 (Microsoft，Detecting 幻觉 in LLMs)
 - RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models [[pdf]](https://aclanthology.org/2024.acl-long.585/)  
 (UIUC，measure 幻觉 in RAG-based LLM)
-- The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.586/)
+- The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.586/)  
+()
 
 
 ### NAACL 2024
@@ -60,11 +61,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzNzM1MDMsLTMzNTEwODU1MSwtMzcxOD
-YwMjM0LDg2MTI5MTcyNSw1ODc2NzM1ODgsLTEyMjI4MDg1MDMs
-LTM0OTE0OTM0LC0yNzc4NDQ4NDksMTU2OTk4NzEyMSwzNjQyND
-AyNywxMzE3NjU1MTQ1LC05ODQ0NzI2OTEsLTE1Mzc5ODAxMTIs
-MTQ4OTg1ODgwMiwxODE5Mjk0NjExLC0xNDU1ODc1NDE1LC05OD
-c5ODI1NzEsMTA4OTYxNTI3LDYwODg5OTAxNywtNDM1NzcyMTE3
-XX0=
+eyJoaXN0b3J5IjpbMjU3NTM0OTk0LC0zMzUxMDg1NTEsLTM3MT
+g2MDIzNCw4NjEyOTE3MjUsNTg3NjczNTg4LC0xMjIyODA4NTAz
+LC0zNDkxNDkzNCwtMjc3ODQ0ODQ5LDE1Njk5ODcxMjEsMzY0Mj
+QwMjcsMTMxNzY1NTE0NSwtOTg0NDcyNjkxLC0xNTM3OTgwMTEy
+LDE0ODk4NTg4MDIsMTgxOTI5NDYxMSwtMTQ1NTg3NTQxNSwtOT
+g3OTgyNTcxLDEwODk2MTUyNyw2MDg4OTkwMTcsLTQzNTc3MjEx
+N119
 -->
