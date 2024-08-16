@@ -19,7 +19,8 @@ Coming ...
 (减轻模型幻觉，使用了TruthfulQA数据集)
 - Unified Hallucination Detection for Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.178/)  
 (多模态大模型幻觉Detection，提出数据集)
-
+- UHGEval: Benchmarking the Hallucination of  Chinese Large Language Models via Unconstrained Generation [[pdf]](https://aclanthology.org/2024.acl-long.288/)  
+()
 
 
 
@@ -52,11 +53,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTUzNTc3NywtMjc3ODQ0ODQ5LDE1Nj
-k5ODcxMjEsMzY0MjQwMjcsMTMxNzY1NTE0NSwtOTg0NDcyNjkx
-LC0xNTM3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYxMSwtMT
-Q1NTg3NTQxNSwtOTg3OTgyNTcxLDEwODk2MTUyNyw2MDg4OTkw
-MTcsLTQzNTc3MjExNyw1NzEzMDg0OTcsMTg2Njc2MTA5MywtMT
-Q4Mjk4MzkzMywyODUzMjU4MzAsLTg5MzkwOTIxMiwzNDMxODIx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTM0OTE0OTM0LC0yNzc4NDQ4NDksMTU2OT
+k4NzEyMSwzNjQyNDAyNywxMzE3NjU1MTQ1LC05ODQ0NzI2OTEs
+LTE1Mzc5ODAxMTIsMTQ4OTg1ODgwMiwxODE5Mjk0NjExLC0xND
+U1ODc1NDE1LC05ODc5ODI1NzEsMTA4OTYxNTI3LDYwODg5OTAx
+NywtNDM1NzcyMTE3LDU3MTMwODQ5NywxODY2NzYxMDkzLC0xND
+gyOTgzOTMzLDI4NTMyNTgzMCwtODkzOTA5MjEyLDM0MzE4MjEx
+Nl19
 -->
