@@ -38,7 +38,7 @@ Coming ...
 - VisDiaHalBench: A Visual Dialogue Benchmark For Diagnosing Hallucination in Large Vision-Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.658/)  
 (SYU，measure LVLM的幻觉，提出数据集)
 - Analyzing  LLM  Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends  [[pdf]](https://aclanthology.org/2024.acl-long.677/)  
-(Northeastern University，)
+(Northeastern University，measure LLM幻觉，提出数据集)
 
 
 
@@ -71,11 +71,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTI4MzQwNiwxNDAzMDQzNTMzLDEyNz
-QyOTk0MjgsLTMzNTEwODU1MSwtMzcxODYwMjM0LDg2MTI5MTcy
-NSw1ODc2NzM1ODgsLTEyMjI4MDg1MDMsLTM0OTE0OTM0LC0yNz
-c4NDQ4NDksMTU2OTk4NzEyMSwzNjQyNDAyNywxMzE3NjU1MTQ1
-LC05ODQ0NzI2OTEsLTE1Mzc5ODAxMTIsMTQ4OTg1ODgwMiwxOD
-E5Mjk0NjExLC0xNDU1ODc1NDE1LC05ODc5ODI1NzEsMTA4OTYx
-NTI3XX0=
+eyJoaXN0b3J5IjpbMTc3NzQ5ODMwOSwtNzgxMjgzNDA2LDE0MD
+MwNDM1MzMsMTI3NDI5OTQyOCwtMzM1MTA4NTUxLC0zNzE4NjAy
+MzQsODYxMjkxNzI1LDU4NzY3MzU4OCwtMTIyMjgwODUwMywtMz
+Q5MTQ5MzQsLTI3Nzg0NDg0OSwxNTY5OTg3MTIxLDM2NDI0MDI3
+LDEzMTc2NTUxNDUsLTk4NDQ3MjY5MSwtMTUzNzk4MDExMiwxND
+g5ODU4ODAyLDE4MTkyOTQ2MTEsLTE0NTU4NzU0MTUsLTk4Nzk4
+MjU3MV19
 -->
