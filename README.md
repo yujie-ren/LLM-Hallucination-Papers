@@ -51,7 +51,8 @@ Coming ...
 (Bar Ilan University，减轻LVLM幻觉)
 - Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models [[pdf]](https://aclanthology.org/2024.findings-acl.414/)  
 (CAS，检测并减轻LVLM幻觉)
-**[Visual Hallucinations of Multi-modal Large Language Models [[pdf]](https://aclanthology.org/2024.findings-acl.573/)**
+- Visual Hallucinations of Multi-modal Large Language Models [[pdf]](https://aclanthology.org/2024.findings-acl.573/)  
+()
 
 
 
@@ -84,11 +85,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTY1MDM2MSwtNzEwNDAzMTQ4LDE5OT
-k0OTc4OTMsLTE3OTg1NjMwMjksLTY2NzI2MTEyMiw4ODg1NjEw
-OTQsLTE4MTUzNTQxMTQsLTk4MjIxNzkwMSwxNzkxMTY2OTMwLC
-00MzE0ODEzNDMsNzgwNTA0MTExLDE3Nzc0OTgzMDksLTc4MTI4
-MzQwNiwxNDAzMDQzNTMzLDEyNzQyOTk0MjgsLTMzNTEwODU1MS
-wtMzcxODYwMjM0LDg2MTI5MTcyNSw1ODc2NzM1ODgsLTEyMjI4
-MDg1MDNdfQ==
+eyJoaXN0b3J5IjpbLTE4NTY2ODg1NDAsLTcxMDQwMzE0OCwxOT
+k5NDk3ODkzLC0xNzk4NTYzMDI5LC02NjcyNjExMjIsODg4NTYx
+MDk0LC0xODE1MzU0MTE0LC05ODIyMTc5MDEsMTc5MTE2NjkzMC
+wtNDMxNDgxMzQzLDc4MDUwNDExMSwxNzc3NDk4MzA5LC03ODEy
+ODM0MDYsMTQwMzA0MzUzMywxMjc0Mjk5NDI4LC0zMzUxMDg1NT
+EsLTM3MTg2MDIzNCw4NjEyOTE3MjUsNTg3NjczNTg4LC0xMjIy
+ODA4NTAzXX0=
 -->
