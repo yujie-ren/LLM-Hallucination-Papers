@@ -46,7 +46,8 @@ Coming ...
 - Chain-of-Verification Reduces Hallucination in Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-acl.212/)  
 (Meta AI，减轻LLM幻觉，让模型自己纠错)
 - Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL  Generation [[pdf]](https://aclanthology.org/2024.findings-acl.324/)  
-(HKU，)
+(HKU，减轻幻觉，Text-to-SQL生成)
+
 
 
 
@@ -79,11 +80,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2ODA0ODY0LDg4ODU2MTA5NCwtMTgxNT
-M1NDExNCwtOTgyMjE3OTAxLDE3OTExNjY5MzAsLTQzMTQ4MTM0
-Myw3ODA1MDQxMTEsMTc3NzQ5ODMwOSwtNzgxMjgzNDA2LDE0MD
-MwNDM1MzMsMTI3NDI5OTQyOCwtMzM1MTA4NTUxLC0zNzE4NjAy
-MzQsODYxMjkxNzI1LDU4NzY3MzU4OCwtMTIyMjgwODUwMywtMz
-Q5MTQ5MzQsLTI3Nzg0NDg0OSwxNTY5OTg3MTIxLDM2NDI0MDI3
-XX0=
+eyJoaXN0b3J5IjpbLTEwMTI0MDQyMDEsODg4NTYxMDk0LC0xOD
+E1MzU0MTE0LC05ODIyMTc5MDEsMTc5MTE2NjkzMCwtNDMxNDgx
+MzQzLDc4MDUwNDExMSwxNzc3NDk4MzA5LC03ODEyODM0MDYsMT
+QwMzA0MzUzMywxMjc0Mjk5NDI4LC0zMzUxMDg1NTEsLTM3MTg2
+MDIzNCw4NjEyOTE3MjUsNTg3NjczNTg4LC0xMjIyODA4NTAzLC
+0zNDkxNDkzNCwtMjc3ODQ0ODQ5LDE1Njk5ODcxMjEsMzY0MjQw
+MjddfQ==
 -->
