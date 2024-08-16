@@ -42,7 +42,7 @@ Coming ...
 - Confabulation: The Surprising Value of Large Language Model Hallucinations  [[pdf]](https://aclanthology.org/2024.acl-long.770/)  
 (McGill，LLM幻觉的潜在价值)
 - TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-acl.197/)  
-(Seoul National U，LLM agent和Hallucination结合，)
+(Seoul National U，LLM agent和Hallucination结合，提出benchmark衡量)
 
 
 
@@ -74,7 +74,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NzcwMTQyLC05ODIyMTc5MDEsMTc5MT
+eyJoaXN0b3J5IjpbLTc1OTQxNzkzLC05ODIyMTc5MDEsMTc5MT
 E2NjkzMCwtNDMxNDgxMzQzLDc4MDUwNDExMSwxNzc3NDk4MzA5
 LC03ODEyODM0MDYsMTQwMzA0MzUzMywxMjc0Mjk5NDI4LC0zMz
 UxMDg1NTEsLTM3MTg2MDIzNCw4NjEyOTE3MjUsNTg3NjczNTg4
