@@ -41,7 +41,7 @@ Coming ...
 (Northeastern University，measure LLM幻觉，提出数据集)
 - Confabulation: The Surprising Value of Large Language Model Hallucinations  [[pdf]](https://aclanthology.org/2024.acl-long.770/)  
 (McGill，LLM幻觉的潜在价值)
-
+**[Better Late Than Never: Model-Agnostic Hallucination Post-Processing Framework Towards Clinical Text Summarization](https://aclanthology.org/2024.findings-acl.59/)**
 
 
 ### NAACL 2024
@@ -72,11 +72,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTQ4MTM0Myw3ODA1MDQxMTEsMTc3Nz
-Q5ODMwOSwtNzgxMjgzNDA2LDE0MDMwNDM1MzMsMTI3NDI5OTQy
-OCwtMzM1MTA4NTUxLC0zNzE4NjAyMzQsODYxMjkxNzI1LDU4Nz
-Y3MzU4OCwtMTIyMjgwODUwMywtMzQ5MTQ5MzQsLTI3Nzg0NDg0
-OSwxNTY5OTg3MTIxLDM2NDI0MDI3LDEzMTc2NTUxNDUsLTk4ND
-Q3MjY5MSwtMTUzNzk4MDExMiwxNDg5ODU4ODAyLDE4MTkyOTQ2
-MTFdfQ==
+eyJoaXN0b3J5IjpbMTc5MTE2NjkzMCwtNDMxNDgxMzQzLDc4MD
+UwNDExMSwxNzc3NDk4MzA5LC03ODEyODM0MDYsMTQwMzA0MzUz
+MywxMjc0Mjk5NDI4LC0zMzUxMDg1NTEsLTM3MTg2MDIzNCw4Nj
+EyOTE3MjUsNTg3NjczNTg4LC0xMjIyODA4NTAzLC0zNDkxNDkz
+NCwtMjc3ODQ0ODQ5LDE1Njk5ODcxMjEsMzY0MjQwMjcsMTMxNz
+Y1NTE0NSwtOTg0NDcyNjkxLC0xNTM3OTgwMTEyLDE0ODk4NTg4
+MDJdfQ==
 -->
