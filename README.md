@@ -34,7 +34,7 @@ Coming ...
 - Less is More: Mitigating Multimodal Hallucination from an  EOS  Decision Perspective  [[pdf]](https://aclanthology.org/2024.acl-long.633/)  
 (RUC，减轻LVLM幻觉)
 Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.648/)  
-()
+(HIT，发现LVLM的幻觉会越积累越多，减轻方法)
 
 
 
@@ -66,11 +66,11 @@ Investigating and Mitigating the Multimodal Hallucination Snowballing in Large V
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDI5OTQyOCwtMzM1MTA4NTUxLC0zNz
-E4NjAyMzQsODYxMjkxNzI1LDU4NzY3MzU4OCwtMTIyMjgwODUw
-MywtMzQ5MTQ5MzQsLTI3Nzg0NDg0OSwxNTY5OTg3MTIxLDM2ND
-I0MDI3LDEzMTc2NTUxNDUsLTk4NDQ3MjY5MSwtMTUzNzk4MDEx
-MiwxNDg5ODU4ODAyLDE4MTkyOTQ2MTEsLTE0NTU4NzU0MTUsLT
-k4Nzk4MjU3MSwxMDg5NjE1MjcsNjA4ODk5MDE3LC00MzU3NzIx
+eyJoaXN0b3J5IjpbMTk5Nzk0NjU1OSwxMjc0Mjk5NDI4LC0zMz
+UxMDg1NTEsLTM3MTg2MDIzNCw4NjEyOTE3MjUsNTg3NjczNTg4
+LC0xMjIyODA4NTAzLC0zNDkxNDkzNCwtMjc3ODQ0ODQ5LDE1Nj
+k5ODcxMjEsMzY0MjQwMjcsMTMxNzY1NTE0NSwtOTg0NDcyNjkx
+LC0xNTM3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYxMSwtMT
+Q1NTg3NTQxNSwtOTg3OTgyNTcxLDEwODk2MTUyNyw2MDg4OTkw
 MTddfQ==
 -->
