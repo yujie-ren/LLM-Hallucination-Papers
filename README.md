@@ -57,7 +57,7 @@ Coming ...
 (UNC Chapel Hill，检测摘要任务中的幻觉)
 - Truth-Aware Context Selection: Mitigating Hallucinations of Large Language Models Being Misled by Untruthful Contexts [[pdf]](https://aclanthology.org/2024.findings-acl.645/)  
 (CAS，减轻幻觉，识别输入中的虚假信息)
-
+**[Enhancing Hallucination Detection through Perturbation-Based Synthetic Data Generation in System Responses](https://aclanthology.org/2024.findings-acl.789/)**
 
 
 
@@ -93,11 +93,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTQ2MDM3NywtNzEwNDAzMTQ4LDE5OT
-k0OTc4OTMsLTE3OTg1NjMwMjksLTY2NzI2MTEyMiw4ODg1NjEw
-OTQsLTE4MTUzNTQxMTQsLTk4MjIxNzkwMSwxNzkxMTY2OTMwLC
-00MzE0ODEzNDMsNzgwNTA0MTExLDE3Nzc0OTgzMDksLTc4MTI4
-MzQwNiwxNDAzMDQzNTMzLDEyNzQyOTk0MjgsLTMzNTEwODU1MS
-wtMzcxODYwMjM0LDg2MTI5MTcyNSw1ODc2NzM1ODgsLTEyMjI4
-MDg1MDNdfQ==
+eyJoaXN0b3J5IjpbLTg2MTE3NTYxNSwtMzg5NDYwMzc3LC03MT
+A0MDMxNDgsMTk5OTQ5Nzg5MywtMTc5ODU2MzAyOSwtNjY3MjYx
+MTIyLDg4ODU2MTA5NCwtMTgxNTM1NDExNCwtOTgyMjE3OTAxLD
+E3OTExNjY5MzAsLTQzMTQ4MTM0Myw3ODA1MDQxMTEsMTc3NzQ5
+ODMwOSwtNzgxMjgzNDA2LDE0MDMwNDM1MzMsMTI3NDI5OTQyOC
+wtMzM1MTA4NTUxLC0zNzE4NjAyMzQsODYxMjkxNzI1LDU4NzY3
+MzU4OF19
 -->
