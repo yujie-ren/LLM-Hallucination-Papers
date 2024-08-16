@@ -40,7 +40,7 @@ Coming ...
 - Analyzing  LLM  Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends  [[pdf]](https://aclanthology.org/2024.acl-long.677/)  
 (Northeastern University，measure LLM幻觉，提出数据集)
 - Confabulation: The Surprising Value of Large Language Model Hallucinations  [[pdf]](https://aclanthology.org/2024.acl-long.770/)  
-(McGill，幻觉的潜在jia zi)
+(McGill，LLM幻觉的潜在价值)
 
 
 
@@ -72,11 +72,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNzkwMjYwLDc4MDUwNDExMSwxNzc3ND
-k4MzA5LC03ODEyODM0MDYsMTQwMzA0MzUzMywxMjc0Mjk5NDI4
-LC0zMzUxMDg1NTEsLTM3MTg2MDIzNCw4NjEyOTE3MjUsNTg3Nj
-czNTg4LC0xMjIyODA4NTAzLC0zNDkxNDkzNCwtMjc3ODQ0ODQ5
-LDE1Njk5ODcxMjEsMzY0MjQwMjcsMTMxNzY1NTE0NSwtOTg0ND
-cyNjkxLC0xNTM3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYx
-MV19
+eyJoaXN0b3J5IjpbLTQzMTQ4MTM0Myw3ODA1MDQxMTEsMTc3Nz
+Q5ODMwOSwtNzgxMjgzNDA2LDE0MDMwNDM1MzMsMTI3NDI5OTQy
+OCwtMzM1MTA4NTUxLC0zNzE4NjAyMzQsODYxMjkxNzI1LDU4Nz
+Y3MzU4OCwtMTIyMjgwODUwMywtMzQ5MTQ5MzQsLTI3Nzg0NDg0
+OSwxNTY5OTg3MTIxLDM2NDI0MDI3LDEzMTc2NTUxNDUsLTk4ND
+Q3MjY5MSwtMTUzNzk4MDExMiwxNDg5ODU4ODAyLDE4MTkyOTQ2
+MTFdfQ==
 -->
