@@ -48,7 +48,8 @@ Coming ...
 - Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL  Generation [[pdf]](https://aclanthology.org/2024.findings-acl.324/)  
 (HKU，减轻幻觉，Text-to-SQL生成)
 - Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)  [[pdf]](https://aclanthology.org/2024.findings-acl.359/)  
-(Bar Ilan University，)
+(Bar Ilan University，减轻LVLM幻觉)
+
 
 
 
@@ -81,11 +82,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzI2MTEyMiw4ODg1NjEwOTQsLTE4MT
-UzNTQxMTQsLTk4MjIxNzkwMSwxNzkxMTY2OTMwLC00MzE0ODEz
-NDMsNzgwNTA0MTExLDE3Nzc0OTgzMDksLTc4MTI4MzQwNiwxND
-AzMDQzNTMzLDEyNzQyOTk0MjgsLTMzNTEwODU1MSwtMzcxODYw
-MjM0LDg2MTI5MTcyNSw1ODc2NzM1ODgsLTEyMjI4MDg1MDMsLT
-M0OTE0OTM0LC0yNzc4NDQ4NDksMTU2OTk4NzEyMSwzNjQyNDAy
-N119
+eyJoaXN0b3J5IjpbLTE3OTg1NjMwMjksLTY2NzI2MTEyMiw4OD
+g1NjEwOTQsLTE4MTUzNTQxMTQsLTk4MjIxNzkwMSwxNzkxMTY2
+OTMwLC00MzE0ODEzNDMsNzgwNTA0MTExLDE3Nzc0OTgzMDksLT
+c4MTI4MzQwNiwxNDAzMDQzNTMzLDEyNzQyOTk0MjgsLTMzNTEw
+ODU1MSwtMzcxODYwMjM0LDg2MTI5MTcyNSw1ODc2NzM1ODgsLT
+EyMjI4MDg1MDMsLTM0OTE0OTM0LC0yNzc4NDQ4NDksMTU2OTk4
+NzEyMV19
 -->
