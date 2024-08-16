@@ -36,7 +36,7 @@ Coming ...
 Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.648/)  
 (HIT，发现LVLM的幻觉会越积累越多，减轻方法)
 - VisDiaHalBench: A Visual Dialogue Benchmark For Diagnosing Hallucination in Large Vision-Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.658/)  
-(SYU，)
+(SYU，measure L)
 
 
 ### NAACL 2024
@@ -67,11 +67,11 @@ Investigating and Mitigating the Multimodal Hallucination Snowballing in Large V
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY4NDY0MTYsMTQwMzA0MzUzMywxMj
-c0Mjk5NDI4LC0zMzUxMDg1NTEsLTM3MTg2MDIzNCw4NjEyOTE3
-MjUsNTg3NjczNTg4LC0xMjIyODA4NTAzLC0zNDkxNDkzNCwtMj
-c3ODQ0ODQ5LDE1Njk5ODcxMjEsMzY0MjQwMjcsMTMxNzY1NTE0
-NSwtOTg0NDcyNjkxLC0xNTM3OTgwMTEyLDE0ODk4NTg4MDIsMT
-gxOTI5NDYxMSwtMTQ1NTg3NTQxNSwtOTg3OTgyNTcxLDEwODk2
-MTUyN119
+eyJoaXN0b3J5IjpbMTA1NDE3MzQ3MiwxNDAzMDQzNTMzLDEyNz
+QyOTk0MjgsLTMzNTEwODU1MSwtMzcxODYwMjM0LDg2MTI5MTcy
+NSw1ODc2NzM1ODgsLTEyMjI4MDg1MDMsLTM0OTE0OTM0LC0yNz
+c4NDQ4NDksMTU2OTk4NzEyMSwzNjQyNDAyNywxMzE3NjU1MTQ1
+LC05ODQ0NzI2OTEsLTE1Mzc5ODAxMTIsMTQ4OTg1ODgwMiwxOD
+E5Mjk0NjExLC0xNDU1ODc1NDE1LC05ODc5ODI1NzEsMTA4OTYx
+NTI3XX0=
 -->
