@@ -11,10 +11,15 @@
 
 ## Conference Papers
 
-###  ACL 2024
+###  ACLEMNLP 2024
 Coming ...
-### EMNLP 2024
+
+### EMNLP ACL 2024
 Coming ...
+
+
+
+
 ### NAACL 2024
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)
 - On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)
@@ -43,11 +48,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MjQwMjcsMTMxNzY1NTE0NSwtOTg0ND
-cyNjkxLC0xNTM3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYx
-MSwtMTQ1NTg3NTQxNSwtOTg3OTgyNTcxLDEwODk2MTUyNyw2MD
-g4OTkwMTcsLTQzNTc3MjExNyw1NzEzMDg0OTcsMTg2Njc2MTA5
-MywtMTQ4Mjk4MzkzMywyODUzMjU4MzAsLTg5MzkwOTIxMiwzND
-MxODIxMTYsLTEwNDA0NjM3MDgsLTEwNDA0NjM3MDgsNjUxNDA2
-NTldfQ==
+eyJoaXN0b3J5IjpbMTE1NzEwMjkwNSwzNjQyNDAyNywxMzE3Nj
+U1MTQ1LC05ODQ0NzI2OTEsLTE1Mzc5ODAxMTIsMTQ4OTg1ODgw
+MiwxODE5Mjk0NjExLC0xNDU1ODc1NDE1LC05ODc5ODI1NzEsMT
+A4OTYxNTI3LDYwODg5OTAxNywtNDM1NzcyMTE3LDU3MTMwODQ5
+NywxODY2NzYxMDkzLC0xNDgyOTgzOTMzLDI4NTMyNTgzMCwtOD
+kzOTA5MjEyLDM0MzE4MjExNiwtMTA0MDQ2MzcwOCwtMTA0MDQ2
+MzcwOF19
 -->
