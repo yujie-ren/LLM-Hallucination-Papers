@@ -26,7 +26,10 @@ Coming ...
 - TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space [[pdf]](https://aclanthology.org/2024.acl-long.483/)  
 (CAS，减轻幻觉，通过对特征进行映射，编辑等)
 - InterrogateLLM: Zero-Resource Hallucination Detection in  LLM-Generated Answers [[pdf]](https://aclanthology.org/2024.acl-long.506/)
-(Microsoft，Detecting Hallucinations in LLMs)
+(Microsoft，Detecting 幻觉 in LLMs)
+
+
+
 
 ### NAACL 2024
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)
@@ -56,11 +59,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTM5NDQyOCw4NjEyOTE3MjUsNTg3Nj
-czNTg4LC0xMjIyODA4NTAzLC0zNDkxNDkzNCwtMjc3ODQ0ODQ5
-LDE1Njk5ODcxMjEsMzY0MjQwMjcsMTMxNzY1NTE0NSwtOTg0ND
-cyNjkxLC0xNTM3OTgwMTEyLDE0ODk4NTg4MDIsMTgxOTI5NDYx
-MSwtMTQ1NTg3NTQxNSwtOTg3OTgyNTcxLDEwODk2MTUyNyw2MD
-g4OTkwMTcsLTQzNTc3MjExNyw1NzEzMDg0OTcsMTg2Njc2MTA5
-M119
+eyJoaXN0b3J5IjpbMjI0NjY2NDIyLDg2MTI5MTcyNSw1ODc2Nz
+M1ODgsLTEyMjI4MDg1MDMsLTM0OTE0OTM0LC0yNzc4NDQ4NDks
+MTU2OTk4NzEyMSwzNjQyNDAyNywxMzE3NjU1MTQ1LC05ODQ0Nz
+I2OTEsLTE1Mzc5ODAxMTIsMTQ4OTg1ODgwMiwxODE5Mjk0NjEx
+LC0xNDU1ODc1NDE1LC05ODc5ODI1NzEsMTA4OTYxNTI3LDYwOD
+g5OTAxNywtNDM1NzcyMTE3LDU3MTMwODQ5NywxODY2NzYxMDkz
+XX0=
 -->
