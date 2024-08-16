@@ -45,6 +45,9 @@ Coming ...
 (Seoul National U，LLM agent和Hallucination结合，提出benchmark衡量角色幻觉)
 - Chain-of-Verification Reduces Hallucination in Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-acl.212/)  
 (Meta AI，减轻LLM幻觉，让模型自己纠错)
+**[Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL  Generation](https://aclanthology.org/2024.findings-acl.324/)**
+
+
 
 
 ### NAACL 2024
@@ -75,11 +78,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4NTYxMDk0LC0xODE1MzU0MTE0LC05OD
-IyMTc5MDEsMTc5MTE2NjkzMCwtNDMxNDgxMzQzLDc4MDUwNDEx
-MSwxNzc3NDk4MzA5LC03ODEyODM0MDYsMTQwMzA0MzUzMywxMj
-c0Mjk5NDI4LC0zMzUxMDg1NTEsLTM3MTg2MDIzNCw4NjEyOTE3
-MjUsNTg3NjczNTg4LC0xMjIyODA4NTAzLC0zNDkxNDkzNCwtMj
-c3ODQ0ODQ5LDE1Njk5ODcxMjEsMzY0MjQwMjcsMTMxNzY1NTE0
-NV19
+eyJoaXN0b3J5IjpbMjEwMDAzNzY4NCw4ODg1NjEwOTQsLTE4MT
+UzNTQxMTQsLTk4MjIxNzkwMSwxNzkxMTY2OTMwLC00MzE0ODEz
+NDMsNzgwNTA0MTExLDE3Nzc0OTgzMDksLTc4MTI4MzQwNiwxND
+AzMDQzNTMzLDEyNzQyOTk0MjgsLTMzNTEwODU1MSwtMzcxODYw
+MjM0LDg2MTI5MTcyNSw1ODc2NzM1ODgsLTEyMjI4MDg1MDMsLT
+M0OTE0OTM0LC0yNzc4NDQ4NDksMTU2OTk4NzEyMSwzNjQyNDAy
+N119
 -->
