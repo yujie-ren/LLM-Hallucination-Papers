@@ -43,7 +43,8 @@ Coming ...
 (McGill，LLM幻觉的潜在价值)
 - TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-acl.197/)  
 (Seoul National U，LLM agent和Hallucination结合，提出benchmark衡量角色幻觉)
-
+- Chain-of-Verification Reduces Hallucination in Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-acl.212/)  
+()
 
 
 ### NAACL 2024
@@ -74,11 +75,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTExMzQ1NSwtOTgyMjE3OTAxLDE3OT
-ExNjY5MzAsLTQzMTQ4MTM0Myw3ODA1MDQxMTEsMTc3NzQ5ODMw
-OSwtNzgxMjgzNDA2LDE0MDMwNDM1MzMsMTI3NDI5OTQyOCwtMz
-M1MTA4NTUxLC0zNzE4NjAyMzQsODYxMjkxNzI1LDU4NzY3MzU4
-OCwtMTIyMjgwODUwMywtMzQ5MTQ5MzQsLTI3Nzg0NDg0OSwxNT
-Y5OTg3MTIxLDM2NDI0MDI3LDEzMTc2NTUxNDUsLTk4NDQ3MjY5
-MV19
+eyJoaXN0b3J5IjpbLTE4NjI1ODU5MTMsLTk4MjIxNzkwMSwxNz
+kxMTY2OTMwLC00MzE0ODEzNDMsNzgwNTA0MTExLDE3Nzc0OTgz
+MDksLTc4MTI4MzQwNiwxNDAzMDQzNTMzLDEyNzQyOTk0MjgsLT
+MzNTEwODU1MSwtMzcxODYwMjM0LDg2MTI5MTcyNSw1ODc2NzM1
+ODgsLTEyMjI4MDg1MDMsLTM0OTE0OTM0LC0yNzc4NDQ4NDksMT
+U2OTk4NzEyMSwzNjQyNDAyNywxMzE3NjU1MTQ1LC05ODQ0NzI2
+OTFdfQ==
 -->
