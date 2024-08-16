@@ -30,7 +30,7 @@ Coming ...
 - RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models [[pdf]](https://aclanthology.org/2024.acl-long.585/)  
 (UIUC，measure 幻觉 in RAG-based LLM)
 - The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models  [[pdf]](https://aclanthology.org/2024.acl-long.586/)  
-()
+(RUC，)
 
 
 ### NAACL 2024
@@ -61,7 +61,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NTM0OTk0LC0zMzUxMDg1NTEsLTM3MT
+eyJoaXN0b3J5IjpbMjA1NzEyNDg2LC0zMzUxMDg1NTEsLTM3MT
 g2MDIzNCw4NjEyOTE3MjUsNTg3NjczNTg4LC0xMjIyODA4NTAz
 LC0zNDkxNDkzNCwtMjc3ODQ0ODQ5LDE1Njk5ODcxMjEsMzY0Mj
 QwMjcsMTMxNzY1NTE0NSwtOTg0NDcyNjkxLC0xNTM3OTgwMTEy
