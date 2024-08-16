@@ -44,7 +44,7 @@ Coming ...
 - TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-acl.197/)  
 (Seoul National U，LLM agent和Hallucination结合，提出benchmark衡量角色幻觉)
 - Chain-of-Verification Reduces Hallucination in Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-acl.212/)  
-()
+(Meta AI，)
 
 
 ### NAACL 2024
@@ -75,7 +75,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI1ODU5MTMsLTk4MjIxNzkwMSwxNz
+eyJoaXN0b3J5IjpbLTE4MTUzNTQxMTQsLTk4MjIxNzkwMSwxNz
 kxMTY2OTMwLC00MzE0ODEzNDMsNzgwNTA0MTExLDE3Nzc0OTgz
 MDksLTc4MTI4MzQwNiwxNDAzMDQzNTMzLDEyNzQyOTk0MjgsLT
 MzNTEwODU1MSwtMzcxODYwMjM0LDg2MTI5MTcyNSw1ODc2NzM1
