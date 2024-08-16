@@ -49,7 +49,8 @@ Coming ...
 (HKU，减轻幻觉，Text-to-SQL生成)
 - Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)  [[pdf]](https://aclanthology.org/2024.findings-acl.359/)  
 (Bar Ilan University，减轻LVLM幻觉)
-**[Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models](https://aclanthology.org/2024.findings-acl.414/)**
+- Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models [[pdf]](https://aclanthology.org/2024.findings-acl.414/)  
+(CAS，)
 
 
 
@@ -82,11 +83,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTQ5Nzg5MywtMTc5ODU2MzAyOSwtNj
-Y3MjYxMTIyLDg4ODU2MTA5NCwtMTgxNTM1NDExNCwtOTgyMjE3
-OTAxLDE3OTExNjY5MzAsLTQzMTQ4MTM0Myw3ODA1MDQxMTEsMT
-c3NzQ5ODMwOSwtNzgxMjgzNDA2LDE0MDMwNDM1MzMsMTI3NDI5
-OTQyOCwtMzM1MTA4NTUxLC0zNzE4NjAyMzQsODYxMjkxNzI1LD
-U4NzY3MzU4OCwtMTIyMjgwODUwMywtMzQ5MTQ5MzQsLTI3Nzg0
-NDg0OV19
+eyJoaXN0b3J5IjpbLTcxMDQwMzE0OCwxOTk5NDk3ODkzLC0xNz
+k4NTYzMDI5LC02NjcyNjExMjIsODg4NTYxMDk0LC0xODE1MzU0
+MTE0LC05ODIyMTc5MDEsMTc5MTE2NjkzMCwtNDMxNDgxMzQzLD
+c4MDUwNDExMSwxNzc3NDk4MzA5LC03ODEyODM0MDYsMTQwMzA0
+MzUzMywxMjc0Mjk5NDI4LC0zMzUxMDg1NTEsLTM3MTg2MDIzNC
+w4NjEyOTE3MjUsNTg3NjczNTg4LC0xMjIyODA4NTAzLC0zNDkx
+NDkzNF19
 -->
