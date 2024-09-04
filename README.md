@@ -16,7 +16,7 @@ Coming ...
 
 ###  ACL 2024
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
-(CUHK，减轻模型幻觉，使用了TruthfulQA数据集)
+(CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
 - Unified Hallucination Detection for Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.178/)  
 (ZJU，多模态大模型幻觉Detection，提出数据集)
 - UHGEval: Benchmarking the Hallucination of  Chinese Large Language Models via Unconstrained Generation [[pdf]](https://aclanthology.org/2024.acl-long.288/)  
@@ -24,7 +24,7 @@ Coming ...
 - ANAH: Analytical Annotation of Hallucinations in Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.442/)  
 (HKUST，Measuring LLM幻觉，提出数据集)
 - TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space [[pdf]](https://aclanthology.org/2024.acl-long.483/)  
-(CAS，减轻幻觉，通过对特征进行映射，编辑等)
+(CAS，减轻幻觉，通过对特征进行映射，编辑等，使用了TruthfulQA)
 - InterrogateLLM: Zero-Resource Hallucination Detection in  LLM-Generated Answers [[pdf]](https://aclanthology.org/2024.acl-long.506/)  
 (Microsoft，Detecting 幻觉 in LLMs)
 - RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models [[pdf]](https://aclanthology.org/2024.acl-long.585/)  
@@ -94,11 +94,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTQxMjg2MSwtMzkxODA0MDQyLC02OT
-c5MjgxMTMsLTM4OTQ2MDM3NywtNzEwNDAzMTQ4LDE5OTk0OTc4
-OTMsLTE3OTg1NjMwMjksLTY2NzI2MTEyMiw4ODg1NjEwOTQsLT
-E4MTUzNTQxMTQsLTk4MjIxNzkwMSwxNzkxMTY2OTMwLC00MzE0
-ODEzNDMsNzgwNTA0MTExLDE3Nzc0OTgzMDksLTc4MTI4MzQwNi
-wxNDAzMDQzNTMzLDEyNzQyOTk0MjgsLTMzNTEwODU1MSwtMzcx
-ODYwMjM0XX0=
+eyJoaXN0b3J5IjpbLTI4NjczNzg0LDE1Mzk0MTI4NjEsLTM5MT
+gwNDA0MiwtNjk3OTI4MTEzLC0zODk0NjAzNzcsLTcxMDQwMzE0
+OCwxOTk5NDk3ODkzLC0xNzk4NTYzMDI5LC02NjcyNjExMjIsOD
+g4NTYxMDk0LC0xODE1MzU0MTE0LC05ODIyMTc5MDEsMTc5MTE2
+NjkzMCwtNDMxNDgxMzQzLDc4MDUwNDExMSwxNzc3NDk4MzA5LC
+03ODEyODM0MDYsMTQwMzA0MzUzMywxMjc0Mjk5NDI4LC0zMzUx
+MDg1NTFdfQ==
 -->
