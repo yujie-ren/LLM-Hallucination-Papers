@@ -82,7 +82,7 @@ Coming ...
 - Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)  
 (UC Davis，结合幻觉和reasoning，语义联想引起的幻觉)
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)  
-(SJTU，)
+(SJTU，减轻幻觉，)
 
 
 ### ACL 2023
@@ -104,11 +104,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY0NzI0NzEsNDY5MTYxOTU4LDEwNj
-k3NjkxNDQsLTE3MDgyNzkxOTMsMTU1NjUwMDQxMywtMTcwOTE3
-MDg3NCwtMTYwODYxMTQxMSwyMDAxMzEwMDcsMjEzMjcxMDE4My
-wxNjQyMTUxNDIyLC05MDE3ODk5NjYsNzA1NzczNDg0LC0yODY3
-Mzc4NCwxNTM5NDEyODYxLC0zOTE4MDQwNDIsLTY5NzkyODExMy
-wtMzg5NDYwMzc3LC03MTA0MDMxNDgsMTk5OTQ5Nzg5MywtMTc5
-ODU2MzAyOV19
+eyJoaXN0b3J5IjpbMjcxNTE2NTIzLC0xMzU2NDcyNDcxLDQ2OT
+E2MTk1OCwxMDY5NzY5MTQ0LC0xNzA4Mjc5MTkzLDE1NTY1MDA0
+MTMsLTE3MDkxNzA4NzQsLTE2MDg2MTE0MTEsMjAwMTMxMDA3LD
+IxMzI3MTAxODMsMTY0MjE1MTQyMiwtOTAxNzg5OTY2LDcwNTc3
+MzQ4NCwtMjg2NzM3ODQsMTUzOTQxMjg2MSwtMzkxODA0MDQyLC
+02OTc5MjgxMTMsLTM4OTQ2MDM3NywtNzEwNDAzMTQ4LDE5OTk0
+OTc4OTNdfQ==
 -->
