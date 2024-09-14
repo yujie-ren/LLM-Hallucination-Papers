@@ -19,7 +19,6 @@ Coming ...
 - Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)
 - PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
 
-#### Bias, Stereotype, Toxicity
 
 
 #### interest
@@ -117,7 +116,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDA0NjA2NCwtMTcyNjcyOTU0MywtND
+eyJoaXN0b3J5IjpbMTIyNjI2ODg1MCwtMTcyNjcyOTU0MywtND
 A5MTYzMTMyLC0xMTM2ODY1ODA4LDE5NTk4OTY1ODIsLTMwNDg4
 NDEwNiwtMTc0OTM5MjczNSwtMTc0OTM5MjczNSwtMTM1NjQ3Mj
 Q3MSw0NjkxNjE5NTgsMTA2OTc2OTE0NCwtMTcwODI3OTE5Mywx
