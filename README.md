@@ -74,7 +74,7 @@ Coming ...
 - Language Models Hallucinate, but May Excel at Fact Verification [[pdf]](https://aclanthology.org/2024.naacl-long.62/)  
 (THU，LLM as a Judge，与人的判断进行比较，像自己用GPT4衡量Truthfulqa )
 - Can Knowledge Graphs Reduce Hallucinations in  LLMs? : A Survey [[pdf]](https://aclanthology.org/2024.naacl-long.219/)  
-()
+(Arizona State University，)
 - TofuEval: Evaluating Hallucinations of  LLMs on Topic-Focused Dialogue Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.251/)
 - Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)
@@ -98,11 +98,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzE2MTU0MywtMTYwODYxMTQxMSwyMD
-AxMzEwMDcsMjEzMjcxMDE4MywxNjQyMTUxNDIyLC05MDE3ODk5
-NjYsNzA1NzczNDg0LC0yODY3Mzc4NCwxNTM5NDEyODYxLC0zOT
-E4MDQwNDIsLTY5NzkyODExMywtMzg5NDYwMzc3LC03MTA0MDMx
-NDgsMTk5OTQ5Nzg5MywtMTc5ODU2MzAyOSwtNjY3MjYxMTIyLD
-g4ODU2MTA5NCwtMTgxNTM1NDExNCwtOTgyMjE3OTAxLDE3OTEx
-NjY5MzBdfQ==
+eyJoaXN0b3J5IjpbLTE3MDkxNzA4NzQsLTE2MDg2MTE0MTEsMj
+AwMTMxMDA3LDIxMzI3MTAxODMsMTY0MjE1MTQyMiwtOTAxNzg5
+OTY2LDcwNTc3MzQ4NCwtMjg2NzM3ODQsMTUzOTQxMjg2MSwtMz
+kxODA0MDQyLC02OTc5MjgxMTMsLTM4OTQ2MDM3NywtNzEwNDAz
+MTQ4LDE5OTk0OTc4OTMsLTE3OTg1NjMwMjksLTY2NzI2MTEyMi
+w4ODg1NjEwOTQsLTE4MTUzNTQxMTQsLTk4MjIxNzkwMSwxNzkx
+MTY2OTMwXX0=
 -->
