@@ -19,7 +19,7 @@ Coming ...
 - Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)
 
 
-#### Bias, Stereotype, 
+#### Bias, Stereotype, Toxicity
 
 
 
@@ -113,7 +113,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTMwNDY1MywtMTEzNjg2NTgwOCwxOT
+eyJoaXN0b3J5IjpbLTQwOTE2MzEzMiwtMTEzNjg2NTgwOCwxOT
 U5ODk2NTgyLC0zMDQ4ODQxMDYsLTE3NDkzOTI3MzUsLTE3NDkz
 OTI3MzUsLTEzNTY0NzI0NzEsNDY5MTYxOTU4LDEwNjk3NjkxND
 QsLTE3MDgyNzkxOTMsMTU1NjUwMDQxMywtMTcwOTE3MDg3NCwt
