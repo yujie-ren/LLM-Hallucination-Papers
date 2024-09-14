@@ -71,7 +71,8 @@ Coming ...
 (KAIST AI，减轻LVLM幻觉，self-feedback)
 - On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)  
 (THU，从inference dynamics角度研究“LLM知道正确答案，依然出现幻觉的现象”，利用dynamics构建分类器检测幻觉)
-- Language Models Hallucinate, but May Excel at Fact Verification [[pdf]](https://aclanthology.org/2024.naacl-long.62/)
+- Language Models Hallucinate, but May Excel at Fact Verification [[pdf]](https://aclanthology.org/2024.naacl-long.62/)  
+(THU，)
 - Can Knowledge Graphs Reduce Hallucinations in  LLMs? : A Survey [[pdf]](https://aclanthology.org/2024.naacl-long.219/)
 - TofuEval: Evaluating Hallucinations of  LLMs on Topic-Focused Dialogue Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.251/)
 - Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)
@@ -96,11 +97,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjcxMDE4MywxNjQyMTUxNDIyLC05MD
-E3ODk5NjYsNzA1NzczNDg0LC0yODY3Mzc4NCwxNTM5NDEyODYx
-LC0zOTE4MDQwNDIsLTY5NzkyODExMywtMzg5NDYwMzc3LC03MT
-A0MDMxNDgsMTk5OTQ5Nzg5MywtMTc5ODU2MzAyOSwtNjY3MjYx
-MTIyLDg4ODU2MTA5NCwtMTgxNTM1NDExNCwtOTgyMjE3OTAxLD
-E3OTExNjY5MzAsLTQzMTQ4MTM0Myw3ODA1MDQxMTEsMTc3NzQ5
-ODMwOV19
+eyJoaXN0b3J5IjpbMjAwMTMxMDA3LDIxMzI3MTAxODMsMTY0Mj
+E1MTQyMiwtOTAxNzg5OTY2LDcwNTc3MzQ4NCwtMjg2NzM3ODQs
+MTUzOTQxMjg2MSwtMzkxODA0MDQyLC02OTc5MjgxMTMsLTM4OT
+Q2MDM3NywtNzEwNDAzMTQ4LDE5OTk0OTc4OTMsLTE3OTg1NjMw
+MjksLTY2NzI2MTEyMiw4ODg1NjEwOTQsLTE4MTUzNTQxMTQsLT
+k4MjIxNzkwMSwxNzkxMTY2OTMwLC00MzE0ODEzNDMsNzgwNTA0
+MTExXX0=
 -->
