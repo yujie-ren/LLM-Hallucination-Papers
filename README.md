@@ -79,7 +79,8 @@ Coming ...
 (Arizona State University，综述：利用知识图谱减轻幻觉)
 - TofuEval: Evaluating Hallucinations of  LLMs on Topic-Focused Dialogue Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.251/)  
 (AWS，提出benchmark，检测LLM在Topic-Focused Dialogue Summarization上的幻觉表现)
-- Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)
+- Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)  
+(UC Davis，)
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)
 
 ### ACL 2023
@@ -101,7 +102,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4MDMwNzEwLDEwNjk3NjkxNDQsLTE3MD
+eyJoaXN0b3J5IjpbNDY5MTYxOTU4LDEwNjk3NjkxNDQsLTE3MD
 gyNzkxOTMsMTU1NjUwMDQxMywtMTcwOTE3MDg3NCwtMTYwODYx
 MTQxMSwyMDAxMzEwMDcsMjEzMjcxMDE4MywxNjQyMTUxNDIyLC
 05MDE3ODk5NjYsNzA1NzczNDg0LC0yODY3Mzc4NCwxNTM5NDEy
