@@ -23,7 +23,6 @@ Coming ...
 - Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations [[pdf]](https://openreview.net/forum?id=c30qeMg8dv)
 - Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability [[pdf]](https://openreview.net/forum?id=Zt1dwG8xrK)
 
-
 #### Inspiring
 - MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs [[pdf]](https://openreview.net/forum?id=X9yV4lFHt4)
 
@@ -122,11 +121,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjMzNDcwMiw0OTE2NzY5NzYsLTMzNz
-k3MDg4OCwtMjA1MjY2NTE5NSwtMTQxMjQ2Mjc5NCw0NzE0MjEy
-NDcsLTE3MjY3Mjk1NDMsLTQwOTE2MzEzMiwtMTEzNjg2NTgwOC
-wxOTU5ODk2NTgyLC0zMDQ4ODQxMDYsLTE3NDkzOTI3MzUsLTE3
-NDkzOTI3MzUsLTEzNTY0NzI0NzEsNDY5MTYxOTU4LDEwNjk3Nj
-kxNDQsLTE3MDgyNzkxOTMsMTU1NjUwMDQxMywtMTcwOTE3MDg3
-NCwtMTYwODYxMTQxMV19
+eyJoaXN0b3J5IjpbMjI5MTU2MDk2LDE4NzIzMzQ3MDIsNDkxNj
+c2OTc2LC0zMzc5NzA4ODgsLTIwNTI2NjUxOTUsLTE0MTI0NjI3
+OTQsNDcxNDIxMjQ3LC0xNzI2NzI5NTQzLC00MDkxNjMxMzIsLT
+ExMzY4NjU4MDgsMTk1OTg5NjU4MiwtMzA0ODg0MTA2LC0xNzQ5
+MzkyNzM1LC0xNzQ5MzkyNzM1LC0xMzU2NDcyNDcxLDQ2OTE2MT
+k1OCwxMDY5NzY5MTQ0LC0xNzA4Mjc5MTkzLDE1NTY1MDA0MTMs
+LTE3MDkxNzA4NzRdfQ==
 -->
