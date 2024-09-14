@@ -80,7 +80,7 @@ Coming ...
 - TofuEval: Evaluating Hallucinations of  LLMs on Topic-Focused Dialogue Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.251/)  
 (AWS，提出benchmark，检测LLM在Topic-Focused Dialogue Summarization上的幻觉表现)
 - Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)  
-(UC Davis，)
+(UC Davis，结合幻觉和reasoning，语义联想引起的幻觉)
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)
 
 ### ACL 2023
@@ -102,11 +102,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MTYxOTU4LDEwNjk3NjkxNDQsLTE3MD
-gyNzkxOTMsMTU1NjUwMDQxMywtMTcwOTE3MDg3NCwtMTYwODYx
-MTQxMSwyMDAxMzEwMDcsMjEzMjcxMDE4MywxNjQyMTUxNDIyLC
-05MDE3ODk5NjYsNzA1NzczNDg0LC0yODY3Mzc4NCwxNTM5NDEy
-ODYxLC0zOTE4MDQwNDIsLTY5NzkyODExMywtMzg5NDYwMzc3LC
-03MTA0MDMxNDgsMTk5OTQ5Nzg5MywtMTc5ODU2MzAyOSwtNjY3
-MjYxMTIyXX0=
+eyJoaXN0b3J5IjpbMjA3ODQ1MDM0MCw0NjkxNjE5NTgsMTA2OT
+c2OTE0NCwtMTcwODI3OTE5MywxNTU2NTAwNDEzLC0xNzA5MTcw
+ODc0LC0xNjA4NjExNDExLDIwMDEzMTAwNywyMTMyNzEwMTgzLD
+E2NDIxNTE0MjIsLTkwMTc4OTk2Niw3MDU3NzM0ODQsLTI4Njcz
+Nzg0LDE1Mzk0MTI4NjEsLTM5MTgwNDA0MiwtNjk3OTI4MTEzLC
+0zODk0NjAzNzcsLTcxMDQwMzE0OCwxOTk5NDk3ODkzLC0xNzk4
+NTYzMDI5XX0=
 -->
