@@ -21,7 +21,7 @@ Coming ...
 
 
 
-#### interest
+#### Inspiring
 - How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
 
 
@@ -116,11 +116,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjI2ODg1MCwtMTcyNjcyOTU0MywtND
-A5MTYzMTMyLC0xMTM2ODY1ODA4LDE5NTk4OTY1ODIsLTMwNDg4
-NDEwNiwtMTc0OTM5MjczNSwtMTc0OTM5MjczNSwtMTM1NjQ3Mj
-Q3MSw0NjkxNjE5NTgsMTA2OTc2OTE0NCwtMTcwODI3OTE5Mywx
-NTU2NTAwNDEzLC0xNzA5MTcwODc0LC0xNjA4NjExNDExLDIwMD
-EzMTAwNywyMTMyNzEwMTgzLDE2NDIxNTE0MjIsLTkwMTc4OTk2
-Niw3MDU3NzM0ODRdfQ==
+eyJoaXN0b3J5IjpbNDcxNDIxMjQ3LC0xNzI2NzI5NTQzLC00MD
+kxNjMxMzIsLTExMzY4NjU4MDgsMTk1OTg5NjU4MiwtMzA0ODg0
+MTA2LC0xNzQ5MzkyNzM1LC0xNzQ5MzkyNzM1LC0xMzU2NDcyND
+cxLDQ2OTE2MTk1OCwxMDY5NzY5MTQ0LC0xNzA4Mjc5MTkzLDE1
+NTY1MDA0MTMsLTE3MDkxNzA4NzQsLTE2MDg2MTE0MTEsMjAwMT
+MxMDA3LDIxMzI3MTAxODMsMTY0MjE1MTQyMiwtOTAxNzg5OTY2
+LDcwNTc3MzQ4NF19
 -->
