@@ -21,6 +21,7 @@ Coming ...
 - Evaluating LLMs at Detecting Errors in LLM Responses [[pdf]](https://openreview.net/forum?id=dnwRScljXr)
 - Fine-grained Hallucination Detection and Editing for Language Models [[pdf]](https://openreview.net/forum?id=dJMTn3QOWO)
 - Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations [[pdf]](https://openreview.net/forum?id=c30qeMg8dv)
+- Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability [[pdf]](https://openreview.net/forum?id=Zt1dwG8xrK)
 
 
 
@@ -119,11 +120,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI2NjUxOTUsLTE0MTI0NjI3OTQsND
-cxNDIxMjQ3LC0xNzI2NzI5NTQzLC00MDkxNjMxMzIsLTExMzY4
-NjU4MDgsMTk1OTg5NjU4MiwtMzA0ODg0MTA2LC0xNzQ5MzkyNz
-M1LC0xNzQ5MzkyNzM1LC0xMzU2NDcyNDcxLDQ2OTE2MTk1OCwx
-MDY5NzY5MTQ0LC0xNzA4Mjc5MTkzLDE1NTY1MDA0MTMsLTE3MD
-kxNzA4NzQsLTE2MDg2MTE0MTEsMjAwMTMxMDA3LDIxMzI3MTAx
-ODMsMTY0MjE1MTQyMl19
+eyJoaXN0b3J5IjpbLTMzNzk3MDg4OCwtMjA1MjY2NTE5NSwtMT
+QxMjQ2Mjc5NCw0NzE0MjEyNDcsLTE3MjY3Mjk1NDMsLTQwOTE2
+MzEzMiwtMTEzNjg2NTgwOCwxOTU5ODk2NTgyLC0zMDQ4ODQxMD
+YsLTE3NDkzOTI3MzUsLTE3NDkzOTI3MzUsLTEzNTY0NzI0NzEs
+NDY5MTYxOTU4LDEwNjk3NjkxNDQsLTE3MDgyNzkxOTMsMTU1Nj
+UwMDQxMywtMTcwOTE3MDg3NCwtMTYwODYxMTQxMSwyMDAxMzEw
+MDcsMjEzMjcxMDE4M119
 -->
