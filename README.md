@@ -18,7 +18,7 @@ Coming ...
 #### Hallucination, Factuality
 - Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)
 - PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
-
+- Evaluating LLMs at Detecting Errors in LLM Responses [[pdf]](https://openreview.net/forum?id=dnwRScljXr)
 
 
 #### Inspiring
@@ -116,11 +116,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI0NjI3OTQsNDcxNDIxMjQ3LC0xNz
-I2NzI5NTQzLC00MDkxNjMxMzIsLTExMzY4NjU4MDgsMTk1OTg5
-NjU4MiwtMzA0ODg0MTA2LC0xNzQ5MzkyNzM1LC0xNzQ5MzkyNz
-M1LC0xMzU2NDcyNDcxLDQ2OTE2MTk1OCwxMDY5NzY5MTQ0LC0x
-NzA4Mjc5MTkzLDE1NTY1MDA0MTMsLTE3MDkxNzA4NzQsLTE2MD
-g2MTE0MTEsMjAwMTMxMDA3LDIxMzI3MTAxODMsMTY0MjE1MTQy
-MiwtOTAxNzg5OTY2XX0=
+eyJoaXN0b3J5IjpbMTk2MDkyMzcwMSwtMTQxMjQ2Mjc5NCw0Nz
+E0MjEyNDcsLTE3MjY3Mjk1NDMsLTQwOTE2MzEzMiwtMTEzNjg2
+NTgwOCwxOTU5ODk2NTgyLC0zMDQ4ODQxMDYsLTE3NDkzOTI3Mz
+UsLTE3NDkzOTI3MzUsLTEzNTY0NzI0NzEsNDY5MTYxOTU4LDEw
+Njk3NjkxNDQsLTE3MDgyNzkxOTMsMTU1NjUwMDQxMywtMTcwOT
+E3MDg3NCwtMTYwODYxMTQxMSwyMDAxMzEwMDcsMjEzMjcxMDE4
+MywxNjQyMTUxNDIyXX0=
 -->
