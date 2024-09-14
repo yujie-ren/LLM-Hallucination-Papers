@@ -15,7 +15,10 @@
 Coming ...
 
 ###  COLM 2024
-Coming ...
+#### Hallucination, Factuality
+
+
+
 
 ###  ACL 2024
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
@@ -107,7 +110,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTE1MTA2NCwtMzA0ODg0MTA2LC0xNz
+eyJoaXN0b3J5IjpbMTk1OTg5NjU4MiwtMzA0ODg0MTA2LC0xNz
 Q5MzkyNzM1LC0xNzQ5MzkyNzM1LC0xMzU2NDcyNDcxLDQ2OTE2
 MTk1OCwxMDY5NzY5MTQ0LC0xNzA4Mjc5MTkzLDE1NTY1MDA0MT
 MsLTE3MDkxNzA4NzQsLTE2MDg2MTE0MTEsMjAwMTMxMDA3LDIx
