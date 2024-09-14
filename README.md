@@ -23,7 +23,7 @@ Coming ...
 
 #### Inspiring
 - How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
-
+- Does In-Context Learning Really Learn? Rethinking How Large Language Models Respond and Solve Tasks via In-Context Learning [[pdf]](https://openreview.net/forum?id=i2oJjC0ESQ)
 
 
 ###  ACL 2024
@@ -116,11 +116,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNDIxMjQ3LC0xNzI2NzI5NTQzLC00MD
-kxNjMxMzIsLTExMzY4NjU4MDgsMTk1OTg5NjU4MiwtMzA0ODg0
-MTA2LC0xNzQ5MzkyNzM1LC0xNzQ5MzkyNzM1LC0xMzU2NDcyND
-cxLDQ2OTE2MTk1OCwxMDY5NzY5MTQ0LC0xNzA4Mjc5MTkzLDE1
-NTY1MDA0MTMsLTE3MDkxNzA4NzQsLTE2MDg2MTE0MTEsMjAwMT
-MxMDA3LDIxMzI3MTAxODMsMTY0MjE1MTQyMiwtOTAxNzg5OTY2
-LDcwNTc3MzQ4NF19
+eyJoaXN0b3J5IjpbLTE0MTI0NjI3OTQsNDcxNDIxMjQ3LC0xNz
+I2NzI5NTQzLC00MDkxNjMxMzIsLTExMzY4NjU4MDgsMTk1OTg5
+NjU4MiwtMzA0ODg0MTA2LC0xNzQ5MzkyNzM1LC0xNzQ5MzkyNz
+M1LC0xMzU2NDcyNDcxLDQ2OTE2MTk1OCwxMDY5NzY5MTQ0LC0x
+NzA4Mjc5MTkzLDE1NTY1MDA0MTMsLTE3MDkxNzA4NzQsLTE2MD
+g2MTE0MTEsMjAwMTMxMDA3LDIxMzI3MTAxODMsMTY0MjE1MTQy
+MiwtOTAxNzg5OTY2XX0=
 -->
