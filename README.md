@@ -4,8 +4,8 @@
 
 |  Year  | [Conference](#conference-papers) |      |                      |
 | :---:  |    :----:        |        :---:         |        :---:         |
-|  2024  | [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |
-|  2023  | [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
+|  2024  | [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |[COLM](#colm-2024)|
+|  2023  | [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |                  |
 |  2022  | [ACL](#acl-2022) | [EMNLP](#emnlp-2022) | [NAACL](#naacl-2022) |
 |  2021  | [ACL](#acl-2021) | [EMNLP](#emnlp-2021) | [NAACL](#naacl-2021) |
 
@@ -107,11 +107,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDg4NDEwNiwtMTc0OTM5MjczNSwtMT
-c0OTM5MjczNSwtMTM1NjQ3MjQ3MSw0NjkxNjE5NTgsMTA2OTc2
-OTE0NCwtMTcwODI3OTE5MywxNTU2NTAwNDEzLC0xNzA5MTcwOD
-c0LC0xNjA4NjExNDExLDIwMDEzMTAwNywyMTMyNzEwMTgzLDE2
-NDIxNTE0MjIsLTkwMTc4OTk2Niw3MDU3NzM0ODQsLTI4NjczNz
-g0LDE1Mzk0MTI4NjEsLTM5MTgwNDA0MiwtNjk3OTI4MTEzLC0z
-ODk0NjAzNzddfQ==
+eyJoaXN0b3J5IjpbMzQ3ODcyMjY1LC0zMDQ4ODQxMDYsLTE3ND
+kzOTI3MzUsLTE3NDkzOTI3MzUsLTEzNTY0NzI0NzEsNDY5MTYx
+OTU4LDEwNjk3NjkxNDQsLTE3MDgyNzkxOTMsMTU1NjUwMDQxMy
+wtMTcwOTE3MDg3NCwtMTYwODYxMTQxMSwyMDAxMzEwMDcsMjEz
+MjcxMDE4MywxNjQyMTUxNDIyLC05MDE3ODk5NjYsNzA1NzczND
+g0LC0yODY3Mzc4NCwxNTM5NDEyODYxLC0zOTE4MDQwNDIsLTY5
+NzkyODExM119
 -->
