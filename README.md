@@ -17,6 +17,7 @@ Coming ...
 ###  ACL 2024
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
+
 - Unified Hallucination Detection for Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.178/)  
 (ZJU，多模态大模型幻觉Detection，提出数据集)
 - UHGEval: Benchmarking the Hallucination of  Chinese Large Language Models via Unconstrained Generation [[pdf]](https://aclanthology.org/2024.acl-long.288/)  
@@ -98,11 +99,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTYxNzY4NSwtMTcwODI3OTE5MywxNT
-U2NTAwNDEzLC0xNzA5MTcwODc0LC0xNjA4NjExNDExLDIwMDEz
-MTAwNywyMTMyNzEwMTgzLDE2NDIxNTE0MjIsLTkwMTc4OTk2Ni
-w3MDU3NzM0ODQsLTI4NjczNzg0LDE1Mzk0MTI4NjEsLTM5MTgw
-NDA0MiwtNjk3OTI4MTEzLC0zODk0NjAzNzcsLTcxMDQwMzE0OC
-wxOTk5NDk3ODkzLC0xNzk4NTYzMDI5LC02NjcyNjExMjIsODg4
-NTYxMDk0XX0=
+eyJoaXN0b3J5IjpbLTE0MDc3NzAxNzMsLTE3MDgyNzkxOTMsMT
+U1NjUwMDQxMywtMTcwOTE3MDg3NCwtMTYwODYxMTQxMSwyMDAx
+MzEwMDcsMjEzMjcxMDE4MywxNjQyMTUxNDIyLC05MDE3ODk5Nj
+YsNzA1NzczNDg0LC0yODY3Mzc4NCwxNTM5NDEyODYxLC0zOTE4
+MDQwNDIsLTY5NzkyODExMywtMzg5NDYwMzc3LC03MTA0MDMxND
+gsMTk5OTQ5Nzg5MywtMTc5ODU2MzAyOSwtNjY3MjYxMTIyLDg4
+ODU2MTA5NF19
 -->
