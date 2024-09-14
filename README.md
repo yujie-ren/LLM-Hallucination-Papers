@@ -67,9 +67,9 @@ Coming ...
 
 
 ### NAACL 2024
-- Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/) 
+- Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
 (KAIST AI，减轻LVLM幻觉，self-feedback)
-- On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/) 
+- On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)  
 (THU，从inference dynamics角度研究“LLM知道正确答案，依然出现幻觉的现象”)
 - Language Models Hallucinate, but May Excel at Fact Verification [[pdf]](https://aclanthology.org/2024.naacl-long.62/)
 - Can Knowledge Graphs Reduce Hallucinations in  LLMs? : A Survey [[pdf]](https://aclanthology.org/2024.naacl-long.219/)
@@ -96,7 +96,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTc0MjY1OCwtOTAxNzg5OTY2LDcwNT
+eyJoaXN0b3J5IjpbMTY0MjE1MTQyMiwtOTAxNzg5OTY2LDcwNT
 c3MzQ4NCwtMjg2NzM3ODQsMTUzOTQxMjg2MSwtMzkxODA0MDQy
 LC02OTc5MjgxMTMsLTM4OTQ2MDM3NywtNzEwNDAzMTQ4LDE5OT
 k0OTc4OTMsLTE3OTg1NjMwMjksLTY2NzI2MTEyMiw4ODg1NjEw
