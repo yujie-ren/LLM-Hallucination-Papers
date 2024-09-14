@@ -25,7 +25,6 @@ Coming ...
 
 
 #### Inspiring
-
 - MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs [[pdf]](https://openreview.net/forum?id=X9yV4lFHt4)
 
 #### Interest
@@ -123,7 +122,7 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ5MTQ5Miw0OTE2NzY5NzYsLTMzNz
+eyJoaXN0b3J5IjpbMTg3MjMzNDcwMiw0OTE2NzY5NzYsLTMzNz
 k3MDg4OCwtMjA1MjY2NTE5NSwtMTQxMjQ2Mjc5NCw0NzE0MjEy
 NDcsLTE3MjY3Mjk1NDMsLTQwOTE2MzEzMiwtMTEzNjg2NTgwOC
 wxOTU5ODk2NTgyLC0zMDQ4ODQxMDYsLTE3NDkzOTI3MzUsLTE3
