@@ -16,7 +16,7 @@ Coming ...
 
 ###  COLM 2024
 #### Hallucination, Factuality
-
+- Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)
 
 
 
@@ -110,11 +110,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTg5NjU4MiwtMzA0ODg0MTA2LC0xNz
-Q5MzkyNzM1LC0xNzQ5MzkyNzM1LC0xMzU2NDcyNDcxLDQ2OTE2
-MTk1OCwxMDY5NzY5MTQ0LC0xNzA4Mjc5MTkzLDE1NTY1MDA0MT
-MsLTE3MDkxNzA4NzQsLTE2MDg2MTE0MTEsMjAwMTMxMDA3LDIx
-MzI3MTAxODMsMTY0MjE1MTQyMiwtOTAxNzg5OTY2LDcwNTc3Mz
-Q4NCwtMjg2NzM3ODQsMTUzOTQxMjg2MSwtMzkxODA0MDQyLC02
-OTc5MjgxMTNdfQ==
+eyJoaXN0b3J5IjpbLTExMzY4NjU4MDgsMTk1OTg5NjU4MiwtMz
+A0ODg0MTA2LC0xNzQ5MzkyNzM1LC0xNzQ5MzkyNzM1LC0xMzU2
+NDcyNDcxLDQ2OTE2MTk1OCwxMDY5NzY5MTQ0LC0xNzA4Mjc5MT
+kzLDE1NTY1MDA0MTMsLTE3MDkxNzA4NzQsLTE2MDg2MTE0MTEs
+MjAwMTMxMDA3LDIxMzI3MTAxODMsMTY0MjE1MTQyMiwtOTAxNz
+g5OTY2LDcwNTc3MzQ4NCwtMjg2NzM3ODQsMTUzOTQxMjg2MSwt
+MzkxODA0MDQyXX0=
 -->
