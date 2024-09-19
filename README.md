@@ -20,7 +20,7 @@ Coming ...
 ###  COLM 2024
 #### Hallucination, Factuality
 - Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)  
-(KAIST，)
+(KAIST，检测Multilingual LLM在不同语言下的幻觉程度)
 - PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
 - Evaluating LLMs at Detecting Errors in LLM Responses [[pdf]](https://openreview.net/forum?id=dnwRScljXr)
 - Fine-grained Hallucination Detection and Editing for Language Models [[pdf]](https://openreview.net/forum?id=dJMTn3QOWO)
@@ -125,11 +125,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzkzMDUzOCwtMTE5OTYzNzY2NiwyNT
-A3NDk1NjQsNDU5MjAwNTA4LDE2MTM0NDc3NzksMjM1NTYyMjQw
-LDIyOTE1NjA5NiwxODcyMzM0NzAyLDQ5MTY3Njk3NiwtMzM3OT
-cwODg4LC0yMDUyNjY1MTk1LC0xNDEyNDYyNzk0LDQ3MTQyMTI0
-NywtMTcyNjcyOTU0MywtNDA5MTYzMTMyLC0xMTM2ODY1ODA4LD
-E5NTk4OTY1ODIsLTMwNDg4NDEwNiwtMTc0OTM5MjczNSwtMTc0
+eyJoaXN0b3J5IjpbLTExMTE4MzYyMTMsLTI4MzkzMDUzOCwtMT
+E5OTYzNzY2NiwyNTA3NDk1NjQsNDU5MjAwNTA4LDE2MTM0NDc3
+NzksMjM1NTYyMjQwLDIyOTE1NjA5NiwxODcyMzM0NzAyLDQ5MT
+Y3Njk3NiwtMzM3OTcwODg4LC0yMDUyNjY1MTk1LC0xNDEyNDYy
+Nzk0LDQ3MTQyMTI0NywtMTcyNjcyOTU0MywtNDA5MTYzMTMyLC
+0xMTM2ODY1ODA4LDE5NTk4OTY1ODIsLTMwNDg4NDEwNiwtMTc0
 OTM5MjczNV19
 -->
