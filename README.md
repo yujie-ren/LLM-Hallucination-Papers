@@ -19,7 +19,8 @@ Coming ...
 (在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，类似自己当前的项目)
 ###  COLM 2024
 #### Hallucination, Factuality
-- Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)
+- Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)  
+()
 - PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
 - Evaluating LLMs at Detecting Errors in LLM Responses [[pdf]](https://openreview.net/forum?id=dnwRScljXr)
 - Fine-grained Hallucination Detection and Editing for Language Models [[pdf]](https://openreview.net/forum?id=dJMTn3QOWO)
@@ -124,11 +125,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTI0MzAyNSwyNTA3NDk1NjQsNDU5Mj
-AwNTA4LDE2MTM0NDc3NzksMjM1NTYyMjQwLDIyOTE1NjA5Niwx
-ODcyMzM0NzAyLDQ5MTY3Njk3NiwtMzM3OTcwODg4LC0yMDUyNj
-Y1MTk1LC0xNDEyNDYyNzk0LDQ3MTQyMTI0NywtMTcyNjcyOTU0
-MywtNDA5MTYzMTMyLC0xMTM2ODY1ODA4LDE5NTk4OTY1ODIsLT
-MwNDg4NDEwNiwtMTc0OTM5MjczNSwtMTc0OTM5MjczNSwtMTM1
-NjQ3MjQ3MV19
+eyJoaXN0b3J5IjpbLTExOTk2Mzc2NjYsMjUwNzQ5NTY0LDQ1OT
+IwMDUwOCwxNjEzNDQ3Nzc5LDIzNTU2MjI0MCwyMjkxNTYwOTYs
+MTg3MjMzNDcwMiw0OTE2NzY5NzYsLTMzNzk3MDg4OCwtMjA1Mj
+Y2NTE5NSwtMTQxMjQ2Mjc5NCw0NzE0MjEyNDcsLTE3MjY3Mjk1
+NDMsLTQwOTE2MzEzMiwtMTEzNjg2NTgwOCwxOTU5ODk2NTgyLC
+0zMDQ4ODQxMDYsLTE3NDkzOTI3MzUsLTE3NDkzOTI3MzUsLTEz
+NTY0NzI0NzFdfQ==
 -->
