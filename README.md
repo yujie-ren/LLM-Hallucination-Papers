@@ -18,7 +18,8 @@
 (提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea。)
 
 ###  EMNLP 2024
-- Factuality of Large Language Models in the Year 2024
+- Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)
+(Survey，但是没有实验，可以再看一看以前bias的文章，思考一下综述idea的可行性)
 
 ###  COLM 2024
 #### Hallucination, Factuality
@@ -128,11 +129,11 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODkxMjc5OCwtMTkwOTczMjI4OSwtNj
-Q3NjM2MDA3LDEwNjg0NTk2MDEsLTExMTE4MzYyMTMsLTI4Mzkz
-MDUzOCwtMTE5OTYzNzY2NiwyNTA3NDk1NjQsNDU5MjAwNTA4LD
-E2MTM0NDc3NzksMjM1NTYyMjQwLDIyOTE1NjA5NiwxODcyMzM0
-NzAyLDQ5MTY3Njk3NiwtMzM3OTcwODg4LC0yMDUyNjY1MTk1LC
-0xNDEyNDYyNzk0LDQ3MTQyMTI0NywtMTcyNjcyOTU0MywtNDA5
-MTYzMTMyXX0=
+eyJoaXN0b3J5IjpbNzE1MjY2NjQxLC0xOTA5NzMyMjg5LC02ND
+c2MzYwMDcsMTA2ODQ1OTYwMSwtMTExMTgzNjIxMywtMjgzOTMw
+NTM4LC0xMTk5NjM3NjY2LDI1MDc0OTU2NCw0NTkyMDA1MDgsMT
+YxMzQ0Nzc3OSwyMzU1NjIyNDAsMjI5MTU2MDk2LDE4NzIzMzQ3
+MDIsNDkxNjc2OTc2LC0zMzc5NzA4ODgsLTIwNTI2NjUxOTUsLT
+E0MTI0NjI3OTQsNDcxNDIxMjQ3LC0xNzI2NzI5NTQzLC00MDkx
+NjMxMzJdfQ==
 -->
