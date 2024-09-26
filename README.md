@@ -17,7 +17,8 @@ Coming ...
 ###  arXiv 2024
 - Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
 (在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，类似自己当前的项目)
-- Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](h)  
+- Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](https://arxiv.org/abs/2409.12784)  
+
 
 ###  COLM 2024
 #### Hallucination, Factuality
@@ -127,11 +128,11 @@ Coming ...
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjkzOTkwMCwxMDY4NDU5NjAxLC0xMT
-ExODM2MjEzLC0yODM5MzA1MzgsLTExOTk2Mzc2NjYsMjUwNzQ5
-NTY0LDQ1OTIwMDUwOCwxNjEzNDQ3Nzc5LDIzNTU2MjI0MCwyMj
-kxNTYwOTYsMTg3MjMzNDcwMiw0OTE2NzY5NzYsLTMzNzk3MDg4
-OCwtMjA1MjY2NTE5NSwtMTQxMjQ2Mjc5NCw0NzE0MjEyNDcsLT
-E3MjY3Mjk1NDMsLTQwOTE2MzEzMiwtMTEzNjg2NTgwOCwxOTU5
-ODk2NTgyXX0=
+eyJoaXN0b3J5IjpbOTU0MzQyNzE0LDEwNjg0NTk2MDEsLTExMT
+E4MzYyMTMsLTI4MzkzMDUzOCwtMTE5OTYzNzY2NiwyNTA3NDk1
+NjQsNDU5MjAwNTA4LDE2MTM0NDc3NzksMjM1NTYyMjQwLDIyOT
+E1NjA5NiwxODcyMzM0NzAyLDQ5MTY3Njk3NiwtMzM3OTcwODg4
+LC0yMDUyNjY1MTk1LC0xNDEyNDYyNzk0LDQ3MTQyMTI0NywtMT
+cyNjcyOTU0MywtNDA5MTYzMTMyLC0xMTM2ODY1ODA4LDE5NTk4
+OTY1ODJdfQ==
 -->
