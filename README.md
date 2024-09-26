@@ -11,14 +11,14 @@
 
 ## Conference Papers
 
-###  EMNLP 2024
-Coming ..
-
 ###  arXiv 2024
 - Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
 (在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据)
 - Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](https://arxiv.org/abs/2409.12784)  
 (提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea。)
+
+###  EMNLP 2024
+- Factuality of Large Language Models in the Year 2024
 
 ###  COLM 2024
 #### Hallucination, Factuality
@@ -128,7 +128,7 @@ Coming ..
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjA4NDk3OSwtMTkwOTczMjI4OSwtNj
+eyJoaXN0b3J5IjpbMTY2ODkxMjc5OCwtMTkwOTczMjI4OSwtNj
 Q3NjM2MDA3LDEwNjg0NTk2MDEsLTExMTE4MzYyMTMsLTI4Mzkz
 MDUzOCwtMTE5OTYzNzY2NiwyNTA3NDk1NjQsNDU5MjAwNTA4LD
 E2MTM0NDc3NzksMjM1NTYyMjQwLDIyOTE1NjA5NiwxODcyMzM0
