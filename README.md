@@ -19,7 +19,7 @@
 
 ###  EMNLP 2024
 - Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)
-(Survey，但是没有实验，可以再看一看以前bias的文章，思考一下综述idea的可行性)
+(Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
 
 ###  COLM 2024
 #### Hallucination, Factuality
@@ -129,11 +129,11 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MjY2NjQxLC0xOTA5NzMyMjg5LC02ND
-c2MzYwMDcsMTA2ODQ1OTYwMSwtMTExMTgzNjIxMywtMjgzOTMw
-NTM4LC0xMTk5NjM3NjY2LDI1MDc0OTU2NCw0NTkyMDA1MDgsMT
-YxMzQ0Nzc3OSwyMzU1NjIyNDAsMjI5MTU2MDk2LDE4NzIzMzQ3
-MDIsNDkxNjc2OTc2LC0zMzc5NzA4ODgsLTIwNTI2NjUxOTUsLT
-E0MTI0NjI3OTQsNDcxNDIxMjQ3LC0xNzI2NzI5NTQzLC00MDkx
-NjMxMzJdfQ==
+eyJoaXN0b3J5IjpbLTU0MTI4NzA3NSw3MTUyNjY2NDEsLTE5MD
+k3MzIyODksLTY0NzYzNjAwNywxMDY4NDU5NjAxLC0xMTExODM2
+MjEzLC0yODM5MzA1MzgsLTExOTk2Mzc2NjYsMjUwNzQ5NTY0LD
+Q1OTIwMDUwOCwxNjEzNDQ3Nzc5LDIzNTU2MjI0MCwyMjkxNTYw
+OTYsMTg3MjMzNDcwMiw0OTE2NzY5NzYsLTMzNzk3MDg4OCwtMj
+A1MjY2NTE5NSwtMTQxMjQ2Mjc5NCw0NzE0MjEyNDcsLTE3MjY3
+Mjk1NDNdfQ==
 -->
