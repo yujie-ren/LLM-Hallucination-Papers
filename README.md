@@ -18,7 +18,7 @@
 (提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea。)
 -  Alleviating Hallucinations of Large Language Models through Induced Hallucinations [[pdf]](https://arxiv.org/abs/2312.15710)  
 (Tencent AI，**使用了TruthfulQA和FActScore**)
-- Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)
+- Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
 (UC Berkeley+Google，**使用了FActScore**)
 
 ###  EMNLP 2024
@@ -133,11 +133,11 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQxOTA3MTQsMzA5NzI5ODI2LDYzMz
-cyNDM4MSwzOTc2NjM0NDEsMTk0NDY4NjA2NywtMTQ4NTI4NDQ3
-NSwtMTg0ODIxNzc4NywtNTQxMjg3MDc1LDcxNTI2NjY0MSwtMT
-kwOTczMjI4OSwtNjQ3NjM2MDA3LDEwNjg0NTk2MDEsLTExMTE4
-MzYyMTMsLTI4MzkzMDUzOCwtMTE5OTYzNzY2NiwyNTA3NDk1Nj
-QsNDU5MjAwNTA4LDE2MTM0NDc3NzksMjM1NTYyMjQwLDIyOTE1
-NjA5Nl19
+eyJoaXN0b3J5IjpbMTE3NDY5NzA5NCwtMTIyNDE5MDcxNCwzMD
+k3Mjk4MjYsNjMzNzI0MzgxLDM5NzY2MzQ0MSwxOTQ0Njg2MDY3
+LC0xNDg1Mjg0NDc1LC0xODQ4MjE3Nzg3LC01NDEyODcwNzUsNz
+E1MjY2NjQxLC0xOTA5NzMyMjg5LC02NDc2MzYwMDcsMTA2ODQ1
+OTYwMSwtMTExMTgzNjIxMywtMjgzOTMwNTM4LC0xMTk5NjM3Nj
+Y2LDI1MDc0OTU2NCw0NTkyMDA1MDgsMTYxMzQ0Nzc3OSwyMzU1
+NjIyNDBdfQ==
 -->
