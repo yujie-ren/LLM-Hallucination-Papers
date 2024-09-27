@@ -42,7 +42,6 @@
 ###  ACL 2024
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
-
 - Unified Hallucination Detection for Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.178/)  
 (ZJU，多模态大模型幻觉Detection，提出数据集)
 - UHGEval: Benchmarking the Hallucination of  Chinese Large Language Models via Unconstrained Generation [[pdf]](https://aclanthology.org/2024.acl-long.288/)  
@@ -95,7 +94,6 @@
 ### NAACL 2024
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
 (KAIST AI，减轻LVLM幻觉，self-feedback)
-
 - On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)  
 (THU，从inference dynamics角度研究“LLM知道正确答案，依然出现幻觉的现象”，利用dynamics构建分类器检测幻觉)
 - Language Models Hallucinate, but May Excel at Fact Verification [[pdf]](https://aclanthology.org/2024.naacl-long.62/)  
@@ -117,6 +115,7 @@
 - Towards Fewer Hallucinations in Knowledge-Grounded Dialogue Generation via Augmentative and Contrastive Knowledge-Dialogue [[pdf]](https://aclanthology.org/2023.acl-short.148/)
 - RHO: Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding [[pdf]](https://aclanthology.org/2023.findings-acl.275/)
 - CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization [[pdf]](https://aclanthology.org/2023.findings-acl.685/)
+
 ### EMNLP 2023
 - Evaluating Object Hallucination in Large Vision-Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.20/)
 - HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation [[pdf]](https://aclanthology.org/2023.emnlp-main.42/)
@@ -129,11 +128,11 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUyODQ0NzUsLTE4NDgyMTc3ODcsLT
-U0MTI4NzA3NSw3MTUyNjY2NDEsLTE5MDk3MzIyODksLTY0NzYz
-NjAwNywxMDY4NDU5NjAxLC0xMTExODM2MjEzLC0yODM5MzA1Mz
-gsLTExOTk2Mzc2NjYsMjUwNzQ5NTY0LDQ1OTIwMDUwOCwxNjEz
-NDQ3Nzc5LDIzNTU2MjI0MCwyMjkxNTYwOTYsMTg3MjMzNDcwMi
-w0OTE2NzY5NzYsLTMzNzk3MDg4OCwtMjA1MjY2NTE5NSwtMTQx
-MjQ2Mjc5NF19
+eyJoaXN0b3J5IjpbMTk0NDY4NjA2NywtMTQ4NTI4NDQ3NSwtMT
+g0ODIxNzc4NywtNTQxMjg3MDc1LDcxNTI2NjY0MSwtMTkwOTcz
+MjI4OSwtNjQ3NjM2MDA3LDEwNjg0NTk2MDEsLTExMTE4MzYyMT
+MsLTI4MzkzMDUzOCwtMTE5OTYzNzY2NiwyNTA3NDk1NjQsNDU5
+MjAwNTA4LDE2MTM0NDc3NzksMjM1NTYyMjQwLDIyOTE1NjA5Ni
+wxODcyMzM0NzAyLDQ5MTY3Njk3NiwtMzM3OTcwODg4LC0yMDUy
+NjY1MTk1XX0=
 -->
