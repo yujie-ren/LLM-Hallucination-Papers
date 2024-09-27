@@ -70,7 +70,7 @@
 - TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-acl.197/)  
 (Seoul National U，LLM agent和Hallucination结合，提出benchmark衡量角色幻觉)
 - Chain-of-Verification Reduces Hallucination in Large Language Models  [[pdf]](https://aclanthology.org/2024.findings-acl.212/)  
-(Meta AI，减轻LLM幻觉，让模型自己纠错，使用了FActScore，引用192)
+(Meta AI，减轻LLM幻觉，让模型自己纠错，**使用了FActScore**，引用192)
 - Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL  Generation [[pdf]](https://aclanthology.org/2024.findings-acl.324/)  
 (HKU，减轻幻觉，Text-to-SQL生成)
 - Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)  [[pdf]](https://aclanthology.org/2024.findings-acl.359/)  
@@ -129,11 +129,11 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgyMTc3ODcsLTU0MTI4NzA3NSw3MT
-UyNjY2NDEsLTE5MDk3MzIyODksLTY0NzYzNjAwNywxMDY4NDU5
-NjAxLC0xMTExODM2MjEzLC0yODM5MzA1MzgsLTExOTk2Mzc2Nj
-YsMjUwNzQ5NTY0LDQ1OTIwMDUwOCwxNjEzNDQ3Nzc5LDIzNTU2
-MjI0MCwyMjkxNTYwOTYsMTg3MjMzNDcwMiw0OTE2NzY5NzYsLT
-MzNzk3MDg4OCwtMjA1MjY2NTE5NSwtMTQxMjQ2Mjc5NCw0NzE0
-MjEyNDddfQ==
+eyJoaXN0b3J5IjpbLTE0ODUyODQ0NzUsLTE4NDgyMTc3ODcsLT
+U0MTI4NzA3NSw3MTUyNjY2NDEsLTE5MDk3MzIyODksLTY0NzYz
+NjAwNywxMDY4NDU5NjAxLC0xMTExODM2MjEzLC0yODM5MzA1Mz
+gsLTExOTk2Mzc2NjYsMjUwNzQ5NTY0LDQ1OTIwMDUwOCwxNjEz
+NDQ3Nzc5LDIzNTU2MjI0MCwyMjkxNTYwOTYsMTg3MjMzNDcwMi
+w0OTE2NzY5NzYsLTMzNzk3MDg4OCwtMjA1MjY2NTE5NSwtMTQx
+MjQ2Mjc5NF19
 -->
