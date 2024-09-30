@@ -19,7 +19,7 @@
 -  Alleviating Hallucinations of Large Language Models through Induced Hallucinations [[pdf]](https://arxiv.org/abs/2312.15710)  
 (Tencent AI，**使用了TruthfulQA和FActScore**)
 - Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
-(UC Berkeley+Google，**使用了FActScore**)
+(UC Berkeley+Google，**使用了FActScore，指出FActScore代码需要进行一点修改**)
 
 ###  EMNLP 2024
 - Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)
@@ -133,11 +133,11 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUwMTAzMTYsLTEzMzYxOTU2ODYsLT
-EyMjQxOTA3MTQsMzA5NzI5ODI2LDYzMzcyNDM4MSwzOTc2NjM0
-NDEsMTk0NDY4NjA2NywtMTQ4NTI4NDQ3NSwtMTg0ODIxNzc4Ny
-wtNTQxMjg3MDc1LDcxNTI2NjY0MSwtMTkwOTczMjI4OSwtNjQ3
-NjM2MDA3LDEwNjg0NTk2MDEsLTExMTE4MzYyMTMsLTI4MzkzMD
-UzOCwtMTE5OTYzNzY2NiwyNTA3NDk1NjQsNDU5MjAwNTA4LDE2
-MTM0NDc3NzldfQ==
+eyJoaXN0b3J5IjpbNjQ2MTg4MTc1LC0yMDE1MDEwMzE2LC0xMz
+M2MTk1Njg2LC0xMjI0MTkwNzE0LDMwOTcyOTgyNiw2MzM3MjQz
+ODEsMzk3NjYzNDQxLDE5NDQ2ODYwNjcsLTE0ODUyODQ0NzUsLT
+E4NDgyMTc3ODcsLTU0MTI4NzA3NSw3MTUyNjY2NDEsLTE5MDk3
+MzIyODksLTY0NzYzNjAwNywxMDY4NDU5NjAxLC0xMTExODM2Mj
+EzLC0yODM5MzA1MzgsLTExOTk2Mzc2NjYsMjUwNzQ5NTY0LDQ1
+OTIwMDUwOF19
 -->
