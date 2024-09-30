@@ -32,7 +32,7 @@
 - PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
 - Evaluating LLMs at Detecting Errors in LLM Responses [[pdf]](https://openreview.net/forum?id=dnwRScljXr)
 - Fine-grained Hallucination Detection and Editing for Language Models [[pdf]](https://openreview.net/forum?id=dJMTn3QOWO)  
-(U of Washington，**使用了factscore**，直接调用)
+(U of Washington，**使用了factscore**，直接调用FactScorer函数，使用retrieval+ChatGPT)
 - Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations [[pdf]](https://openreview.net/forum?id=c30qeMg8dv)
 - Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability [[pdf]](https://openreview.net/forum?id=Zt1dwG8xrK)
 
@@ -133,7 +133,7 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTEyMTI0MiwtMTMzNjE5NTY4NiwtMT
+eyJoaXN0b3J5IjpbMTE1OTc1MjMwOCwtMTMzNjE5NTY4NiwtMT
 IyNDE5MDcxNCwzMDk3Mjk4MjYsNjMzNzI0MzgxLDM5NzY2MzQ0
 MSwxOTQ0Njg2MDY3LC0xNDg1Mjg0NDc1LC0xODQ4MjE3Nzg3LC
 01NDEyODcwNzUsNzE1MjY2NjQxLC0xOTA5NzMyMjg5LC02NDc2
