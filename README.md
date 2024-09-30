@@ -54,7 +54,7 @@
 - ANAH: Analytical Annotation of Hallucinations in Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.442/)  
 (HKUST，Measuring LLM幻觉，提出数据集)
 - TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space [[pdf]](https://aclanthology.org/2024.acl-long.483/)  
-(CAS，减轻幻觉，通过对特征进行映射，编辑等，**使用了TruthfulQA，完整保留了TruthfulQA代码，计算了MC指标**)
+(CAS，减轻幻觉，通过对特征进行映射，编辑等，**使用了TruthfulQA，完整保留了TruthfulQA代码，评估了生成generation任务和多选MC任务**)
 - InterrogateLLM: Zero-Resource Hallucination Detection in  LLM-Generated Answers [[pdf]](https://aclanthology.org/2024.acl-long.506/)  
 (Microsoft，Detecting 幻觉 in LLMs)
 - RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models [[pdf]](https://aclanthology.org/2024.acl-long.585/)  
@@ -133,11 +133,11 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNT
-Q2NTYxMTI5LC00OTc2OTE4ODQsLTE3NzIxNTc1MTcsNjQ2MTg4
-MTc1LC0yMDE1MDEwMzE2LC0xMzM2MTk1Njg2LC0xMjI0MTkwNz
-E0LDMwOTcyOTgyNiw2MzM3MjQzODEsMzk3NjYzNDQxLDE5NDQ2
-ODYwNjcsLTE0ODUyODQ0NzUsLTE4NDgyMTc3ODcsLTU0MTI4Nz
-A3NSw3MTUyNjY2NDEsLTE5MDk3MzIyODksLTY0NzYzNjAwNywx
-MDY4NDU5NjAxXX0=
+eyJoaXN0b3J5IjpbMzk4MTA0NTUwLDIzMzAwMzkwOCwtMjEyND
+I1MDU2OCwtMTU0NjU2MTEyOSwtNDk3NjkxODg0LC0xNzcyMTU3
+NTE3LDY0NjE4ODE3NSwtMjAxNTAxMDMxNiwtMTMzNjE5NTY4Ni
+wtMTIyNDE5MDcxNCwzMDk3Mjk4MjYsNjMzNzI0MzgxLDM5NzY2
+MzQ0MSwxOTQ0Njg2MDY3LC0xNDg1Mjg0NDc1LC0xODQ4MjE3Nz
+g3LC01NDEyODcwNzUsNzE1MjY2NjQxLC0xOTA5NzMyMjg5LC02
+NDc2MzYwMDddfQ==
 -->
