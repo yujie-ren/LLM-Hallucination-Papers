@@ -129,12 +129,13 @@
 - Detecting and Mitigating Hallucinations in Multilingual Summarisation [[pdf]](https://aclanthology.org/2023.emnlp-main.551/)
 - SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.557/)
 - Models See Hallucinations: Evaluating the Factuality in Video Captioning [[pdf]](https://aclanthology.org/2023.emnlp-main.723/)
+- Hallucination Mitigation in Natural Language Generation from Large-Scale Open-Domain Knowledge Graphs [[pdf]](https://aclanthology.org/2023.emnlp-main.770/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1OTA3Mzk1LDE3OTk5MzI2NDIsLTE2Nz
-EzMjMwNzksLTI5Mjg0Mzk0LC0xNTE4NTE2NTgwLC0xNzY5NTc3
-NzUwLC0xNjI2MTY2OTM0LC0yMDA2MzcxODUyLDM5ODEwNDU1MC
-wyMzMwMDM5MDgsLTIxMjQyNTA1NjgsLTE1NDY1NjExMjksLTQ5
-NzY5MTg4NCwtMTc3MjE1NzUxNyw2NDYxODgxNzUsLTIwMTUwMT
-AzMTYsLTEzMzYxOTU2ODYsLTEyMjQxOTA3MTQsMzA5NzI5ODI2
-LDYzMzcyNDM4MV19
+eyJoaXN0b3J5IjpbLTE4MjE5NjU5NDQsMTc5OTkzMjY0MiwtMT
+Y3MTMyMzA3OSwtMjkyODQzOTQsLTE1MTg1MTY1ODAsLTE3Njk1
+Nzc3NTAsLTE2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NT
+UwLDIzMzAwMzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwt
+NDk3NjkxODg0LC0xNzcyMTU3NTE3LDY0NjE4ODE3NSwtMjAxNT
+AxMDMxNiwtMTMzNjE5NTY4NiwtMTIyNDE5MDcxNCwzMDk3Mjk4
+MjYsNjMzNzI0MzgxXX0=
 -->
