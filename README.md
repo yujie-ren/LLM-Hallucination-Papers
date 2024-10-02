@@ -4,10 +4,10 @@
 
 |Year |      |      |      |      |      |
 |:---:|    :----:        |        :---:         |        :---:         |      :---:    | :---:  |
-|2024| [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |[Other](#other-2024)|[arXiv](#arxiv-2024)
+|2024| [ACL](#acl-24.08) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |[Other](#other-2024)|[arXiv](#arxiv-2024)
 |2023| [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
 
-##  ACL 2024
+##  ACL 24.08
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
 - Unified Hallucination Detection for Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.178/)  
@@ -147,11 +147,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE4NTIyNzUsMTE2MTg1NjYyNSw2Nz
-A4MzgyMDYsNzE0Mjc2OTcyLC0xMzU5NzA1OTEzLDczMTQ2NzE2
-NiwxNzk5OTMyNjQyLC0xNjcxMzIzMDc5LC0yOTI4NDM5NCwtMT
-UxODUxNjU4MCwtMTc2OTU3Nzc1MCwtMTYyNjE2NjkzNCwtMjAw
-NjM3MTg1MiwzOTgxMDQ1NTAsMjMzMDAzOTA4LC0yMTI0MjUwNT
-Y4LC0xNTQ2NTYxMTI5LC00OTc2OTE4ODQsLTE3NzIxNTc1MTcs
-NjQ2MTg4MTc1XX0=
+eyJoaXN0b3J5IjpbMTA2OTY0MTE0NSwtMTk1MTg1MjI3NSwxMT
+YxODU2NjI1LDY3MDgzODIwNiw3MTQyNzY5NzIsLTEzNTk3MDU5
+MTMsNzMxNDY3MTY2LDE3OTk5MzI2NDIsLTE2NzEzMjMwNzksLT
+I5Mjg0Mzk0LC0xNTE4NTE2NTgwLC0xNzY5NTc3NzUwLC0xNjI2
+MTY2OTM0LC0yMDA2MzcxODUyLDM5ODEwNDU1MCwyMzMwMDM5MD
+gsLTIxMjQyNTA1NjgsLTE1NDY1NjExMjksLTQ5NzY5MTg4NCwt
+MTc3MjE1NzUxN119
 -->
