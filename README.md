@@ -142,13 +142,13 @@
 - Hallucination Detection for Grounded Instruction Generation [[pdf]](https://aclanthology.org/2023.findings-emnlp.266/)
 - INVITE: a Testbed of Automatically Generated Invalid Questions to Evaluate Large Language Models for Hallucinations [[pdf]](https://aclanthology.org/2023.findings-emnlp.360/)
 - CReTIHC: Designing Causal Reasoning Tasks about Temporal Interventions and Hallucinated Confoundings [[pdf]](https://aclanthology.org/2023.findings-emnlp.693/)
-- 
+- Eyes Show the Way: Modelling Gaze Behaviour for Hallucination Detection [[pdf]](https://aclanthology.org/2023.findings-emnlp.764/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjEyMDcxLDE3OTk5MzI2NDIsLTE2Nz
-EzMjMwNzksLTI5Mjg0Mzk0LC0xNTE4NTE2NTgwLC0xNzY5NTc3
-NzUwLC0xNjI2MTY2OTM0LC0yMDA2MzcxODUyLDM5ODEwNDU1MC
-wyMzMwMDM5MDgsLTIxMjQyNTA1NjgsLTE1NDY1NjExMjksLTQ5
-NzY5MTg4NCwtMTc3MjE1NzUxNyw2NDYxODgxNzUsLTIwMTUwMT
-AzMTYsLTEzMzYxOTU2ODYsLTEyMjQxOTA3MTQsMzA5NzI5ODI2
-LDYzMzcyNDM4MV19
+eyJoaXN0b3J5IjpbLTYzMDUyNDU1MiwxNzk5OTMyNjQyLC0xNj
+cxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMTc2OTU3
+Nzc1MCwtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgxMDQ1NT
+AsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYxMTI5LC00
+OTc2OTE4ODQsLTE3NzIxNTc1MTcsNjQ2MTg4MTc1LC0yMDE1MD
+EwMzE2LC0xMzM2MTk1Njg2LC0xMjI0MTkwNzE0LDMwOTcyOTgy
+Niw2MzM3MjQzODFdfQ==
 -->
