@@ -94,7 +94,7 @@
 
 
 
-## NAACL 2024
+## NAACL 202406
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
 (KAIST AI，减轻LVLM幻觉，self-feedback)
 - On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)  
@@ -149,11 +149,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjA5ODQzLDEwNjk2NDExNDUsLTE5NT
-E4NTIyNzUsMTE2MTg1NjYyNSw2NzA4MzgyMDYsNzE0Mjc2OTcy
-LC0xMzU5NzA1OTEzLDczMTQ2NzE2NiwxNzk5OTMyNjQyLC0xNj
-cxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMTc2OTU3
-Nzc1MCwtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgxMDQ1NT
-AsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYxMTI5LC00
-OTc2OTE4ODRdfQ==
+eyJoaXN0b3J5IjpbLTM0MDE3NzIxLC04OTYwOTg0MywxMDY5Nj
+QxMTQ1LC0xOTUxODUyMjc1LDExNjE4NTY2MjUsNjcwODM4MjA2
+LDcxNDI3Njk3MiwtMTM1OTcwNTkxMyw3MzE0NjcxNjYsMTc5OT
+kzMjY0MiwtMTY3MTMyMzA3OSwtMjkyODQzOTQsLTE1MTg1MTY1
+ODAsLTE3Njk1Nzc3NTAsLTE2MjYxNjY5MzQsLTIwMDYzNzE4NT
+IsMzk4MTA0NTUwLDIzMzAwMzkwOCwtMjEyNDI1MDU2OCwtMTU0
+NjU2MTEyOV19
 -->
