@@ -134,13 +134,14 @@
 - CRUSH4SQL: Collective Retrieval Using Schema Hallucination For  Text2SQL [[pdf]](https://aclanthology.org/2023.emnlp-main.868/)
 - Hallucination Detection for Generative Large Language Models by  Bayesian Sequential Estimation [[pdf]](https://aclanthology.org/2023.emnlp-main.949/)
 - DelucionQA: Detecting Hallucinations in Domain-specific Question Answering [[pdf]](https://aclanthology.org/2023.findings-emnlp.59/)
+- Towards Mitigating  LLM  Hallucination via Self Reflection [[pdf]](https://aclanthology.org/2023.findings-emnlp.123/)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQxMTY5OTAsMTc5OTkzMjY0MiwtMT
-Y3MTMyMzA3OSwtMjkyODQzOTQsLTE1MTg1MTY1ODAsLTE3Njk1
-Nzc3NTAsLTE2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NT
-UwLDIzMzAwMzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwt
-NDk3NjkxODg0LC0xNzcyMTU3NTE3LDY0NjE4ODE3NSwtMjAxNT
-AxMDMxNiwtMTMzNjE5NTY4NiwtMTIyNDE5MDcxNCwzMDk3Mjk4
-MjYsNjMzNzI0MzgxXX0=
+eyJoaXN0b3J5IjpbLTM2NDA1NjQ1NCwxNzk5OTMyNjQyLC0xNj
+cxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMTc2OTU3
+Nzc1MCwtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgxMDQ1NT
+AsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYxMTI5LC00
+OTc2OTE4ODQsLTE3NzIxNTc1MTcsNjQ2MTg4MTc1LC0yMDE1MD
+EwMzE2LC0xMzM2MTk1Njg2LC0xMjI0MTkwNzE0LDMwOTcyOTgy
+Niw2MzM3MjQzODFdfQ==
 -->
