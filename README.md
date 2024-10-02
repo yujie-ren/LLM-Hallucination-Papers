@@ -71,9 +71,6 @@
 - Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
 (Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
 
-
-
-
 ## NAACL 202406
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
 (KAIST AI，减轻LVLM幻觉，self-feedback)
@@ -153,7 +150,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjY1MDkwNywtODk2MDk4NDMsMTA2OT
+eyJoaXN0b3J5IjpbLTM1MzYxMTA0NSwtODk2MDk4NDMsMTA2OT
 Y0MTE0NSwtMTk1MTg1MjI3NSwxMTYxODU2NjI1LDY3MDgzODIw
 Niw3MTQyNzY5NzIsLTEzNTk3MDU5MTMsNzMxNDY3MTY2LDE3OT
 k5MzI2NDIsLTE2NzEzMjMwNzksLTI5Mjg0Mzk0LC0xNTE4NTE2
