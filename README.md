@@ -138,9 +138,10 @@
 - mmT5: Modular Multilingual Pre-Training Solves Source Language Hallucinations [[pdf]](https://aclanthology.org/2023.findings-emnlp.132/)
 - WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on  Wikipedia [[pdf]](https://aclanthology.org/2023.findings-emnlp.157/)
 - Sources of Hallucination by Large Language Models on Inference Tasks [[pdf]](https://aclanthology.org/2023.findings-emnlp.182/)
+- A New Benchmark and Reverse Validation Method for Passage-level Hallucination Detection [[pdf]](https://aclanthology.org/2023.findings-emnlp.256/)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMyODU0NTEsMTc5OTkzMjY0MiwtMT
+eyJoaXN0b3J5IjpbLTE4ODYyMjQ5NzUsMTc5OTkzMjY0MiwtMT
 Y3MTMyMzA3OSwtMjkyODQzOTQsLTE1MTg1MTY1ODAsLTE3Njk1
 Nzc3NTAsLTE2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NT
 UwLDIzMzAwMzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwt
