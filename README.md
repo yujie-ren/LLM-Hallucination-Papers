@@ -24,8 +24,8 @@
 (Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
 
 ##  Other 2024
+
 ### COLM 24
-**Hallucination, Factuality**
 - Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)  
 (KAIST，检测Multilingual LLM使用不同语言，回答不同地理区域问题时的幻觉程度)
 - PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
@@ -34,7 +34,7 @@
 (U of Washington，**使用了factscore，直接调用FactScorer函数，使用retrieval+ChatGPT**)
 - Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations [[pdf]](https://openreview.net/forum?id=c30qeMg8dv)
 - Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability [[pdf]](https://openreview.net/forum?id=Zt1dwG8xrK)
-**Inspiring**
+**---Inspiring----**
 -  MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs [[pdf]](https://openreview.net/forum?id=X9yV4lFHt4)
 - How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
 
@@ -146,11 +146,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzQwMTAwMiw2NzA4MzgyMDYsNzE0Mj
-c2OTcyLC0xMzU5NzA1OTEzLDczMTQ2NzE2NiwxNzk5OTMyNjQy
-LC0xNjcxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMT
-c2OTU3Nzc1MCwtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgx
-MDQ1NTAsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYxMT
-I5LC00OTc2OTE4ODQsLTE3NzIxNTc1MTcsNjQ2MTg4MTc1LC0y
-MDE1MDEwMzE2XX0=
+eyJoaXN0b3J5IjpbNTE5MjkzOTI4LDY3MDgzODIwNiw3MTQyNz
+Y5NzIsLTEzNTk3MDU5MTMsNzMxNDY3MTY2LDE3OTk5MzI2NDIs
+LTE2NzEzMjMwNzksLTI5Mjg0Mzk0LC0xNTE4NTE2NTgwLC0xNz
+Y5NTc3NzUwLC0xNjI2MTY2OTM0LC0yMDA2MzcxODUyLDM5ODEw
+NDU1MCwyMzMwMDM5MDgsLTIxMjQyNTA1NjgsLTE1NDY1NjExMj
+ksLTQ5NzY5MTg4NCwtMTc3MjE1NzUxNyw2NDYxODgxNzUsLTIw
+MTUwMTAzMTZdfQ==
 -->
