@@ -57,6 +57,9 @@
 - Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding [[pdf]](https://aclanthology.org/2024.findings-acl.937/)  
 (UHH，减轻LVLM幻觉)
 
+##  EMNLP 202411
+- Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
+(Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
 
 ##  arXiv 2024
 - Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
@@ -68,9 +71,8 @@
 - Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
 (UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改)
 
-##  EMNLP 202411
-- Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
-(Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
+
+
 
 ##  Other 2024
 
@@ -147,7 +149,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MzY0NDkzLDEwNjk2NDExNDUsLTE5NT
+eyJoaXN0b3J5IjpbLTg5NjA5ODQzLDEwNjk2NDExNDUsLTE5NT
 E4NTIyNzUsMTE2MTg1NjYyNSw2NzA4MzgyMDYsNzE0Mjc2OTcy
 LC0xMzU5NzA1OTEzLDczMTQ2NzE2NiwxNzk5OTMyNjQyLC0xNj
 cxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMTc2OTU3
