@@ -128,12 +128,13 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Detecting and Mitigating Hallucinations in Multilingual Summarisation [[pdf]](https://aclanthology.org/2023.emnlp-main.551/)
 - SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.557/)
+- Models See Hallucinations: Evaluating the Factuality in Video Captioning [[pdf]](https://aclanthology.org/2023.emnlp-main.723/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjYzODE0MiwxNzk5OTMyNjQyLC0xNj
-cxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMTc2OTU3
-Nzc1MCwtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgxMDQ1NT
-AsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYxMTI5LC00
-OTc2OTE4ODQsLTE3NzIxNTc1MTcsNjQ2MTg4MTc1LC0yMDE1MD
-EwMzE2LC0xMzM2MTk1Njg2LC0xMjI0MTkwNzE0LDMwOTcyOTgy
-Niw2MzM3MjQzODFdfQ==
+eyJoaXN0b3J5IjpbNDg1OTA3Mzk1LDE3OTk5MzI2NDIsLTE2Nz
+EzMjMwNzksLTI5Mjg0Mzk0LC0xNTE4NTE2NTgwLC0xNzY5NTc3
+NzUwLC0xNjI2MTY2OTM0LC0yMDA2MzcxODUyLDM5ODEwNDU1MC
+wyMzMwMDM5MDgsLTIxMjQyNTA1NjgsLTE1NDY1NjExMjksLTQ5
+NzY5MTg4NCwtMTc3MjE1NzUxNyw2NDYxODgxNzUsLTIwMTUwMT
+AzMTYsLTEzMzYxOTU2ODYsLTEyMjQxOTA3MTQsMzA5NzI5ODI2
+LDYzMzcyNDM4MV19
 -->
