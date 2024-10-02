@@ -22,7 +22,7 @@
 (UC Berkeley+Google，**使用了FActScore，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改**)
 
 ###  EMNLP 2024
-- Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)
+- Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
 (Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
 
 ###  COLM 2024
@@ -38,8 +38,6 @@
 
 #### Inspiring
 - MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs [[pdf]](https://openreview.net/forum?id=X9yV4lFHt4)
-
-#### Interest
 - How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
 - Does In-Context Learning Really Learn? Rethinking How Large Language Models Respond and Solve Tasks via In-Context Learning [[pdf]](https://openreview.net/forum?id=i2oJjC0ESQ)
 
@@ -133,11 +131,11 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDYzNzE4NTIsMzk4MTA0NTUwLDIzMz
-AwMzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwtNDk3Njkx
-ODg0LC0xNzcyMTU3NTE3LDY0NjE4ODE3NSwtMjAxNTAxMDMxNi
-wtMTMzNjE5NTY4NiwtMTIyNDE5MDcxNCwzMDk3Mjk4MjYsNjMz
-NzI0MzgxLDM5NzY2MzQ0MSwxOTQ0Njg2MDY3LC0xNDg1Mjg0ND
-c1LC0xODQ4MjE3Nzg3LC01NDEyODcwNzUsNzE1MjY2NjQxLC0x
-OTA5NzMyMjg5XX0=
+eyJoaXN0b3J5IjpbMTQzMTE0OTY5OCwtMjAwNjM3MTg1MiwzOT
+gxMDQ1NTAsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYx
+MTI5LC00OTc2OTE4ODQsLTE3NzIxNTc1MTcsNjQ2MTg4MTc1LC
+0yMDE1MDEwMzE2LC0xMzM2MTk1Njg2LC0xMjI0MTkwNzE0LDMw
+OTcyOTgyNiw2MzM3MjQzODEsMzk3NjYzNDQxLDE5NDQ2ODYwNj
+csLTE0ODUyODQ0NzUsLTE4NDgyMTc3ODcsLTU0MTI4NzA3NSw3
+MTUyNjY2NDFdfQ==
 -->
