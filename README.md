@@ -127,8 +127,9 @@
 - Fine-tuned  LLMs Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over  Wikidata [[pdf]](https://aclanthology.org/2023.emnlp-main.353/)
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Detecting and Mitigating Hallucinations in Multilingual Summarisation [[pdf]](https://aclanthology.org/2023.emnlp-main.551/)
+- SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.557/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDk3OTEyNSwxNzk5OTMyNjQyLC0xNj
+eyJoaXN0b3J5IjpbMTgwMjYzODE0MiwxNzk5OTMyNjQyLC0xNj
 cxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMTc2OTU3
 Nzc1MCwtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgxMDQ1NT
 AsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYxMTI5LC00
