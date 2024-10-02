@@ -109,6 +109,9 @@
 
 ### ICLR 202405
 
+### AAAI 202402
+
+### IJCAI 202408
 
 ## ACL 2023
 - Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity  Even Better [[pdf]](https://aclanthology.org/2023.acl-long.3/)
@@ -148,11 +151,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTYzNzI5Myw0NDQ4OTAwMzgsMTc2Nj
-kzNTAwNCwtMzQ0NTUzODI2LC0zNTM2MTEwNDUsLTg5NjA5ODQz
-LDEwNjk2NDExNDUsLTE5NTE4NTIyNzUsMTE2MTg1NjYyNSw2Nz
-A4MzgyMDYsNzE0Mjc2OTcyLC0xMzU5NzA1OTEzLDczMTQ2NzE2
-NiwxNzk5OTMyNjQyLC0xNjcxMzIzMDc5LC0yOTI4NDM5NCwtMT
-UxODUxNjU4MCwtMTc2OTU3Nzc1MCwtMTYyNjE2NjkzNCwtMjAw
-NjM3MTg1Ml19
+eyJoaXN0b3J5IjpbOTU4NzQxMDA5LDQ0NDg5MDAzOCwxNzY2OT
+M1MDA0LC0zNDQ1NTM4MjYsLTM1MzYxMTA0NSwtODk2MDk4NDMs
+MTA2OTY0MTE0NSwtMTk1MTg1MjI3NSwxMTYxODU2NjI1LDY3MD
+gzODIwNiw3MTQyNzY5NzIsLTEzNTk3MDU5MTMsNzMxNDY3MTY2
+LDE3OTk5MzI2NDIsLTE2NzEzMjMwNzksLTI5Mjg0Mzk0LC0xNT
+E4NTE2NTgwLC0xNzY5NTc3NzUwLC0xNjI2MTY2OTM0LC0yMDA2
+MzcxODUyXX0=
 -->
