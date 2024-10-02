@@ -133,9 +133,10 @@
 - KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection [[pdf]](https://aclanthology.org/2023.emnlp-main.867/)
 - CRUSH4SQL: Collective Retrieval Using Schema Hallucination For  Text2SQL [[pdf]](https://aclanthology.org/2023.emnlp-main.868/)
 - Hallucination Detection for Generative Large Language Models by  Bayesian Sequential Estimation [[pdf]](https://aclanthology.org/2023.emnlp-main.949/)
+- DelucionQA: Detecting Hallucinations in Domain-specific Question Answering [[pdf]](https://aclanthology.org/2023.findings-emnlp.59/)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM4MjkwNzAsMTc5OTkzMjY0MiwtMT
+eyJoaXN0b3J5IjpbLTE2ODQxMTY5OTAsMTc5OTkzMjY0MiwtMT
 Y3MTMyMzA3OSwtMjkyODQzOTQsLTE1MTg1MTY1ODAsLTE3Njk1
 Nzc3NTAsLTE2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NT
 UwLDIzMzAwMzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwt
