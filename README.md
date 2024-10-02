@@ -19,7 +19,7 @@
 -  **Alleviating Hallucinations of Large Language Models through Induced Hallucinations** [[pdf]](https://arxiv.org/abs/2312.15710)  
 Tencent AI，使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT
 - **Unfamiliar Finetuning Examples Control How Language Models Hallucinate** [[pdf]](https://arxiv.org/abs/2403.05612)  
-UC Berkeley+Google，**使用了FActScore，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改**
+UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改
 
 ###  EMNLP 2024
 - Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
@@ -131,7 +131,7 @@ UC Berkeley+Google，**使用了FActScore，使用默认的retrieval+ChatGPT，�
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUxNDAxMzIsLTE3Njk1Nzc3NTAsLT
+eyJoaXN0b3J5IjpbLTE1MTg1MTY1ODAsLTE3Njk1Nzc3NTAsLT
 E2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NTUwLDIzMzAw
 MzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwtNDk3NjkxOD
 g0LC0xNzcyMTU3NTE3LDY0NjE4ODE3NSwtMjAxNTAxMDMxNiwt
