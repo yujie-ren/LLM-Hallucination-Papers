@@ -23,8 +23,8 @@
 - Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
 (Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
 
-###  COLM 2024
-#### COLM 2024
+###  Other 2024
+#### COLM 24
 **Hallucination, Factuality**
 - Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)  
 (KAIST，检测Multilingual LLM使用不同语言，回答不同地理区域问题时的幻觉程度)
@@ -147,11 +147,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgyMTAxODcsLTEzNTk3MDU5MTMsNz
-MxNDY3MTY2LDE3OTk5MzI2NDIsLTE2NzEzMjMwNzksLTI5Mjg0
-Mzk0LC0xNTE4NTE2NTgwLC0xNzY5NTc3NzUwLC0xNjI2MTY2OT
-M0LC0yMDA2MzcxODUyLDM5ODEwNDU1MCwyMzMwMDM5MDgsLTIx
-MjQyNTA1NjgsLTE1NDY1NjExMjksLTQ5NzY5MTg4NCwtMTc3Mj
-E1NzUxNyw2NDYxODgxNzUsLTIwMTUwMTAzMTYsLTEzMzYxOTU2
-ODYsLTEyMjQxOTA3MTRdfQ==
+eyJoaXN0b3J5IjpbMTc1NzY0NTY0OCwtMTM1OTcwNTkxMyw3Mz
+E0NjcxNjYsMTc5OTkzMjY0MiwtMTY3MTMyMzA3OSwtMjkyODQz
+OTQsLTE1MTg1MTY1ODAsLTE3Njk1Nzc3NTAsLTE2MjYxNjY5Mz
+QsLTIwMDYzNzE4NTIsMzk4MTA0NTUwLDIzMzAwMzkwOCwtMjEy
+NDI1MDU2OCwtMTU0NjU2MTEyOSwtNDk3NjkxODg0LC0xNzcyMT
+U3NTE3LDY0NjE4ODE3NSwtMjAxNTAxMDMxNiwtMTMzNjE5NTY4
+NiwtMTIyNDE5MDcxNF19
 -->
