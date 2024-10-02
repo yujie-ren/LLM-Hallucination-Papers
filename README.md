@@ -102,7 +102,7 @@
 **----Inspiring----**
 -  MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs [[pdf]](https://openreview.net/forum?id=X9yV4lFHt4)
 - How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
-
+### NeurIPS 202412
 
 
 ## ACL 2023
@@ -143,11 +143,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjkzNTAwNCwtMzQ0NTUzODI2LC0zNT
-M2MTEwNDUsLTg5NjA5ODQzLDEwNjk2NDExNDUsLTE5NTE4NTIy
-NzUsMTE2MTg1NjYyNSw2NzA4MzgyMDYsNzE0Mjc2OTcyLC0xMz
-U5NzA1OTEzLDczMTQ2NzE2NiwxNzk5OTMyNjQyLC0xNjcxMzIz
-MDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMTc2OTU3Nzc1MC
-wtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgxMDQ1NTAsMjMz
-MDAzOTA4XX0=
+eyJoaXN0b3J5IjpbNDQ0ODkwMDM4LDE3NjY5MzUwMDQsLTM0ND
+U1MzgyNiwtMzUzNjExMDQ1LC04OTYwOTg0MywxMDY5NjQxMTQ1
+LC0xOTUxODUyMjc1LDExNjE4NTY2MjUsNjcwODM4MjA2LDcxND
+I3Njk3MiwtMTM1OTcwNTkxMyw3MzE0NjcxNjYsMTc5OTkzMjY0
+MiwtMTY3MTMyMzA3OSwtMjkyODQzOTQsLTE1MTg1MTY1ODAsLT
+E3Njk1Nzc3NTAsLTE2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMzk4
+MTA0NTUwXX0=
 -->
