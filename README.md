@@ -135,13 +135,14 @@
 - Hallucination Detection for Generative Large Language Models by  Bayesian Sequential Estimation [[pdf]](https://aclanthology.org/2023.emnlp-main.949/)
 - DelucionQA: Detecting Hallucinations in Domain-specific Question Answering [[pdf]](https://aclanthology.org/2023.findings-emnlp.59/)
 - Towards Mitigating  LLM  Hallucination via Self Reflection [[pdf]](https://aclanthology.org/2023.findings-emnlp.123/)
+- mmT5: Modular Multilingual Pre-Training Solves Source Language Hallucinations [[pdf]](https://aclanthology.org/2023.findings-emnlp.132/)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDA1NjQ1NCwxNzk5OTMyNjQyLC0xNj
-cxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMTc2OTU3
-Nzc1MCwtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgxMDQ1NT
-AsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYxMTI5LC00
-OTc2OTE4ODQsLTE3NzIxNTc1MTcsNjQ2MTg4MTc1LC0yMDE1MD
-EwMzE2LC0xMzM2MTk1Njg2LC0xMjI0MTkwNzE0LDMwOTcyOTgy
-Niw2MzM3MjQzODFdfQ==
+eyJoaXN0b3J5IjpbOTk3MzUwMzgxLDE3OTk5MzI2NDIsLTE2Nz
+EzMjMwNzksLTI5Mjg0Mzk0LC0xNTE4NTE2NTgwLC0xNzY5NTc3
+NzUwLC0xNjI2MTY2OTM0LC0yMDA2MzcxODUyLDM5ODEwNDU1MC
+wyMzMwMDM5MDgsLTIxMjQyNTA1NjgsLTE1NDY1NjExMjksLTQ5
+NzY5MTg4NCwtMTc3MjE1NzUxNyw2NDYxODgxNzUsLTIwMTUwMT
+AzMTYsLTEzMzYxOTU2ODYsLTEyMjQxOTA3MTQsMzA5NzI5ODI2
+LDYzMzcyNDM4MV19
 -->
