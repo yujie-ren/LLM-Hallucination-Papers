@@ -2,7 +2,7 @@
 
 ## Contents
 
-|Year |  |      |                      |               |        |
+|Year |      |      |      |      |      |
 |:---:|    :----:        |        :---:         |        :---:         |      :---:    | :---:  |
 |2024| [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |[COLM](#colm-2024)|[arXiv](#arxiv-2024)
 |2023| [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
@@ -129,7 +129,7 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU4OTUwNTcsLTI5Mjg0Mzk0LC0xNT
+eyJoaXN0b3J5IjpbLTE2NzEzMjMwNzksLTI5Mjg0Mzk0LC0xNT
 E4NTE2NTgwLC0xNzY5NTc3NzUwLC0xNjI2MTY2OTM0LC0yMDA2
 MzcxODUyLDM5ODEwNDU1MCwyMzMwMDM5MDgsLTIxMjQyNTA1Nj
 gsLTE1NDY1NjExMjksLTQ5NzY5MTg4NCwtMTc3MjE1NzUxNyw2
