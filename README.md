@@ -136,9 +136,10 @@
 - DelucionQA: Detecting Hallucinations in Domain-specific Question Answering [[pdf]](https://aclanthology.org/2023.findings-emnlp.59/)
 - Towards Mitigating  LLM  Hallucination via Self Reflection [[pdf]](https://aclanthology.org/2023.findings-emnlp.123/)
 - mmT5: Modular Multilingual Pre-Training Solves Source Language Hallucinations [[pdf]](https://aclanthology.org/2023.findings-emnlp.132/)
+- WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on  Wikipedia [[pdf]](https://aclanthology.org/2023.findings-emnlp.157/)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3MzUwMzgxLDE3OTk5MzI2NDIsLTE2Nz
+eyJoaXN0b3J5IjpbOTA4NjY3NDEwLDE3OTk5MzI2NDIsLTE2Nz
 EzMjMwNzksLTI5Mjg0Mzk0LC0xNTE4NTE2NTgwLC0xNzY5NTc3
 NzUwLC0xNjI2MTY2OTM0LC0yMDA2MzcxODUyLDM5ODEwNDU1MC
 wyMzMwMDM5MDgsLTIxMjQyNTA1NjgsLTE1NDY1NjExMjksLTQ5
