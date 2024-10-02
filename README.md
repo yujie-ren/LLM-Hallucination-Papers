@@ -40,7 +40,7 @@
 - How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
 
 
-###  ACL 2024
+##  ACL 2024
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
 - Unified Hallucination Detection for Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.178/)  
@@ -92,7 +92,7 @@
 
 
 
-### NAACL 2024
+## NAACL 2024
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
 (KAIST AI，减轻LVLM幻觉，self-feedback)
 - On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)  
@@ -109,7 +109,7 @@
 (SJTU，减轻幻觉，检测语义框架中的细粒度幻觉)
 
 
-### ACL 2023
+## ACL 2023
 - Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity  Even Better [[pdf]](https://aclanthology.org/2023.acl-long.3/)
 - Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination [[pdf]](https://aclanthology.org/2023.acl-long.329/)
 - Optimal Transport for Unsupervised Hallucination Detection in Neural Machine Translation [[pdf]](https://aclanthology.org/2023.acl-long.770/)
@@ -117,7 +117,7 @@
 - RHO: Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding [[pdf]](https://aclanthology.org/2023.findings-acl.275/)
 - CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization [[pdf]](https://aclanthology.org/2023.findings-acl.685/)
 
-### EMNLP 2023
+## EMNLP 2023
 - Evaluating Object Hallucination in Large Vision-Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.20/)
 - HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation [[pdf]](https://aclanthology.org/2023.emnlp-main.42/)
 - Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus [[pdf]](https://aclanthology.org/2023.emnlp-main.58/)
@@ -147,11 +147,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mzk2MzY4NCwtMTM1OTcwNTkxMyw3Mz
-E0NjcxNjYsMTc5OTkzMjY0MiwtMTY3MTMyMzA3OSwtMjkyODQz
-OTQsLTE1MTg1MTY1ODAsLTE3Njk1Nzc3NTAsLTE2MjYxNjY5Mz
-QsLTIwMDYzNzE4NTIsMzk4MTA0NTUwLDIzMzAwMzkwOCwtMjEy
-NDI1MDU2OCwtMTU0NjU2MTEyOSwtNDk3NjkxODg0LC0xNzcyMT
-U3NTE3LDY0NjE4ODE3NSwtMjAxNTAxMDMxNiwtMTMzNjE5NTY4
-NiwtMTIyNDE5MDcxNF19
+eyJoaXN0b3J5IjpbNzE0Mjc2OTcyLC0xMzU5NzA1OTEzLDczMT
+Q2NzE2NiwxNzk5OTMyNjQyLC0xNjcxMzIzMDc5LC0yOTI4NDM5
+NCwtMTUxODUxNjU4MCwtMTc2OTU3Nzc1MCwtMTYyNjE2NjkzNC
+wtMjAwNjM3MTg1MiwzOTgxMDQ1NTAsMjMzMDAzOTA4LC0yMTI0
+MjUwNTY4LC0xNTQ2NTYxMTI5LC00OTc2OTE4ODQsLTE3NzIxNT
+c1MTcsNjQ2MTg4MTc1LC0yMDE1MDEwMzE2LC0xMzM2MTk1Njg2
+LC0xMjI0MTkwNzE0XX0=
 -->
