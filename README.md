@@ -34,7 +34,6 @@
 (U of Washington，**使用了factscore，直接调用FactScorer函数，使用retrieval+ChatGPT**)
 - Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations [[pdf]](https://openreview.net/forum?id=c30qeMg8dv)
 - Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability [[pdf]](https://openreview.net/forum?id=Zt1dwG8xrK)
-
 **Inspiring**
 - MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs [[pdf]](https://openreview.net/forum?id=X9yV4lFHt4)
 - How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
@@ -147,11 +146,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0Mjc2OTcyLC0xMzU5NzA1OTEzLDczMT
-Q2NzE2NiwxNzk5OTMyNjQyLC0xNjcxMzIzMDc5LC0yOTI4NDM5
-NCwtMTUxODUxNjU4MCwtMTc2OTU3Nzc1MCwtMTYyNjE2NjkzNC
-wtMjAwNjM3MTg1MiwzOTgxMDQ1NTAsMjMzMDAzOTA4LC0yMTI0
-MjUwNTY4LC0xNTQ2NTYxMTI5LC00OTc2OTE4ODQsLTE3NzIxNT
-c1MTcsNjQ2MTg4MTc1LC0yMDE1MDEwMzE2LC0xMzM2MTk1Njg2
-LC0xMjI0MTkwNzE0XX0=
+eyJoaXN0b3J5IjpbNjcwODM4MjA2LDcxNDI3Njk3MiwtMTM1OT
+cwNTkxMyw3MzE0NjcxNjYsMTc5OTkzMjY0MiwtMTY3MTMyMzA3
+OSwtMjkyODQzOTQsLTE1MTg1MTY1ODAsLTE3Njk1Nzc3NTAsLT
+E2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NTUwLDIzMzAw
+MzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwtNDk3NjkxOD
+g0LC0xNzcyMTU3NTE3LDY0NjE4ODE3NSwtMjAxNTAxMDMxNiwt
+MTMzNjE5NTY4Nl19
 -->
