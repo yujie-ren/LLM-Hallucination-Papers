@@ -13,13 +13,13 @@
 
 ###  arXiv 2024
 - Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
-(在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据)
+<在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据>
 - Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](https://arxiv.org/abs/2409.12784)  
-(提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea。)
+<提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea。>
 -  Alleviating Hallucinations of Large Language Models through Induced Hallucinations [[pdf]](https://arxiv.org/abs/2312.15710)  
-(Tencent AI，**使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT**)
+<Tencent AI，**使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT**>
 - Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
-(UC Berkeley+Google，**使用了FActScore，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改**)
+<UC Berkeley+Google，**使用了FActScore，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改**>
 
 ###  EMNLP 2024
 - Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
@@ -131,11 +131,11 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTE0OTY5OCwtMjAwNjM3MTg1MiwzOT
-gxMDQ1NTAsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYx
-MTI5LC00OTc2OTE4ODQsLTE3NzIxNTc1MTcsNjQ2MTg4MTc1LC
-0yMDE1MDEwMzE2LC0xMzM2MTk1Njg2LC0xMjI0MTkwNzE0LDMw
-OTcyOTgyNiw2MzM3MjQzODEsMzk3NjYzNDQxLDE5NDQ2ODYwNj
-csLTE0ODUyODQ0NzUsLTE4NDgyMTc3ODcsLTU0MTI4NzA3NSw3
-MTUyNjY2NDFdfQ==
+eyJoaXN0b3J5IjpbLTE2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMz
+k4MTA0NTUwLDIzMzAwMzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2
+MTEyOSwtNDk3NjkxODg0LC0xNzcyMTU3NTE3LDY0NjE4ODE3NS
+wtMjAxNTAxMDMxNiwtMTMzNjE5NTY4NiwtMTIyNDE5MDcxNCwz
+MDk3Mjk4MjYsNjMzNzI0MzgxLDM5NzY2MzQ0MSwxOTQ0Njg2MD
+Y3LC0xNDg1Mjg0NDc1LC0xODQ4MjE3Nzg3LC01NDEyODcwNzUs
+NzE1MjY2NjQxXX0=
 -->
