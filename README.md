@@ -37,7 +37,6 @@
 #### Inspiring
 - MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs [[pdf]](https://openreview.net/forum?id=X9yV4lFHt4)
 - How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
-- Does In-Context Learning Really Learn? Rethinking How Large Language Models Respond and Solve Tasks via In-Context Learning [[pdf]](https://openreview.net/forum?id=i2oJjC0ESQ)
 
 
 ###  ACL 2024
@@ -129,11 +128,11 @@
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzEzMjMwNzksLTI5Mjg0Mzk0LC0xNT
-E4NTE2NTgwLC0xNzY5NTc3NzUwLC0xNjI2MTY2OTM0LC0yMDA2
-MzcxODUyLDM5ODEwNDU1MCwyMzMwMDM5MDgsLTIxMjQyNTA1Nj
-gsLTE1NDY1NjExMjksLTQ5NzY5MTg4NCwtMTc3MjE1NzUxNyw2
-NDYxODgxNzUsLTIwMTUwMTAzMTYsLTEzMzYxOTU2ODYsLTEyMj
-QxOTA3MTQsMzA5NzI5ODI2LDYzMzcyNDM4MSwzOTc2NjM0NDEs
-MTk0NDY4NjA2N119
+eyJoaXN0b3J5IjpbMTc5OTkzMjY0MiwtMTY3MTMyMzA3OSwtMj
+kyODQzOTQsLTE1MTg1MTY1ODAsLTE3Njk1Nzc3NTAsLTE2MjYx
+NjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NTUwLDIzMzAwMzkwOC
+wtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwtNDk3NjkxODg0LC0x
+NzcyMTU3NTE3LDY0NjE4ODE3NSwtMjAxNTAxMDMxNiwtMTMzNj
+E5NTY4NiwtMTIyNDE5MDcxNCwzMDk3Mjk4MjYsNjMzNzI0Mzgx
+LDM5NzY2MzQ0MV19
 -->
