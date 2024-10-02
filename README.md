@@ -17,7 +17,7 @@
 - **Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering** [[pdf]](https://arxiv.org/abs/2409.12784)  
 提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea。
 -  **Alleviating Hallucinations of Large Language Models through Induced Hallucinations** [[pdf]](https://arxiv.org/abs/2312.15710)  
-Tencent AI，**使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT**
+Tencent AI，使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT
 - **Unfamiliar Finetuning Examples Control How Language Models Hallucinate** [[pdf]](https://arxiv.org/abs/2403.05612)  
 UC Berkeley+Google，**使用了FActScore，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改**
 
@@ -131,7 +131,7 @@ UC Berkeley+Google，**使用了FActScore，使用默认的retrieval+ChatGPT，�
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ5NjQ3NzIsLTE3Njk1Nzc3NTAsLT
+eyJoaXN0b3J5IjpbLTE0OTUxNDAxMzIsLTE3Njk1Nzc3NTAsLT
 E2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NTUwLDIzMzAw
 MzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwtNDk3NjkxOD
 g0LC0xNzcyMTU3NTE3LDY0NjE4ODE3NSwtMjAxNTAxMDMxNiwt
