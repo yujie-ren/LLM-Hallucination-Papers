@@ -4,8 +4,18 @@
 
 |Year |      |      |      |      |      |
 |:---:|    :----:        |        :---:         |        :---:         |      :---:    | :---:  |
-|2024| [ACL](#acl-202408) | [EMNLP](#emnlp-202411) | [NAACL](#naacl-2024) |[Other](#other-2024)|[arXiv](#arxiv-2024)
+|2024| [ACL](#acl-202408) | [EMNLP](#emnlp-202411) | [NAACL](#naacl-202406) |[Other](#other-2024)|[arXiv](#arxiv-2024)
 |2023| [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
+
+##  arXiv 2024
+- Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
+(在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据)
+- Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](https://arxiv.org/abs/2409.12784)  
+(提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea)
+-  Alleviating Hallucinations of Large Language Models through Induced Hallucinations [[pdf]](https://arxiv.org/abs/2312.15710)  
+(Tencent AI，使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT)
+- Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
+(UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改)
 
 ##  ACL 202408
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
@@ -61,17 +71,24 @@
 - Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
 (Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
 
-##  arXiv 2024
-- Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
-(在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据)
-- Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](https://arxiv.org/abs/2409.12784)  
-(提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea)
--  Alleviating Hallucinations of Large Language Models through Induced Hallucinations [[pdf]](https://arxiv.org/abs/2312.15710)  
-(Tencent AI，使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT)
-- Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
-(UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改)
 
 
+
+## NAACL 202406
+- Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
+(KAIST AI，减轻LVLM幻觉，self-feedback)
+- On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)  
+(THU，从inference dynamics角度研究“LLM知道正确答案，依然出现幻觉的现象”，利用dynamics构建分类器检测幻觉)
+- Language Models Hallucinate, but May Excel at Fact Verification [[pdf]](https://aclanthology.org/2024.naacl-long.62/)  
+(THU，LLM as a Judge，与人的判断进行比较，像自己用GPT4衡量Truthfulqa)
+- Can Knowledge Graphs Reduce Hallucinations in  LLMs? : A Survey [[pdf]](https://aclanthology.org/2024.naacl-long.219/)  
+(Arizona State University，综述：利用知识图谱减轻幻觉)
+- TofuEval: Evaluating Hallucinations of  LLMs on Topic-Focused Dialogue Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.251/)  
+(AWS，提出benchmark，检测LLM在Topic-Focused Dialogue Summarization上的幻觉表现)
+- Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)  
+(UC Davis，结合幻觉和reasoning，语义联想引起的幻觉)
+- Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)  
+(SJTU，减轻幻觉，检测语义框架中的细粒度幻觉)
 
 
 ##  Other 2024
@@ -94,21 +111,8 @@
 
 
 
-## NAACL 202406
-- Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
-(KAIST AI，减轻LVLM幻觉，self-feedback)
-- On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)  
-(THU，从inference dynamics角度研究“LLM知道正确答案，依然出现幻觉的现象”，利用dynamics构建分类器检测幻觉)
-- Language Models Hallucinate, but May Excel at Fact Verification [[pdf]](https://aclanthology.org/2024.naacl-long.62/)  
-(THU，LLM as a Judge，与人的判断进行比较，像自己用GPT4衡量Truthfulqa)
-- Can Knowledge Graphs Reduce Hallucinations in  LLMs? : A Survey [[pdf]](https://aclanthology.org/2024.naacl-long.219/)  
-(Arizona State University，综述：利用知识图谱减轻幻觉)
-- TofuEval: Evaluating Hallucinations of  LLMs on Topic-Focused Dialogue Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.251/)  
-(AWS，提出benchmark，检测LLM在Topic-Focused Dialogue Summarization上的幻觉表现)
-- Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)  
-(UC Davis，结合幻觉和reasoning，语义联想引起的幻觉)
-- Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)  
-(SJTU，减轻幻觉，检测语义框架中的细粒度幻觉)
+
+
 
 
 ## ACL 2023
@@ -149,11 +153,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDE3NzIxLC04OTYwOTg0MywxMDY5Nj
-QxMTQ1LC0xOTUxODUyMjc1LDExNjE4NTY2MjUsNjcwODM4MjA2
-LDcxNDI3Njk3MiwtMTM1OTcwNTkxMyw3MzE0NjcxNjYsMTc5OT
-kzMjY0MiwtMTY3MTMyMzA3OSwtMjkyODQzOTQsLTE1MTg1MTY1
-ODAsLTE3Njk1Nzc3NTAsLTE2MjYxNjY5MzQsLTIwMDYzNzE4NT
-IsMzk4MTA0NTUwLDIzMzAwMzkwOCwtMjEyNDI1MDU2OCwtMTU0
-NjU2MTEyOV19
+eyJoaXN0b3J5IjpbLTY4NjY1MDkwNywtODk2MDk4NDMsMTA2OT
+Y0MTE0NSwtMTk1MTg1MjI3NSwxMTYxODU2NjI1LDY3MDgzODIw
+Niw3MTQyNzY5NzIsLTEzNTk3MDU5MTMsNzMxNDY3MTY2LDE3OT
+k5MzI2NDIsLTE2NzEzMjMwNzksLTI5Mjg0Mzk0LC0xNTE4NTE2
+NTgwLC0xNzY5NTc3NzUwLC0xNjI2MTY2OTM0LC0yMDA2MzcxOD
+UyLDM5ODEwNDU1MCwyMzMwMDM5MDgsLTIxMjQyNTA1NjgsLTE1
+NDY1NjExMjldfQ==
 -->
