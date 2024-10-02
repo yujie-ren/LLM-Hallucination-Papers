@@ -12,14 +12,14 @@
 ## Conference Papers
 
 ###  arXiv 2024
-- **Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?** [[pdf]](https://arxiv.org/abs/2405.05904)  
-在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据
-- **Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering** [[pdf]](https://arxiv.org/abs/2409.12784)  
-提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea。
--  **Alleviating Hallucinations of Large Language Models through Induced Hallucinations** [[pdf]](https://arxiv.org/abs/2312.15710)  
-Tencent AI，使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT
-- **Unfamiliar Finetuning Examples Control How Language Models Hallucinate** [[pdf]](https://arxiv.org/abs/2403.05612)  
-UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改
+- Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
+(在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据)
+- Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](https://arxiv.org/abs/2409.12784)  
+(提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea)
+-  Alleviating Hallucinations of Large Language Models through Induced Hallucinations [[pdf]](https://arxiv.org/abs/2312.15710)  
+(Tencent AI，使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT)
+- Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
+(UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改)
 
 ###  EMNLP 2024
 - Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
@@ -131,11 +131,11 @@ UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT�
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
 - Continuing soon ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg1MTY1ODAsLTE3Njk1Nzc3NTAsLT
-E2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NTUwLDIzMzAw
-MzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwtNDk3NjkxOD
-g0LC0xNzcyMTU3NTE3LDY0NjE4ODE3NSwtMjAxNTAxMDMxNiwt
-MTMzNjE5NTY4NiwtMTIyNDE5MDcxNCwzMDk3Mjk4MjYsNjMzNz
-I0MzgxLDM5NzY2MzQ0MSwxOTQ0Njg2MDY3LC0xNDg1Mjg0NDc1
-LC0xODQ4MjE3Nzg3XX0=
+eyJoaXN0b3J5IjpbLTI5Mjg0Mzk0LC0xNTE4NTE2NTgwLC0xNz
+Y5NTc3NzUwLC0xNjI2MTY2OTM0LC0yMDA2MzcxODUyLDM5ODEw
+NDU1MCwyMzMwMDM5MDgsLTIxMjQyNTA1NjgsLTE1NDY1NjExMj
+ksLTQ5NzY5MTg4NCwtMTc3MjE1NzUxNyw2NDYxODgxNzUsLTIw
+MTUwMTAzMTYsLTEzMzYxOTU2ODYsLTEyMjQxOTA3MTQsMzA5Nz
+I5ODI2LDYzMzcyNDM4MSwzOTc2NjM0NDEsMTk0NDY4NjA2Nywt
+MTQ4NTI4NDQ3NV19
 -->
