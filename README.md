@@ -126,13 +126,13 @@
 - The Curious Case of Hallucinatory (Un)answerability: Finding Truths in the Hidden States of Over-Confident Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.220/)
 - Fine-tuned  LLMs Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over  Wikidata [[pdf]](https://aclanthology.org/2023.emnlp-main.353/)
 - HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
-- Continuing soon ...
+- Detecting and Mitigating Hallucinations in Multilingual Summarisation [[pdf]](https://aclanthology.org/2023.emnlp-main.551/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTkzMjY0MiwtMTY3MTMyMzA3OSwtMj
-kyODQzOTQsLTE1MTg1MTY1ODAsLTE3Njk1Nzc3NTAsLTE2MjYx
-NjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NTUwLDIzMzAwMzkwOC
-wtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwtNDk3NjkxODg0LC0x
-NzcyMTU3NTE3LDY0NjE4ODE3NSwtMjAxNTAxMDMxNiwtMTMzNj
-E5NTY4NiwtMTIyNDE5MDcxNCwzMDk3Mjk4MjYsNjMzNzI0Mzgx
-LDM5NzY2MzQ0MV19
+eyJoaXN0b3J5IjpbLTI5MDk3OTEyNSwxNzk5OTMyNjQyLC0xNj
+cxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMTc2OTU3
+Nzc1MCwtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgxMDQ1NT
+AsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYxMTI5LC00
+OTc2OTE4ODQsLTE3NzIxNTc1MTcsNjQ2MTg4MTc1LC0yMDE1MD
+EwMzE2LC0xMzM2MTk1Njg2LC0xMjI0MTkwNzE0LDMwOTcyOTgy
+Niw2MzM3MjQzODFdfQ==
 -->
