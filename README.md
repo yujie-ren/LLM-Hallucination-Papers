@@ -7,38 +7,6 @@
 |2024| [ACL](#acl-2024) | [EMNLP](#emnlp-2024) | [NAACL](#naacl-2024) |[Other](#other-2024)|[arXiv](#arxiv-2024)
 |2023| [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
 
-
-
-##  arXiv 2024
-- Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
-(在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据)
-- Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](https://arxiv.org/abs/2409.12784)  
-(提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea)
--  Alleviating Hallucinations of Large Language Models through Induced Hallucinations [[pdf]](https://arxiv.org/abs/2312.15710)  
-(Tencent AI，使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT)
-- Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
-(UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改)
-
-##  EMNLP 2024
-- Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
-(Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
-
-##  Other 2024
-
-### COLM 24
-- Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)  
-(KAIST，检测Multilingual LLM使用不同语言，回答不同地理区域问题时的幻觉程度)
-- PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
-- Evaluating LLMs at Detecting Errors in LLM Responses [[pdf]](https://openreview.net/forum?id=dnwRScljXr)
-- Fine-grained Hallucination Detection and Editing for Language Models [[pdf]](https://openreview.net/forum?id=dJMTn3QOWO)  
-(U of Washington，**使用了factscore，直接调用FactScorer函数，使用retrieval+ChatGPT**)
-- Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations [[pdf]](https://openreview.net/forum?id=c30qeMg8dv)
-- Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability [[pdf]](https://openreview.net/forum?id=Zt1dwG8xrK)
-**----Inspiring----**
--  MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs [[pdf]](https://openreview.net/forum?id=X9yV4lFHt4)
-- How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
-
-
 ##  ACL 2024
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
@@ -88,6 +56,39 @@
 (THU，利用LLM内部状态检测幻觉)
 - Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding [[pdf]](https://aclanthology.org/2024.findings-acl.937/)  
 (UHH，减轻LVLM幻觉)
+
+
+##  arXiv 2024
+- Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
+(在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据)
+- Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](https://arxiv.org/abs/2409.12784)  
+(提出dataset，采用VQA来衡量text-to-image产生图片的真实性。Image hallucination (text-to-image过程中产生的幻觉)看起来是比较新的领域，可在该领域酝酿idea)
+-  Alleviating Hallucinations of Large Language Models through Induced Hallucinations [[pdf]](https://arxiv.org/abs/2312.15710)  
+(Tencent AI，使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT)
+- Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
+(UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改)
+
+##  EMNLP 2024
+- Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
+(Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
+
+##  Other 2024
+
+### COLM 24
+- Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)  
+(KAIST，检测Multilingual LLM使用不同语言，回答不同地理区域问题时的幻觉程度)
+- PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
+- Evaluating LLMs at Detecting Errors in LLM Responses [[pdf]](https://openreview.net/forum?id=dnwRScljXr)
+- Fine-grained Hallucination Detection and Editing for Language Models [[pdf]](https://openreview.net/forum?id=dJMTn3QOWO)  
+(U of Washington，**使用了factscore，直接调用FactScorer函数，使用retrieval+ChatGPT**)
+- Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations [[pdf]](https://openreview.net/forum?id=c30qeMg8dv)
+- Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability [[pdf]](https://openreview.net/forum?id=Zt1dwG8xrK)
+**----Inspiring----**
+-  MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs [[pdf]](https://openreview.net/forum?id=X9yV4lFHt4)
+- How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
+
+
+
 
 
 
@@ -146,11 +147,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTg1NjYyNSw2NzA4MzgyMDYsNzE0Mj
-c2OTcyLC0xMzU5NzA1OTEzLDczMTQ2NzE2NiwxNzk5OTMyNjQy
-LC0xNjcxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMT
-c2OTU3Nzc1MCwtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgx
-MDQ1NTAsMjMzMDAzOTA4LC0yMTI0MjUwNTY4LC0xNTQ2NTYxMT
-I5LC00OTc2OTE4ODQsLTE3NzIxNTc1MTcsNjQ2MTg4MTc1LC0y
-MDE1MDEwMzE2XX0=
+eyJoaXN0b3J5IjpbLTE5NTE4NTIyNzUsMTE2MTg1NjYyNSw2Nz
+A4MzgyMDYsNzE0Mjc2OTcyLC0xMzU5NzA1OTEzLDczMTQ2NzE2
+NiwxNzk5OTMyNjQyLC0xNjcxMzIzMDc5LC0yOTI4NDM5NCwtMT
+UxODUxNjU4MCwtMTc2OTU3Nzc1MCwtMTYyNjE2NjkzNCwtMjAw
+NjM3MTg1MiwzOTgxMDQ1NTAsMjMzMDAzOTA4LC0yMTI0MjUwNT
+Y4LC0xNTQ2NTYxMTI5LC00OTc2OTE4ODQsLTE3NzIxNTc1MTcs
+NjQ2MTg4MTc1XX0=
 -->
