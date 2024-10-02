@@ -105,13 +105,6 @@
 
 
 
-
-
-
-
-
-
-
 ## ACL 2023
 - Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity  Even Better [[pdf]](https://aclanthology.org/2023.acl-long.3/)
 - Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination [[pdf]](https://aclanthology.org/2023.acl-long.329/)
@@ -150,11 +143,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDU1MzgyNiwtMzUzNjExMDQ1LC04OT
-YwOTg0MywxMDY5NjQxMTQ1LC0xOTUxODUyMjc1LDExNjE4NTY2
-MjUsNjcwODM4MjA2LDcxNDI3Njk3MiwtMTM1OTcwNTkxMyw3Mz
-E0NjcxNjYsMTc5OTkzMjY0MiwtMTY3MTMyMzA3OSwtMjkyODQz
-OTQsLTE1MTg1MTY1ODAsLTE3Njk1Nzc3NTAsLTE2MjYxNjY5Mz
-QsLTIwMDYzNzE4NTIsMzk4MTA0NTUwLDIzMzAwMzkwOCwtMjEy
-NDI1MDU2OF19
+eyJoaXN0b3J5IjpbMTc2NjkzNTAwNCwtMzQ0NTUzODI2LC0zNT
+M2MTEwNDUsLTg5NjA5ODQzLDEwNjk2NDExNDUsLTE5NTE4NTIy
+NzUsMTE2MTg1NjYyNSw2NzA4MzgyMDYsNzE0Mjc2OTcyLC0xMz
+U5NzA1OTEzLDczMTQ2NzE2NiwxNzk5OTMyNjQyLC0xNjcxMzIz
+MDc5LC0yOTI4NDM5NCwtMTUxODUxNjU4MCwtMTc2OTU3Nzc1MC
+wtMTYyNjE2NjkzNCwtMjAwNjM3MTg1MiwzOTgxMDQ1NTAsMjMz
+MDAzOTA4XX0=
 -->
