@@ -144,12 +144,13 @@
 - CReTIHC: Designing Causal Reasoning Tasks about Temporal Interventions and Hallucinated Confoundings [[pdf]](https://aclanthology.org/2023.findings-emnlp.693/)
 - Eyes Show the Way: Modelling Gaze Behaviour for Hallucination Detection [[pdf]](https://aclanthology.org/2023.findings-emnlp.764/)
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
+- Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc5OTkzMjQsMTc5OTkzMjY0MiwtMT
-Y3MTMyMzA3OSwtMjkyODQzOTQsLTE1MTg1MTY1ODAsLTE3Njk1
-Nzc3NTAsLTE2MjYxNjY5MzQsLTIwMDYzNzE4NTIsMzk4MTA0NT
-UwLDIzMzAwMzkwOCwtMjEyNDI1MDU2OCwtMTU0NjU2MTEyOSwt
-NDk3NjkxODg0LC0xNzcyMTU3NTE3LDY0NjE4ODE3NSwtMjAxNT
-AxMDMxNiwtMTMzNjE5NTY4NiwtMTIyNDE5MDcxNCwzMDk3Mjk4
-MjYsNjMzNzI0MzgxXX0=
+eyJoaXN0b3J5IjpbNzMxNDY3MTY2LDE3OTk5MzI2NDIsLTE2Nz
+EzMjMwNzksLTI5Mjg0Mzk0LC0xNTE4NTE2NTgwLC0xNzY5NTc3
+NzUwLC0xNjI2MTY2OTM0LC0yMDA2MzcxODUyLDM5ODEwNDU1MC
+wyMzMwMDM5MDgsLTIxMjQyNTA1NjgsLTE1NDY1NjExMjksLTQ5
+NzY5MTg4NCwtMTc3MjE1NzUxNyw2NDYxODgxNzUsLTIwMTUwMT
+AzMTYsLTEzMzYxOTU2ODYsLTEyMjQxOTA3MTQsMzA5NzI5ODI2
+LDYzMzcyNDM4MV19
 -->
