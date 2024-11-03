@@ -22,7 +22,7 @@
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
 - Unified Hallucination Detection for Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.178/)  
 (ZJU，多模态大模型幻觉Detection，提出数据集)
-- Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration [[pdf]](https://aclanthology.org/2024.acl-long.786/)
+- Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration [[pdf]](https://aclanthology.org/2024.acl-long.786/)  
 (UoW,前面遗漏的文章，提到了LLM幻觉和知识)
 - UHGEval: Benchmarking the Hallucination of  Chinese Large Language Models via Unconstrained Generation [[pdf]](https://aclanthology.org/2024.acl-long.288/)  
 (RUC，评估LLM幻觉，提出无限制生成数据集)
