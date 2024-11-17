@@ -19,9 +19,9 @@
 
 ##  EMNLP 202411
 - EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
-(NJU, Mitigating object hallucination in MLLMs, Gradient ascent by designing losses)
+(NJU, Mitigate object hallucination in MLLMs, Gradient ascent by designing losses)
 - Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
-(MIT, )
+(MIT, Detect consistent hallucination, )
 
 
 ##  ACL 202408
@@ -160,11 +160,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIxNTc3OTcsLTEwMTE1MzA4MTksOT
-c5MDc0Mjg0LDk1ODc0MTAwOSw0NDQ4OTAwMzgsMTc2NjkzNTAw
-NCwtMzQ0NTUzODI2LC0zNTM2MTEwNDUsLTg5NjA5ODQzLDEwNj
-k2NDExNDUsLTE5NTE4NTIyNzUsMTE2MTg1NjYyNSw2NzA4Mzgy
-MDYsNzE0Mjc2OTcyLC0xMzU5NzA1OTEzLDczMTQ2NzE2NiwxNz
-k5OTMyNjQyLC0xNjcxMzIzMDc5LC0yOTI4NDM5NCwtMTUxODUx
-NjU4MF19
+eyJoaXN0b3J5IjpbOTYyNzEzNjg2LC0xODIyMTU3Nzk3LC0xMD
+ExNTMwODE5LDk3OTA3NDI4NCw5NTg3NDEwMDksNDQ0ODkwMDM4
+LDE3NjY5MzUwMDQsLTM0NDU1MzgyNiwtMzUzNjExMDQ1LC04OT
+YwOTg0MywxMDY5NjQxMTQ1LC0xOTUxODUyMjc1LDExNjE4NTY2
+MjUsNjcwODM4MjA2LDcxNDI3Njk3MiwtMTM1OTcwNTkxMyw3Mz
+E0NjcxNjYsMTc5OTkzMjY0MiwtMTY3MTMyMzA3OSwtMjkyODQz
+OTRdfQ==
 -->
