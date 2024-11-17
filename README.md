@@ -26,7 +26,8 @@
 (NUAA, Mitigate object hallucination in VLMs, Feedback, Penalty decoding)
 4. Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection [[pdf]](https://aclanthology.org/2024.emnlp-main.116/)  
 (ZJU, Detect hallucination in LLMs, Embedding and gradient information, plug-and-play, sota)
-
+5. Knowledge Verification to Nip Hallucination in the Bud [[pdf]](https://aclanthology.org/2024.emnlp-main.152/)  
+()
 
 ##  ACL 202408
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
@@ -164,11 +165,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyOTQyNTkxLDMwMzgyODAxMiwtMTQyMj
-cyNTkzNiw5NjI3MTM2ODYsLTE4MjIxNTc3OTcsLTEwMTE1MzA4
-MTksOTc5MDc0Mjg0LDk1ODc0MTAwOSw0NDQ4OTAwMzgsMTc2Nj
-kzNTAwNCwtMzQ0NTUzODI2LC0zNTM2MTEwNDUsLTg5NjA5ODQz
-LDEwNjk2NDExNDUsLTE5NTE4NTIyNzUsMTE2MTg1NjYyNSw2Nz
-A4MzgyMDYsNzE0Mjc2OTcyLC0xMzU5NzA1OTEzLDczMTQ2NzE2
-Nl19
+eyJoaXN0b3J5IjpbMTY2NDcyMTQ5LDQ4Mjk0MjU5MSwzMDM4Mj
+gwMTIsLTE0MjI3MjU5MzYsOTYyNzEzNjg2LC0xODIyMTU3Nzk3
+LC0xMDExNTMwODE5LDk3OTA3NDI4NCw5NTg3NDEwMDksNDQ0OD
+kwMDM4LDE3NjY5MzUwMDQsLTM0NDU1MzgyNiwtMzUzNjExMDQ1
+LC04OTYwOTg0MywxMDY5NjQxMTQ1LC0xOTUxODUyMjc1LDExNj
+E4NTY2MjUsNjcwODM4MjA2LDcxNDI3Njk3MiwtMTM1OTcwNTkx
+M119
 -->
