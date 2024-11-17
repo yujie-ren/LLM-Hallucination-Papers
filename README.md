@@ -29,7 +29,7 @@
 5. Knowledge Verification to Nip Hallucination in the Bud [[pdf]](https://aclanthology.org/2024.emnlp-main.152/)  
 (SunU, Mitigate hallucination in LLMs, Reduce knowledge inconsistency between external knowledge & foundation LLM)
 6. Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.155/)  
-(CAS, )
+(CAS, Analysis & Mitigate False Premise Hallucinations in LLMs)
 
 
 ##  ACL 202408
@@ -168,11 +168,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDg4MDk5MSwyMTE2NTE0ODAyLDQ4Mj
-k0MjU5MSwzMDM4MjgwMTIsLTE0MjI3MjU5MzYsOTYyNzEzNjg2
-LC0xODIyMTU3Nzk3LC0xMDExNTMwODE5LDk3OTA3NDI4NCw5NT
-g3NDEwMDksNDQ0ODkwMDM4LDE3NjY5MzUwMDQsLTM0NDU1Mzgy
-NiwtMzUzNjExMDQ1LC04OTYwOTg0MywxMDY5NjQxMTQ1LC0xOT
-UxODUyMjc1LDExNjE4NTY2MjUsNjcwODM4MjA2LDcxNDI3Njk3
-Ml19
+eyJoaXN0b3J5IjpbMTk5NzA1ODE0MCwyMTQ0ODgwOTkxLDIxMT
+Y1MTQ4MDIsNDgyOTQyNTkxLDMwMzgyODAxMiwtMTQyMjcyNTkz
+Niw5NjI3MTM2ODYsLTE4MjIxNTc3OTcsLTEwMTE1MzA4MTksOT
+c5MDc0Mjg0LDk1ODc0MTAwOSw0NDQ4OTAwMzgsMTc2NjkzNTAw
+NCwtMzQ0NTUzODI2LC0zNTM2MTEwNDUsLTg5NjA5ODQzLDEwNj
+k2NDExNDUsLTE5NTE4NTIyNzUsMTE2MTg1NjYyNSw2NzA4Mzgy
+MDZdfQ==
 -->
