@@ -25,7 +25,7 @@
 3. HELPD: Mitigating Hallucination of  LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding [[pdf]](https://aclanthology.org/2024.emnlp-main.105/)  
 (NUAA, Mitigate object hallucination in VLMs, Feedback, Penalty decoding)
 4. Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection [[pdf]](https://aclanthology.org/2024.emnlp-main.116/)  
-
+()
 
 
 ##  ACL 202408
@@ -164,11 +164,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzAwNDcyNiwtMTQyMjcyNTkzNiw5Nj
-I3MTM2ODYsLTE4MjIxNTc3OTcsLTEwMTE1MzA4MTksOTc5MDc0
-Mjg0LDk1ODc0MTAwOSw0NDQ4OTAwMzgsMTc2NjkzNTAwNCwtMz
-Q0NTUzODI2LC0zNTM2MTEwNDUsLTg5NjA5ODQzLDEwNjk2NDEx
-NDUsLTE5NTE4NTIyNzUsMTE2MTg1NjYyNSw2NzA4MzgyMDYsNz
-E0Mjc2OTcyLC0xMzU5NzA1OTEzLDczMTQ2NzE2NiwxNzk5OTMy
-NjQyXX0=
+eyJoaXN0b3J5IjpbLTE0ODQ3NzUxNDcsLTE0MjI3MjU5MzYsOT
+YyNzEzNjg2LC0xODIyMTU3Nzk3LC0xMDExNTMwODE5LDk3OTA3
+NDI4NCw5NTg3NDEwMDksNDQ0ODkwMDM4LDE3NjY5MzUwMDQsLT
+M0NDU1MzgyNiwtMzUzNjExMDQ1LC04OTYwOTg0MywxMDY5NjQx
+MTQ1LC0xOTUxODUyMjc1LDExNjE4NTY2MjUsNjcwODM4MjA2LD
+cxNDI3Njk3MiwtMTM1OTcwNTkxMyw3MzE0NjcxNjYsMTc5OTkz
+MjY0Ml19
 -->
