@@ -71,7 +71,7 @@
 
 ##  EMNLP 202411
 - EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)
-(NJU, Mitigating object hallucination of MLLMs, )
+(NJU, Mitigating object hallucination of MLLMs, gradient ascent by designing losses)
 
 
 ## NAACL 202406
@@ -154,7 +154,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTIzNjczMyw5NzkwNzQyODQsOTU4Nz
+eyJoaXN0b3J5IjpbMTkzMzE0NjUxMSw5NzkwNzQyODQsOTU4Nz
 QxMDA5LDQ0NDg5MDAzOCwxNzY2OTM1MDA0LC0zNDQ1NTM4MjYs
 LTM1MzYxMTA0NSwtODk2MDk4NDMsMTA2OTY0MTE0NSwtMTk1MT
 g1MjI3NSwxMTYxODU2NjI1LDY3MDgzODIwNiw3MTQyNzY5NzIs
