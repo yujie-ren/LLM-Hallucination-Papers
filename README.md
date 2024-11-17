@@ -29,6 +29,7 @@
 5. Knowledge Verification to Nip Hallucination in the Bud [[pdf]](https://aclanthology.org/2024.emnlp-main.152/)  
 (SunU, Mitigate hallucination in LLMs, Reduce knowledge inconsistency between external knowledge & foundation LLM)
 
+
 ##  ACL 202408
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
@@ -165,7 +166,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjQ2NTI0NCwyMTE2NTE0ODAyLDQ4Mj
+eyJoaXN0b3J5IjpbLTQ0MDUwMjA3MCwyMTE2NTE0ODAyLDQ4Mj
 k0MjU5MSwzMDM4MjgwMTIsLTE0MjI3MjU5MzYsOTYyNzEzNjg2
 LC0xODIyMTU3Nzk3LC0xMDExNTMwODE5LDk3OTA3NDI4NCw5NT
 g3NDEwMDksNDQ0ODkwMDM4LDE3NjY5MzUwMDQsLTM0NDU1Mzgy
