@@ -70,8 +70,8 @@
 (UHH，减轻LVLM幻觉)
 
 ##  EMNLP 202411
-- Factuality of Large Language Models in the Year 2024[[pdf]](https://arxiv.org/abs/2402.02420)  
-(Survey，但是没有实验，可以再看一看以前bias的综述文章，思考一下综述idea的可行性)
+
+
 
 ## NAACL 202406
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
@@ -153,11 +153,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzYxMjc5MjEsOTU4NzQxMDA5LDQ0ND
-g5MDAzOCwxNzY2OTM1MDA0LC0zNDQ1NTM4MjYsLTM1MzYxMTA0
-NSwtODk2MDk4NDMsMTA2OTY0MTE0NSwtMTk1MTg1MjI3NSwxMT
-YxODU2NjI1LDY3MDgzODIwNiw3MTQyNzY5NzIsLTEzNTk3MDU5
-MTMsNzMxNDY3MTY2LDE3OTk5MzI2NDIsLTE2NzEzMjMwNzksLT
-I5Mjg0Mzk0LC0xNTE4NTE2NTgwLC0xNzY5NTc3NzUwLC0xNjI2
-MTY2OTM0XX0=
+eyJoaXN0b3J5IjpbMTMxNjc4MDg0Niw5NTg3NDEwMDksNDQ0OD
+kwMDM4LDE3NjY5MzUwMDQsLTM0NDU1MzgyNiwtMzUzNjExMDQ1
+LC04OTYwOTg0MywxMDY5NjQxMTQ1LC0xOTUxODUyMjc1LDExNj
+E4NTY2MjUsNjcwODM4MjA2LDcxNDI3Njk3MiwtMTM1OTcwNTkx
+Myw3MzE0NjcxNjYsMTc5OTkzMjY0MiwtMTY3MTMyMzA3OSwtMj
+kyODQzOTQsLTE1MTg1MTY1ODAsLTE3Njk1Nzc3NTAsLTE2MjYx
+NjY5MzRdfQ==
 -->
