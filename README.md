@@ -18,11 +18,11 @@
 (UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改)
 
 ##  EMNLP 202411
-- EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
+1. EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
 (NJU, Mitigate object hallucination in MLLMs, Gradient ascent by designing losses)
-- Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
+2. Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
 (MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
-- HELPD: Mitigating Hallucination of  LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding [[pdf]](https://aclanthology.org/2024.emnlp-main.105/)  
+3. HELPD: Mitigating Hallucination of  LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding [[pdf]](https://aclanthology.org/2024.emnlp-main.105/)  
 (NUAA, Mitigate object hallucination in VLMs, Feedback, Penalty decoding)
 
 
@@ -163,7 +163,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTIzMTExMiwtMTQyMjcyNTkzNiw5Nj
+eyJoaXN0b3J5IjpbMTM2Mzc3ODAxOSwtMTQyMjcyNTkzNiw5Nj
 I3MTM2ODYsLTE4MjIxNTc3OTcsLTEwMTE1MzA4MTksOTc5MDc0
 Mjg0LDk1ODc0MTAwOSw0NDQ4OTAwMzgsMTc2NjkzNTAwNCwtMz
 Q0NTUzODI2LC0zNTM2MTEwNDUsLTg5NjA5ODQzLDEwNjk2NDEx
