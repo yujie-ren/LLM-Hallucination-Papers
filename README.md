@@ -21,7 +21,7 @@
 1. EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
 (NJU, Mitigate object hallucination in MLLMs, Gradient ascent by designing losses)
 2. Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
-(*MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
+(⭐️MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
 3. HELPD: Mitigating Hallucination of  LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding [[pdf]](https://aclanthology.org/2024.emnlp-main.105/)  
 (NUAA, Mitigate object hallucination in VLMs, Feedback, Penalty decoding)
 4. Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection [[pdf]](https://aclanthology.org/2024.emnlp-main.116/)  
@@ -32,8 +32,12 @@
 (⭐️CAS, Analysis & Mitigate False Premise Hallucinations in LLMs)
 7. Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models? [[pdf]](https://aclanthology.org/2024.emnlp-main.159/)  
 (⭐️WüNLP, Systematic analysis, Effect of object grounding on LVLM hallucination)
-
-
+8. An Audit on the Perspectives and Challenges of Hallucinations in  NLP [[pdf]](https://aclanthology.org/2024.emnlp-main.375/)  
+(⭐️PennsylvaniaSU, Survey, Definition of hallucination)
+9. Knowledge-Centric Hallucination Detection [[pdf]](https://aclanthology.org/2024.emnlp-main.395/)  
+ (Shanghai AI Lab, Detect hallucination, Split model's response into claim-triplets, different with FActScore)
+10. DAMRO: Dive into the Attention Mechanism of  LVLM  to Reduce Object Hallucination [[pdf]](https://aclanthology.org/2024.emnlp-main.439/)  
+(TongjiU, Reduce object hallucination in VLMs, Attention distribution, Filter out high-attention outlier tokens)
 
 ##  ACL 202408
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
