@@ -1,4 +1,4 @@
-# LLM-Hallucination-Papers
+﻿# LLM-Hallucination-Papers
 
 ## Contents
 
@@ -21,7 +21,7 @@
 1. EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
 (NJU, Mitigate object hallucination in MLLMs, Gradient ascent by designing losses)
 2. Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
-(MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
+(*MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
 3. HELPD: Mitigating Hallucination of  LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding [[pdf]](https://aclanthology.org/2024.emnlp-main.105/)  
 (NUAA, Mitigate object hallucination in VLMs, Feedback, Penalty decoding)
 4. Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection [[pdf]](https://aclanthology.org/2024.emnlp-main.116/)  
@@ -170,12 +170,3 @@
 - Eyes Show the Way: Modelling Gaze Behaviour for Hallucination Detection [[pdf]](https://aclanthology.org/2023.findings-emnlp.764/)
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg0NTI1NTEsNDg2NDM1Njg4LDIxND
-Q4ODA5OTEsMjExNjUxNDgwMiw0ODI5NDI1OTEsMzAzODI4MDEy
-LC0xNDIyNzI1OTM2LDk2MjcxMzY4NiwtMTgyMjE1Nzc5NywtMT
-AxMTUzMDgxOSw5NzkwNzQyODQsOTU4NzQxMDA5LDQ0NDg5MDAz
-OCwxNzY2OTM1MDA0LC0zNDQ1NTM4MjYsLTM1MzYxMTA0NSwtOD
-k2MDk4NDMsMTA2OTY0MTE0NSwtMTk1MTg1MjI3NSwxMTYxODU2
-NjI1XX0=
--->
