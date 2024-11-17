@@ -17,6 +17,11 @@
 - Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
 (UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改)
 
+##  EMNLP 202411
+- EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/) 
+(NJU, Mitigating object hallucination in MLLMs, Gradient ascent by designing losses)
+
+
 ##  ACL 202408
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
@@ -69,9 +74,8 @@
 - Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding [[pdf]](https://aclanthology.org/2024.findings-acl.937/)  
 (UHH，减轻LVLM幻觉)
 
-##  EMNLP 202411
-- EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/) 
-(NJU, Mitigating object hallucination in MLLMs, Gradient ascent by designing losses)
+
+
 
 
 ## NAACL 202406
@@ -154,7 +158,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTU5MDQ3Myw5NzkwNzQyODQsOTU4Nz
+eyJoaXN0b3J5IjpbMTM3NjEwMTQ1Nyw5NzkwNzQyODQsOTU4Nz
 QxMDA5LDQ0NDg5MDAzOCwxNzY2OTM1MDA0LC0zNDQ1NTM4MjYs
 LTM1MzYxMTA0NSwtODk2MDk4NDMsMTA2OTY0MTE0NSwtMTk1MT
 g1MjI3NSwxMTYxODU2NjI1LDY3MDgzODIwNiw3MTQyNzY5NzIs
