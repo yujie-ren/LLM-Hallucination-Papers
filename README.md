@@ -29,7 +29,7 @@
 5. Knowledge Verification to Nip Hallucination in the Bud [[pdf]](https://aclanthology.org/2024.emnlp-main.152/)  
 (SunU, Mitigate hallucination in LLMs, Reduce knowledge inconsistency between external knowledge & foundation LLM)
 6. Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.155/)  
-(CAS, Analysis & Mitigate False Premise Hallucinations in LLMs)
+(⭐️CAS, Analysis & Mitigate False Premise Hallucinations in LLMs)
 7. Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models? [[pdf]](https://aclanthology.org/2024.emnlp-main.159/)  
 (⭐️WüNLP, Systematic analysis, Effect of object grounding on LVLM hallucination)
 
@@ -171,11 +171,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4ODcwNDg4LDQ4NjQzNTY4OCwyMTQ0OD
-gwOTkxLDIxMTY1MTQ4MDIsNDgyOTQyNTkxLDMwMzgyODAxMiwt
-MTQyMjcyNTkzNiw5NjI3MTM2ODYsLTE4MjIxNTc3OTcsLTEwMT
-E1MzA4MTksOTc5MDc0Mjg0LDk1ODc0MTAwOSw0NDQ4OTAwMzgs
-MTc2NjkzNTAwNCwtMzQ0NTUzODI2LC0zNTM2MTEwNDUsLTg5Nj
-A5ODQzLDEwNjk2NDExNDUsLTE5NTE4NTIyNzUsMTE2MTg1NjYy
-NV19
+eyJoaXN0b3J5IjpbLTE1Mjg0NTI1NTEsNDg2NDM1Njg4LDIxND
+Q4ODA5OTEsMjExNjUxNDgwMiw0ODI5NDI1OTEsMzAzODI4MDEy
+LC0xNDIyNzI1OTM2LDk2MjcxMzY4NiwtMTgyMjE1Nzc5NywtMT
+AxMTUzMDgxOSw5NzkwNzQyODQsOTU4NzQxMDA5LDQ0NDg5MDAz
+OCwxNzY2OTM1MDA0LC0zNDQ1NTM4MjYsLTM1MzYxMTA0NSwtOD
+k2MDk4NDMsMTA2OTY0MTE0NSwtMTk1MTg1MjI3NSwxMTYxODU2
+NjI1XX0=
 -->
