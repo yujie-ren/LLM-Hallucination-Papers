@@ -31,7 +31,7 @@
 6. Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.155/)  
 (CAS, Analysis & Mitigate False Premise Hallucinations in LLMs)
 7. Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models? [[pdf]](https://aclanthology.org/2024.emnlp-main.159/)  
-(WüNLP, )
+(⭐️WüNLP, Systematic analysis, Effect of object grounding on LVLM hallucination)
 
 
 
@@ -171,11 +171,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NDM1Njg4LDIxNDQ4ODA5OTEsMjExNj
-UxNDgwMiw0ODI5NDI1OTEsMzAzODI4MDEyLC0xNDIyNzI1OTM2
-LDk2MjcxMzY4NiwtMTgyMjE1Nzc5NywtMTAxMTUzMDgxOSw5Nz
-kwNzQyODQsOTU4NzQxMDA5LDQ0NDg5MDAzOCwxNzY2OTM1MDA0
-LC0zNDQ1NTM4MjYsLTM1MzYxMTA0NSwtODk2MDk4NDMsMTA2OT
-Y0MTE0NSwtMTk1MTg1MjI3NSwxMTYxODU2NjI1LDY3MDgzODIw
-Nl19
+eyJoaXN0b3J5IjpbMjY4ODcwNDg4LDQ4NjQzNTY4OCwyMTQ0OD
+gwOTkxLDIxMTY1MTQ4MDIsNDgyOTQyNTkxLDMwMzgyODAxMiwt
+MTQyMjcyNTkzNiw5NjI3MTM2ODYsLTE4MjIxNTc3OTcsLTEwMT
+E1MzA4MTksOTc5MDc0Mjg0LDk1ODc0MTAwOSw0NDQ4OTAwMzgs
+MTc2NjkzNTAwNCwtMzQ0NTUzODI2LC0zNTM2MTEwNDUsLTg5Nj
+A5ODQzLDEwNjk2NDExNDUsLTE5NTE4NTIyNzUsMTE2MTg1NjYy
+NV19
 -->
