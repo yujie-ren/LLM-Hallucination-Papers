@@ -22,7 +22,7 @@
 (NJU, Mitigate object hallucination in MLLMs, Gradient ascent by designing losses)
 - Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
 (MIT, Detect consistent hallucination, Model's attention on provided context vs its own generations)
-HELPD: Mitigating Hallucination of  LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding [[pdf]](https://aclanthology.org/2024.emnlp-main.105/)  
+- HELPD: Mitigating Hallucination of  LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding [[pdf]](https://aclanthology.org/2024.emnlp-main.105/)  
 ()
 
 
@@ -162,11 +162,11 @@ HELPD: Mitigating Hallucination of  LVLMs by Hierarchical Feedback Learning with
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDcyNjQ0MCw5NjI3MTM2ODYsLTE4Mj
-IxNTc3OTcsLTEwMTE1MzA4MTksOTc5MDc0Mjg0LDk1ODc0MTAw
-OSw0NDQ4OTAwMzgsMTc2NjkzNTAwNCwtMzQ0NTUzODI2LC0zNT
-M2MTEwNDUsLTg5NjA5ODQzLDEwNjk2NDExNDUsLTE5NTE4NTIy
-NzUsMTE2MTg1NjYyNSw2NzA4MzgyMDYsNzE0Mjc2OTcyLC0xMz
-U5NzA1OTEzLDczMTQ2NzE2NiwxNzk5OTMyNjQyLC0xNjcxMzIz
-MDc5XX0=
+eyJoaXN0b3J5IjpbLTIwODE1MTU3ODcsOTYyNzEzNjg2LC0xOD
+IyMTU3Nzk3LC0xMDExNTMwODE5LDk3OTA3NDI4NCw5NTg3NDEw
+MDksNDQ0ODkwMDM4LDE3NjY5MzUwMDQsLTM0NDU1MzgyNiwtMz
+UzNjExMDQ1LC04OTYwOTg0MywxMDY5NjQxMTQ1LC0xOTUxODUy
+Mjc1LDExNjE4NTY2MjUsNjcwODM4MjA2LDcxNDI3Njk3MiwtMT
+M1OTcwNTkxMyw3MzE0NjcxNjYsMTc5OTkzMjY0MiwtMTY3MTMy
+MzA3OV19
 -->
