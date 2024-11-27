@@ -81,7 +81,7 @@
 31. Navigating Hallucinations for Reasoning of Unintentional Activities [[pdf]](https://aclanthology.org/2024.findings-emnlp.565/)  
 (IIT India, New task: understanding unintentional human activities, Hallucinated reasoning, Dream of thought prompting)
 32. What if...?: Thinking Counterfactual Keywords Helps to Mitigate Hallucination in Large Multi-modal Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.626/)  
-(KAIST, Mitigate hallu in VLM, )
+(KAIST, Mitigate hallu in VLM, Counterfactual prompt)
 
 
 
@@ -227,11 +227,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mzc2NTE2MSwtMjA4NDY2Njg2NCwtMT
-gxMzMzNzM2LC0xMTMxODA2MjgzLDk4MTU0MDg2NiwtMTczMjkx
-NjM0NSwtMTY4MTQxNTkzNyw5NzEyOTQ3NjUsLTYxMzg2MjkzNC
-wyMTQ0MzUxMTQwLC0yNjQ1OTQxNjAsNjYzOTAxMjAyLDIwMzU2
-NzE1NTcsLTE1MzkxNTc3MjEsMTU0NjkxNTcxNiwxMTEzNjM3OT
-ksMTc0OTY4MzIxNCwtNjQzODcwNTI1LDk4NjY2NjQ2OCwtMTg1
-NzcyMjg0XX0=
+eyJoaXN0b3J5IjpbMjAyODUyNTk5OSwxNjgzNzY1MTYxLC0yMD
+g0NjY2ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQw
+ODY2LC0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NS
+wtNjEzODYyOTM0LDIxNDQzNTExNDAsLTI2NDU5NDE2MCw2NjM5
+MDEyMDIsMjAzNTY3MTU1NywtMTUzOTE1NzcyMSwxNTQ2OTE1Nz
+E2LDExMTM2Mzc5OSwxNzQ5NjgzMjE0LC02NDM4NzA1MjUsOTg2
+NjY2NDY4XX0=
 -->
