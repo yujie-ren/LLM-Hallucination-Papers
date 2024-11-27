@@ -44,7 +44,8 @@
 (SRI Inc. Detect and mitigate hallucinations in VLMs, Claim decomposition, Verification)
 13. ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.637/)  
 (WasedaU, Hallucination benchmark for Tool-augmented LLM)
-
+14. Null-Shot Prompting: Rethinking Prompting Large Language Models With Hallucination [[pdf]](https://aclanthology.org/2024.emnlp-main.740/)  
+()
 
 
 
@@ -184,6 +185,6 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzE0OTI3OSw1MTY0NDc0Miw1MTMyOT
-kzNzZdfQ==
+eyJoaXN0b3J5IjpbLTI0MDY0NDg1NiwxMjQ3MTQ5Mjc5LDUxNj
+Q0NzQyLDUxMzI5OTM3Nl19
 -->
