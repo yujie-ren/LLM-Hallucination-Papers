@@ -58,7 +58,8 @@
 (Paris-SaclayU, Detect hallucination in machine translation)
 20. Mitigating Open-Vocabulary Caption Hallucinations [[pdf]](https://aclanthology.org/2024.emnlp-main.1263/)  
 (Tel-AvivU, Mitigate hallucination in image captioning)
-**[VGA: Vision  GUI  Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning](https://aclanthology.org/2024.findings-emnlp.68/)**
+21. VGA: Vision  GUI  Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning [[pdf]](https://aclanthology.org/2024.findings-emnlp.68/)  
+()
 
 
 
@@ -198,7 +199,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTg1MDA3MSw5ODY2NjY0NjgsLTE4NT
+eyJoaXN0b3J5IjpbLTY0Mzg3MDUyNSw5ODY2NjY0NjgsLTE4NT
 c3MjI4NCwxMTI2MDYxODE4LDE5MTg5NTYxOTAsLTE2OTQ4MDI5
 MDQsLTIxNjczOTM1MiwtMTYxNDUzNzU3MywtMzEyNzU0OSwtMT
 AwOTYyMTM4Miw0NzEzMDMyMzgsLTE3NjAzMjMwNjEsMTI0NzE0
