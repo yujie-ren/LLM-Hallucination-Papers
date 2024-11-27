@@ -87,7 +87,7 @@
 34. Pre-trained Language Models Return Distinguishable Probability Distributions to Unfaithfully Hallucinated Texts [[pdf]](https://aclanthology.org/2024.findings-emnlp.738/)  
 (KoreaU, PLM return distinguishable probability distributions for hallu)
 35. V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization [[pdf]](https://aclanthology.org/2024.findings-emnlp.775/)  
-()
+(NUS, Mitigate hallu in VLM, )
 
 
 
@@ -232,11 +232,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTU0ODY4OSwtMTM2Njg0MjEzLC05Mz
-E3ODk4MjAsMTY4Mzc2NTE2MSwtMjA4NDY2Njg2NCwtMTgxMzMz
-NzM2LC0xMTMxODA2MjgzLDk4MTU0MDg2NiwtMTczMjkxNjM0NS
-wtMTY4MTQxNTkzNyw5NzEyOTQ3NjUsLTYxMzg2MjkzNCwyMTQ0
-MzUxMTQwLC0yNjQ1OTQxNjAsNjYzOTAxMjAyLDIwMzU2NzE1NT
-csLTE1MzkxNTc3MjEsMTU0NjkxNTcxNiwxMTEzNjM3OTksMTc0
-OTY4MzIxNF19
+eyJoaXN0b3J5IjpbMTc5OTgyNzE0MywtOTI5NTQ4Njg5LC0xMz
+Y2ODQyMTMsLTkzMTc4OTgyMCwxNjgzNzY1MTYxLC0yMDg0NjY2
+ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQwODY2LC
+0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NSwtNjEz
+ODYyOTM0LDIxNDQzNTExNDAsLTI2NDU5NDE2MCw2NjM5MDEyMD
+IsMjAzNTY3MTU1NywtMTUzOTE1NzcyMSwxNTQ2OTE1NzE2LDEx
+MTM2Mzc5OV19
 -->
