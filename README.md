@@ -85,7 +85,7 @@
 33. A Comprehensive Survey of Hallucination in Large Language, Image, Video and Audio Foundation Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.685/)  
 (IIT India, Survey, Foundation model, Language+image+video+audio)
 34. Pre-trained Language Models Return Distinguishable Probability Distributions to Unfaithfully Hallucinated Texts [[pdf]](https://aclanthology.org/2024.findings-emnlp.738/)  
-()
+(KoreaU, )
 
 
 
@@ -231,7 +231,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjAzMDkxNywxNjgzNzY1MTYxLC0yMD
+eyJoaXN0b3J5IjpbLTkzMTc4OTgyMCwxNjgzNzY1MTYxLC0yMD
 g0NjY2ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQw
 ODY2LC0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NS
 wtNjEzODYyOTM0LDIxNDQzNTExNDAsLTI2NDU5NDE2MCw2NjM5
