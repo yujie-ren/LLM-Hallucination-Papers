@@ -48,7 +48,8 @@
 (⭐️RitsumeikanU, Hallucination in prompt, Enhance LLM's performance)
 15. Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector [[pdf]](https://aclanthology.org/2024.emnlp-main.809/)  
 (RUC, Detect hallucination in LLM, HaluAgent, Combining hallucination & Agent)
-
+16. HalluMeasure: Fine-grained Hallucination Measurement Using Chain-of-Thought Reasoning [[pdf]](https://aclanthology.org/2024.emnlp-main.837/)  
+()
 
 
 ##  ACL 202408
@@ -187,7 +188,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjUzMDM1MSwtMTAwOTYyMTM4Miw0Nz
-EzMDMyMzgsLTE3NjAzMjMwNjEsMTI0NzE0OTI3OSw1MTY0NDc0
-Miw1MTMyOTkzNzZdfQ==
+eyJoaXN0b3J5IjpbLTMxMjc1NDksLTEwMDk2MjEzODIsNDcxMz
+AzMjM4LC0xNzYwMzIzMDYxLDEyNDcxNDkyNzksNTE2NDQ3NDIs
+NTEzMjk5Mzc2XX0=
 -->
