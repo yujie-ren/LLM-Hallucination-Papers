@@ -69,7 +69,7 @@
 25. Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding [[pdf]](https://aclanthology.org/2024.findings-emnlp.456/)  
 (USTC, Mitigate hallucination in Medical information extraction, Contrastive Decoding, )
 26. Multilingual Fine-Grained News Headline Hallucination Detection [[pdf]](https://aclanthology.org/2024.findings-emnlp.461/)  
-(Google, )
+(Google, news headline hallucination detection dataset)
 
 
 
@@ -211,11 +211,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTUwMDE1NCwyMTQ0MzUxMTQwLC0yNj
-Q1OTQxNjAsNjYzOTAxMjAyLDIwMzU2NzE1NTcsLTE1MzkxNTc3
-MjEsMTU0NjkxNTcxNiwxMTEzNjM3OTksMTc0OTY4MzIxNCwtNj
-QzODcwNTI1LDk4NjY2NjQ2OCwtMTg1NzcyMjg0LDExMjYwNjE4
-MTgsMTkxODk1NjE5MCwtMTY5NDgwMjkwNCwtMjE2NzM5MzUyLC
-0xNjE0NTM3NTczLC0zMTI3NTQ5LC0xMDA5NjIxMzgyLDQ3MTMw
-MzIzOF19
+eyJoaXN0b3J5IjpbOTM0MDM3MTI5LDIxNDQzNTExNDAsLTI2ND
+U5NDE2MCw2NjM5MDEyMDIsMjAzNTY3MTU1NywtMTUzOTE1Nzcy
+MSwxNTQ2OTE1NzE2LDExMTM2Mzc5OSwxNzQ5NjgzMjE0LC02ND
+M4NzA1MjUsOTg2NjY2NDY4LC0xODU3NzIyODQsMTEyNjA2MTgx
+OCwxOTE4OTU2MTkwLC0xNjk0ODAyOTA0LC0yMTY3MzkzNTIsLT
+E2MTQ1Mzc1NzMsLTMxMjc1NDksLTEwMDk2MjEzODIsNDcxMzAz
+MjM4XX0=
 -->
