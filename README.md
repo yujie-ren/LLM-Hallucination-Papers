@@ -76,7 +76,8 @@
 (UoMaryland, Benchmark for VLM, Automated benchmark generation approach)
 29. DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.529/)  
 (ECNU, Benchmark, Dialogue)
-30. Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models](https://aclanthology.org/2024.findings-emnlp.564/)
+30. Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.564/)  
+()
 
 
 
@@ -222,11 +223,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDg3ODMxMiwtMTczMjkxNjM0NSwtMT
-Y4MTQxNTkzNyw5NzEyOTQ3NjUsLTYxMzg2MjkzNCwyMTQ0MzUx
-MTQwLC0yNjQ1OTQxNjAsNjYzOTAxMjAyLDIwMzU2NzE1NTcsLT
-E1MzkxNTc3MjEsMTU0NjkxNTcxNiwxMTEzNjM3OTksMTc0OTY4
-MzIxNCwtNjQzODcwNTI1LDk4NjY2NjQ2OCwtMTg1NzcyMjg0LD
-ExMjYwNjE4MTgsMTkxODk1NjE5MCwtMTY5NDgwMjkwNCwtMjE2
-NzM5MzUyXX0=
+eyJoaXN0b3J5IjpbLTExODU3OTY4MDQsLTE3MzI5MTYzNDUsLT
+E2ODE0MTU5MzcsOTcxMjk0NzY1LC02MTM4NjI5MzQsMjE0NDM1
+MTE0MCwtMjY0NTk0MTYwLDY2MzkwMTIwMiwyMDM1NjcxNTU3LC
+0xNTM5MTU3NzIxLDE1NDY5MTU3MTYsMTExMzYzNzk5LDE3NDk2
+ODMyMTQsLTY0Mzg3MDUyNSw5ODY2NjY0NjgsLTE4NTc3MjI4NC
+wxMTI2MDYxODE4LDE5MTg5NTYxOTAsLTE2OTQ4MDI5MDQsLTIx
+NjczOTM1Ml19
 -->
