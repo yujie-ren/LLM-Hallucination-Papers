@@ -45,7 +45,7 @@
 13. ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.637/)  
 (WasedaU, Hallucination benchmark for Tool-augmented LLM)
 14. Null-Shot Prompting: Rethinking Prompting Large Language Models With Hallucination [[pdf]](https://aclanthology.org/2024.emnlp-main.740/)  
-(RitsumeikanU, Hallucination in prompt, Enhance LLM's performance)
+(⭐️RitsumeikanU, Hallucination in prompt, Enhance LLM's performance)
 
 
 
@@ -185,6 +185,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxMzAzMjM4LC0xNzYwMzIzMDYxLDEyND
-cxNDkyNzksNTE2NDQ3NDIsNTEzMjk5Mzc2XX0=
+eyJoaXN0b3J5IjpbNzA0Mzg3OTczLDQ3MTMwMzIzOCwtMTc2MD
+MyMzA2MSwxMjQ3MTQ5Mjc5LDUxNjQ0NzQyLDUxMzI5OTM3Nl19
+
 -->
