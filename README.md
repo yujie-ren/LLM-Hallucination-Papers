@@ -78,7 +78,7 @@
 (ECNU, Benchmark, Dialogue)
 30. Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.564/)  
 (UCL, Detect hallucination in MT, LLMs have good performance even without training)
-
+31. Navigating Hallucinations for Reasoning of Unintentional Activities](https://aclanthology.org/2024.findings-emnlp.565/)
 
 
 
@@ -224,11 +224,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE4MDYyODMsOTgxNTQwODY2LC0xNz
-MyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NSwtNjEzODYy
-OTM0LDIxNDQzNTExNDAsLTI2NDU5NDE2MCw2NjM5MDEyMDIsMj
-AzNTY3MTU1NywtMTUzOTE1NzcyMSwxNTQ2OTE1NzE2LDExMTM2
-Mzc5OSwxNzQ5NjgzMjE0LC02NDM4NzA1MjUsOTg2NjY2NDY4LC
-0xODU3NzIyODQsMTEyNjA2MTgxOCwxOTE4OTU2MTkwLC0xNjk0
-ODAyOTA0XX0=
+eyJoaXN0b3J5IjpbLTcwNTI4NjY3MywtMTEzMTgwNjI4Myw5OD
+E1NDA4NjYsLTE3MzI5MTYzNDUsLTE2ODE0MTU5MzcsOTcxMjk0
+NzY1LC02MTM4NjI5MzQsMjE0NDM1MTE0MCwtMjY0NTk0MTYwLD
+Y2MzkwMTIwMiwyMDM1NjcxNTU3LC0xNTM5MTU3NzIxLDE1NDY5
+MTU3MTYsMTExMzYzNzk5LDE3NDk2ODMyMTQsLTY0Mzg3MDUyNS
+w5ODY2NjY0NjgsLTE4NTc3MjI4NCwxMTI2MDYxODE4LDE5MTg5
+NTYxOTBdfQ==
 -->
