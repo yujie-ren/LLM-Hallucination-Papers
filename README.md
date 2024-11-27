@@ -84,7 +84,8 @@
 (KAIST, Mitigate hallu in VLM, Counterfactual prompt, Counterfactual keywords gen)
 33. A Comprehensive Survey of Hallucination in Large Language, Image, Video and Audio Foundation Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.685/)  
 (IIT India, Survey, Foundation model, Language+image+video+audio)
-
+34. Pre-trained Language Models Return Distinguishable Probability Distributions to Unfaithfully Hallucinated Texts [[pdf]](https://aclanthology.org/2024.findings-emnlp.738/)  
+()
 
 
 
@@ -230,11 +231,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzI2NywxNjgzNzY1MTYxLC0yMDg0Nj
-Y2ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQwODY2
-LC0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NSwtNj
-EzODYyOTM0LDIxNDQzNTExNDAsLTI2NDU5NDE2MCw2NjM5MDEy
-MDIsMjAzNTY3MTU1NywtMTUzOTE1NzcyMSwxNTQ2OTE1NzE2LD
-ExMTM2Mzc5OSwxNzQ5NjgzMjE0LC02NDM4NzA1MjUsOTg2NjY2
-NDY4XX0=
+eyJoaXN0b3J5IjpbMTU3MjAzMDkxNywxNjgzNzY1MTYxLC0yMD
+g0NjY2ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQw
+ODY2LC0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NS
+wtNjEzODYyOTM0LDIxNDQzNTExNDAsLTI2NDU5NDE2MCw2NjM5
+MDEyMDIsMjAzNTY3MTU1NywtMTUzOTE1NzcyMSwxNTQ2OTE1Nz
+E2LDExMTM2Mzc5OSwxNzQ5NjgzMjE0LC02NDM4NzA1MjUsOTg2
+NjY2NDY4XX0=
 -->
