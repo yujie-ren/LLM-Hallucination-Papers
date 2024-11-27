@@ -53,7 +53,7 @@
 17. Game on Tree: Visual Hallucination Mitigation via Coarse-to-Fine View Tree and Game Theory [[pdf]](https://aclanthology.org/2024.emnlp-main.998/)  
 (PKU, Mitigate hallucination in VLM, New decoding strategy)
 18. Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models [[pdf]](https://aclanthology.org/2024.emnlp-main.1016/)  
-()
+(ECNU, )
 
 
 
@@ -193,8 +193,8 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU3MDYxNzEsLTE2OTQ4MDI5MDQsLT
-IxNjczOTM1MiwtMTYxNDUzNzU3MywtMzEyNzU0OSwtMTAwOTYy
-MTM4Miw0NzEzMDMyMzgsLTE3NjAzMjMwNjEsMTI0NzE0OTI3OS
-w1MTY0NDc0Miw1MTMyOTkzNzZdfQ==
+eyJoaXN0b3J5IjpbMTkxODk1NjE5MCwtMTY5NDgwMjkwNCwtMj
+E2NzM5MzUyLC0xNjE0NTM3NTczLC0zMTI3NTQ5LC0xMDA5NjIx
+MzgyLDQ3MTMwMzIzOCwtMTc2MDMyMzA2MSwxMjQ3MTQ5Mjc5LD
+UxNjQ0NzQyLDUxMzI5OTM3Nl19
 -->
