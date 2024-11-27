@@ -58,6 +58,7 @@
 
 
 
+
 ##  ACL 202408
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
@@ -194,7 +195,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzAzMjcxMCwxOTE4OTU2MTkwLC0xNj
+eyJoaXN0b3J5IjpbMTgwMDkyMjEwMCwxOTE4OTU2MTkwLC0xNj
 k0ODAyOTA0LC0yMTY3MzkzNTIsLTE2MTQ1Mzc1NzMsLTMxMjc1
 NDksLTEwMDk2MjEzODIsNDcxMzAzMjM4LC0xNzYwMzIzMDYxLD
 EyNDcxNDkyNzksNTE2NDQ3NDIsNTEzMjk5Mzc2XX0=
