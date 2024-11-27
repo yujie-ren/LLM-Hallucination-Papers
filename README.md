@@ -50,6 +50,7 @@
 (RUC, Detect hallucination in LLM, HaluAgent, Combining hallucination & Agent)
 
 
+
 ##  ACL 202408
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
@@ -186,7 +187,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3NDcyMzg1LC0xMDA5NjIxMzgyLDQ3MT
-MwMzIzOCwtMTc2MDMyMzA2MSwxMjQ3MTQ5Mjc5LDUxNjQ0NzQy
-LDUxMzI5OTM3Nl19
+eyJoaXN0b3J5IjpbMTIwMjUzMDM1MSwtMTAwOTYyMTM4Miw0Nz
+EzMDMyMzgsLTE3NjAzMjMwNjEsMTI0NzE0OTI3OSw1MTY0NDc0
+Miw1MTMyOTkzNzZdfQ==
 -->
