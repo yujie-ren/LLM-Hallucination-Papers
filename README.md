@@ -54,7 +54,8 @@
 (PKU, Mitigate hallucination in VLM, New decoding strategy)
 18. Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models [[pdf]](https://aclanthology.org/2024.emnlp-main.1016/)  
 (⭐️ECNU, Investigate hallucination in CLIP, Which part does the hallucination come from, **Inspiration for LLaVA's hallucination?**)
-19. Enhanced Hallucination Detection in Neural Machine Translation through Simple Detector Aggregation](https://aclanthology.org/2024.emnlp-main.1033/)**
+19. Enhanced Hallucination Detection in Neural Machine Translation through Simple Detector Aggregation [[pdf]](https://aclanthology.org/2024.emnlp-main.1033/)
+2
 
 
 
@@ -195,8 +196,8 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI1MDkxMTQsMTkxODk1NjE5MCwtMT
-Y5NDgwMjkwNCwtMjE2NzM5MzUyLC0xNjE0NTM3NTczLC0zMTI3
-NTQ5LC0xMDA5NjIxMzgyLDQ3MTMwMzIzOCwtMTc2MDMyMzA2MS
-wxMjQ3MTQ5Mjc5LDUxNjQ0NzQyLDUxMzI5OTM3Nl19
+eyJoaXN0b3J5IjpbMTI0MzM2NjU5MywxOTE4OTU2MTkwLC0xNj
+k0ODAyOTA0LC0yMTY3MzkzNTIsLTE2MTQ1Mzc1NzMsLTMxMjc1
+NDksLTEwMDk2MjEzODIsNDcxMzAzMjM4LC0xNzYwMzIzMDYxLD
+EyNDcxNDkyNzksNTE2NDQ3NDIsNTEzMjk5Mzc2XX0=
 -->
