@@ -88,7 +88,8 @@
 (KoreaU, PLM return distinguishable probability distributions for hallu)
 35. V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization [[pdf]](https://aclanthology.org/2024.findings-emnlp.775/)  
 (NUS, Mitigate hallu in VLM, Mitigate over-reliance on backbone, Preference learning)
-
+36. Mitigating Hallucination in Fictional Character Role-Play [[pdf]](https://aclanthology.org/2024.findings-emnlp.846/)  
+()
 
 
 
@@ -232,7 +233,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODQzNTI0MCwtOTI5NTQ4Njg5LC0xMz
+eyJoaXN0b3J5IjpbMTE0NTc0ODk2NiwtOTI5NTQ4Njg5LC0xMz
 Y2ODQyMTMsLTkzMTc4OTgyMCwxNjgzNzY1MTYxLC0yMDg0NjY2
 ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQwODY2LC
 0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NSwtNjEz
