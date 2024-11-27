@@ -75,7 +75,7 @@
 28. AutoHallusion: Automatic Generation of Hallucination Benchmarks for Vision-Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.493/)  
 (UoMaryland, Benchmark for VLM, Automated benchmark generation approach)
 29. DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.529/)  
-(ECNU, )
+(ECNU, Benchmar)
 
 
 
@@ -217,7 +217,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ1MDEzMzgsLTE2ODE0MTU5MzcsOT
+eyJoaXN0b3J5IjpbLTEzNjkxNjczNzIsLTE2ODE0MTU5MzcsOT
 cxMjk0NzY1LC02MTM4NjI5MzQsMjE0NDM1MTE0MCwtMjY0NTk0
 MTYwLDY2MzkwMTIwMiwyMDM1NjcxNTU3LC0xNTM5MTU3NzIxLD
 E1NDY5MTU3MTYsMTExMzYzNzk5LDE3NDk2ODMyMTQsLTY0Mzg3
