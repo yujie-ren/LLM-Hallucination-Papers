@@ -61,7 +61,7 @@
 21. VGA: Vision  GUI  Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning [[pdf]](https://aclanthology.org/2024.findings-emnlp.68/)  
 (ECNU, Reduce hallucination in GPU understanding task, VQA dataset, Fune-tuning)
 22. Zero-Resource Hallucination Prevention for Large Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.204/)  
-(PSU, Detect hallucination before generation, Evaluate model's familiarity with the concepts in prompts)
+(⭐️PSU, Detect hallucination before generation, Evaluate model's familiarity with the concepts in prompts)
 
 
 ##  ACL 202408
@@ -200,7 +200,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1Nzc2NTM2LDE3NDk2ODMyMTQsLTY0Mz
+eyJoaXN0b3J5IjpbMTExMzYzNzk5LDE3NDk2ODMyMTQsLTY0Mz
 g3MDUyNSw5ODY2NjY0NjgsLTE4NTc3MjI4NCwxMTI2MDYxODE4
 LDE5MTg5NTYxOTAsLTE2OTQ4MDI5MDQsLTIxNjczOTM1MiwtMT
 YxNDUzNzU3MywtMzEyNzU0OSwtMTAwOTYyMTM4Miw0NzEzMDMy
