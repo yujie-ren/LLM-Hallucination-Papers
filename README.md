@@ -62,6 +62,8 @@
 (ECNU, Reduce hallucination in GPU understanding task, VQA dataset, Fune-tuning)
 22. Zero-Resource Hallucination Prevention for Large Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.204/)  
 (⭐️PSU, Detect hallucination before generation, Evaluate model's familiarity with the concepts in prompts)
+23. Reference-free Hallucination Detection for Large Vision-Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.262/)  
+()
 
 
 ##  ACL 202408
@@ -200,10 +202,10 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzYzNzk5LDE3NDk2ODMyMTQsLTY0Mz
-g3MDUyNSw5ODY2NjY0NjgsLTE4NTc3MjI4NCwxMTI2MDYxODE4
-LDE5MTg5NTYxOTAsLTE2OTQ4MDI5MDQsLTIxNjczOTM1MiwtMT
-YxNDUzNzU3MywtMzEyNzU0OSwtMTAwOTYyMTM4Miw0NzEzMDMy
-MzgsLTE3NjAzMjMwNjEsMTI0NzE0OTI3OSw1MTY0NDc0Miw1MT
-MyOTkzNzZdfQ==
+eyJoaXN0b3J5IjpbMTE0OTQ2Mjg3MiwxMTEzNjM3OTksMTc0OT
+Y4MzIxNCwtNjQzODcwNTI1LDk4NjY2NjQ2OCwtMTg1NzcyMjg0
+LDExMjYwNjE4MTgsMTkxODk1NjE5MCwtMTY5NDgwMjkwNCwtMj
+E2NzM5MzUyLC0xNjE0NTM3NTczLC0zMTI3NTQ5LC0xMDA5NjIx
+MzgyLDQ3MTMwMzIzOCwtMTc2MDMyMzA2MSwxMjQ3MTQ5Mjc5LD
+UxNjQ0NzQyLDUxMzI5OTM3Nl19
 -->
