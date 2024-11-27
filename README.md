@@ -47,7 +47,7 @@
 14. Null-Shot Prompting: Rethinking Prompting Large Language Models With Hallucination [[pdf]](https://aclanthology.org/2024.emnlp-main.740/)  
 (⭐️RitsumeikanU, Hallucination in prompt, Enhance LLM's performance)
 15. Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector [[pdf]](https://aclanthology.org/2024.emnlp-main.809/)  
-(RUC, Detect hallucination in LLM, HaluAgent, combin)
+(RUC, Detect hallucination in LLM, HaluAgent, Combining hallucination & Agent)
 
 
 ##  ACL 202408
@@ -186,7 +186,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMDMzMDUzLC0xMDA5NjIxMzgyLDQ3MT
+eyJoaXN0b3J5IjpbNTc3NDcyMzg1LC0xMDA5NjIxMzgyLDQ3MT
 MwMzIzOCwtMTc2MDMyMzA2MSwxMjQ3MTQ5Mjc5LDUxNjQ0NzQy
 LDUxMzI5OTM3Nl19
 -->
