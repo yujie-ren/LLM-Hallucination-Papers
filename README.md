@@ -67,7 +67,7 @@
 24. FaithScore: Fine-grained Evaluations of Hallucinations in Large Vision-Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.290/)  
 (UoTD, Detect hallucination in VLM, Evaluation metric, Multimodal version of FActScore)
 25. Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding [[pdf]](https://aclanthology.org/2024.findings-emnlp.456/)  
-(USTC, Mitigate hallucination in Medical task, Contrastive Decoding, )
+(USTC, Mitigate hallucination in Medical information extraction, Contrastive Decoding, )
 26. Multilingual Fine-Grained News Headline Hallucination Detection [[pdf]](https://aclanthology.org/2024.findings-emnlp.461/)  
 (Google, )
 
@@ -211,11 +211,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDM1MTE0MCwtMjY0NTk0MTYwLDY2Mz
-kwMTIwMiwyMDM1NjcxNTU3LC0xNTM5MTU3NzIxLDE1NDY5MTU3
-MTYsMTExMzYzNzk5LDE3NDk2ODMyMTQsLTY0Mzg3MDUyNSw5OD
-Y2NjY0NjgsLTE4NTc3MjI4NCwxMTI2MDYxODE4LDE5MTg5NTYx
-OTAsLTE2OTQ4MDI5MDQsLTIxNjczOTM1MiwtMTYxNDUzNzU3My
-wtMzEyNzU0OSwtMTAwOTYyMTM4Miw0NzEzMDMyMzgsLTE3NjAz
-MjMwNjFdfQ==
+eyJoaXN0b3J5IjpbMTg5NTUwMDE1NCwyMTQ0MzUxMTQwLC0yNj
+Q1OTQxNjAsNjYzOTAxMjAyLDIwMzU2NzE1NTcsLTE1MzkxNTc3
+MjEsMTU0NjkxNTcxNiwxMTEzNjM3OTksMTc0OTY4MzIxNCwtNj
+QzODcwNTI1LDk4NjY2NjQ2OCwtMTg1NzcyMjg0LDExMjYwNjE4
+MTgsMTkxODk1NjE5MCwtMTY5NDgwMjkwNCwtMjE2NzM5MzUyLC
+0xNjE0NTM3NTczLC0zMTI3NTQ5LC0xMDA5NjIxMzgyLDQ3MTMw
+MzIzOF19
 -->
