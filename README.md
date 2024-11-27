@@ -83,7 +83,7 @@
 32. What if...?: Thinking Counterfactual Keywords Helps to Mitigate Hallucination in Large Multi-modal Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.626/)  
 (KAIST, Mitigate hallu in VLM, Counterfactual prompt, Counterfactual keywords gen)
 33. A Comprehensive Survey of Hallucination in Large Language, Image, Video and Audio Foundation Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.685/)  
-()
+(IIT India, )
 
 
 
@@ -229,11 +229,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDYyNjAzNzcsMTY4Mzc2NTE2MSwtMj
-A4NDY2Njg2NCwtMTgxMzMzNzM2LC0xMTMxODA2MjgzLDk4MTU0
-MDg2NiwtMTczMjkxNjM0NSwtMTY4MTQxNTkzNyw5NzEyOTQ3Nj
-UsLTYxMzg2MjkzNCwyMTQ0MzUxMTQwLC0yNjQ1OTQxNjAsNjYz
-OTAxMjAyLDIwMzU2NzE1NTcsLTE1MzkxNTc3MjEsMTU0NjkxNT
-cxNiwxMTEzNjM3OTksMTc0OTY4MzIxNCwtNjQzODcwNTI1LDk4
-NjY2NjQ2OF19
+eyJoaXN0b3J5IjpbLTYzNTU2NDk1NiwxNjgzNzY1MTYxLC0yMD
+g0NjY2ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQw
+ODY2LC0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NS
+wtNjEzODYyOTM0LDIxNDQzNTExNDAsLTI2NDU5NDE2MCw2NjM5
+MDEyMDIsMjAzNTY3MTU1NywtMTUzOTE1NzcyMSwxNTQ2OTE1Nz
+E2LDExMTM2Mzc5OSwxNzQ5NjgzMjE0LC02NDM4NzA1MjUsOTg2
+NjY2NDY4XX0=
 -->
