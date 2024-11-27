@@ -57,7 +57,7 @@
 19. Enhanced Hallucination Detection in Neural Machine Translation through Simple Detector Aggregation [[pdf]](https://aclanthology.org/2024.emnlp-main.1033/)  
 (Paris-SaclayU, Detect hallucination in machine translation)
 20. Mitigating Open-Vocabulary Caption Hallucinations [[pdf]](https://aclanthology.org/2024.emnlp-main.1263/)  
-()
+(Tel-AvivU, )
 
 
 
@@ -198,9 +198,9 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTEyNDUyOTUsMTEyNjA2MTgxOCwxOT
-E4OTU2MTkwLC0xNjk0ODAyOTA0LC0yMTY3MzkzNTIsLTE2MTQ1
-Mzc1NzMsLTMxMjc1NDksLTEwMDk2MjEzODIsNDcxMzAzMjM4LC
-0xNzYwMzIzMDYxLDEyNDcxNDkyNzksNTE2NDQ3NDIsNTEzMjk5
-Mzc2XX0=
+eyJoaXN0b3J5IjpbLTE4NTc3MjI4NCwxMTI2MDYxODE4LDE5MT
+g5NTYxOTAsLTE2OTQ4MDI5MDQsLTIxNjczOTM1MiwtMTYxNDUz
+NzU3MywtMzEyNzU0OSwtMTAwOTYyMTM4Miw0NzEzMDMyMzgsLT
+E3NjAzMjMwNjEsMTI0NzE0OTI3OSw1MTY0NDc0Miw1MTMyOTkz
+NzZdfQ==
 -->
