@@ -90,7 +90,7 @@
 (NUS, Mitigate hallu in VLM, Mitigate over-reliance on backbone, Preference learning)
 36. Mitigating Hallucination in Fictional Character Role-Play [[pdf]](https://aclanthology.org/2024.findings-emnlp.846/)  
 (UC San Diego, Evaluate & mitigate of hallu in fictional character role-play, Dataset)
-
+37. CED: Comparing Embedding Differences for Detecting Out-of-Distribution and Hallucinated Text](https://aclanthology.org/2024.findings-emnlp.874/)
 
 
 
@@ -234,11 +234,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg4MjY4MTYsLTkyOTU0ODY4OSwtMT
-M2Njg0MjEzLC05MzE3ODk4MjAsMTY4Mzc2NTE2MSwtMjA4NDY2
-Njg2NCwtMTgxMzMzNzM2LC0xMTMxODA2MjgzLDk4MTU0MDg2Ni
-wtMTczMjkxNjM0NSwtMTY4MTQxNTkzNyw5NzEyOTQ3NjUsLTYx
-Mzg2MjkzNCwyMTQ0MzUxMTQwLC0yNjQ1OTQxNjAsNjYzOTAxMj
-AyLDIwMzU2NzE1NTcsLTE1MzkxNTc3MjEsMTU0NjkxNTcxNiwx
-MTEzNjM3OTldfQ==
+eyJoaXN0b3J5IjpbMTYzMjkyOTAsLTE2ODg4MjY4MTYsLTkyOT
+U0ODY4OSwtMTM2Njg0MjEzLC05MzE3ODk4MjAsMTY4Mzc2NTE2
+MSwtMjA4NDY2Njg2NCwtMTgxMzMzNzM2LC0xMTMxODA2MjgzLD
+k4MTU0MDg2NiwtMTczMjkxNjM0NSwtMTY4MTQxNTkzNyw5NzEy
+OTQ3NjUsLTYxMzg2MjkzNCwyMTQ0MzUxMTQwLC0yNjQ1OTQxNj
+AsNjYzOTAxMjAyLDIwMzU2NzE1NTcsLTE1MzkxNTc3MjEsMTU0
+NjkxNTcxNl19
 -->
