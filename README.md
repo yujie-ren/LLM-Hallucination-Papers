@@ -68,7 +68,8 @@
 (UoTD, Detect hallucination in VLM, Evaluation metric, Multimodal version of FActScore)
 25. Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding [[pdf]](https://aclanthology.org/2024.findings-emnlp.456/)  
 (USTC, Mitigate hallucination in Medical task, Contrastive Decoding, )
-26. Multilingual Fine-Grained News Headline Hallucination Detection](https://aclanthology.org/2024.findings-emnlp.461/)
+26. Multilingual Fine-Grained News Headline Hallucination Detection [[pdf]](https://aclanthology.org/2024.findings-emnlp.461/)  
+()
 
 
 
@@ -210,7 +211,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTkzNzMzLC0yNjQ1OTQxNjAsNjYzOT
+eyJoaXN0b3J5IjpbNTY2MjM4NjE1LC0yNjQ1OTQxNjAsNjYzOT
 AxMjAyLDIwMzU2NzE1NTcsLTE1MzkxNTc3MjEsMTU0NjkxNTcx
 NiwxMTEzNjM3OTksMTc0OTY4MzIxNCwtNjQzODcwNTI1LDk4Nj
 Y2NjQ2OCwtMTg1NzcyMjg0LDExMjYwNjE4MTgsMTkxODk1NjE5
