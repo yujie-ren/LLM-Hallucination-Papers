@@ -81,7 +81,8 @@
 31. Navigating Hallucinations for Reasoning of Unintentional Activities [[pdf]](https://aclanthology.org/2024.findings-emnlp.565/)  
 (IIT India, New task: understanding unintentional human activities, Hallucinated reasoning, New prompting)
 32. What if...?: Thinking Counterfactual Keywords Helps to Mitigate Hallucination in Large Multi-modal Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.626/)  
-(KAIST, Mitigate hallu in VLM, Counterfactual prompt, counterfactual keywords)
+(KAIST, Mitigate hallu in VLM, Counterfactual prompt, Counterfactual keywords gen)
+
 
 
 
@@ -227,7 +228,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODEzMDc2OCwxNjgzNzY1MTYxLC0yMD
+eyJoaXN0b3J5IjpbMTg2MzcwNTU1MCwxNjgzNzY1MTYxLC0yMD
 g0NjY2ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQw
 ODY2LC0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NS
 wtNjEzODYyOTM0LDIxNDQzNTExNDAsLTI2NDU5NDE2MCw2NjM5
