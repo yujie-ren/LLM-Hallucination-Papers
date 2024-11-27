@@ -65,7 +65,10 @@
 23. Reference-free Hallucination Detection for Large Vision-Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.262/)  
 (⭐️MBZUAI, Detect hallucination in VLM, reference-free, little summary)
 24. FaithScore: Fine-grained Evaluations of Hallucinations in Large Vision-Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.290/)  
-(UoTD, Detect hallucination in VLM, Evaluation metric,  version of FActScore)
+(UoTD, Detect hallucination in VLM, Evaluation metric, multimodal version of FActScore)
+
+
+
 
 
 
@@ -206,11 +209,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTI1MDUzMiwyMDM1NjcxNTU3LC0xNT
-M5MTU3NzIxLDE1NDY5MTU3MTYsMTExMzYzNzk5LDE3NDk2ODMy
-MTQsLTY0Mzg3MDUyNSw5ODY2NjY0NjgsLTE4NTc3MjI4NCwxMT
-I2MDYxODE4LDE5MTg5NTYxOTAsLTE2OTQ4MDI5MDQsLTIxNjcz
-OTM1MiwtMTYxNDUzNzU3MywtMzEyNzU0OSwtMTAwOTYyMTM4Mi
-w0NzEzMDMyMzgsLTE3NjAzMjMwNjEsMTI0NzE0OTI3OSw1MTY0
-NDc0Ml19
+eyJoaXN0b3J5IjpbNjYzOTAxMjAyLDIwMzU2NzE1NTcsLTE1Mz
+kxNTc3MjEsMTU0NjkxNTcxNiwxMTEzNjM3OTksMTc0OTY4MzIx
+NCwtNjQzODcwNTI1LDk4NjY2NjQ2OCwtMTg1NzcyMjg0LDExMj
+YwNjE4MTgsMTkxODk1NjE5MCwtMTY5NDgwMjkwNCwtMjE2NzM5
+MzUyLC0xNjE0NTM3NTczLC0zMTI3NTQ5LC0xMDA5NjIxMzgyLD
+Q3MTMwMzIzOCwtMTc2MDMyMzA2MSwxMjQ3MTQ5Mjc5LDUxNjQ0
+NzQyXX0=
 -->
