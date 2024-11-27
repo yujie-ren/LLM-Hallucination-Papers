@@ -52,6 +52,9 @@
 (Amazon, Detect hallucination in LLM's responses, Decompose claims, Check atomic claims using CoT reasoning)
 
 
+
+
+
 ##  ACL 202408
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
@@ -188,8 +191,8 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAyODc4NjUsLTIxNjczOTM1MiwtMT
-YxNDUzNzU3MywtMzEyNzU0OSwtMTAwOTYyMTM4Miw0NzEzMDMy
-MzgsLTE3NjAzMjMwNjEsMTI0NzE0OTI3OSw1MTY0NDc0Miw1MT
-MyOTkzNzZdfQ==
+eyJoaXN0b3J5IjpbLTg2Mzk1NzEwMywtMjE2NzM5MzUyLC0xNj
+E0NTM3NTczLC0zMTI3NTQ5LC0xMDA5NjIxMzgyLDQ3MTMwMzIz
+OCwtMTc2MDMyMzA2MSwxMjQ3MTQ5Mjc5LDUxNjQ0NzQyLDUxMz
+I5OTM3Nl19
 -->
