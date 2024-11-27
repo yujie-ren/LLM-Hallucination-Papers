@@ -79,7 +79,7 @@
 30. Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.564/)  
 (UCL, Detect hallucination in MT, LLMs have good performance even without training)
 31. Navigating Hallucinations for Reasoning of Unintentional Activities [[pdf]](https://aclanthology.org/2024.findings-emnlp.565/)  
-(IIT India, Understanding unintentional human activities, )
+(IIT India, New task: nderstanding unintentional human activities, )
 
 
 
@@ -225,11 +225,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NjgzNTYyLC0xODEzMzM3MzYsLTExMz
-E4MDYyODMsOTgxNTQwODY2LC0xNzMyOTE2MzQ1LC0xNjgxNDE1
-OTM3LDk3MTI5NDc2NSwtNjEzODYyOTM0LDIxNDQzNTExNDAsLT
-I2NDU5NDE2MCw2NjM5MDEyMDIsMjAzNTY3MTU1NywtMTUzOTE1
-NzcyMSwxNTQ2OTE1NzE2LDExMTM2Mzc5OSwxNzQ5NjgzMjE0LC
-02NDM4NzA1MjUsOTg2NjY2NDY4LC0xODU3NzIyODQsMTEyNjA2
-MTgxOF19
+eyJoaXN0b3J5IjpbLTIwODQ2NjY4NjQsLTE4MTMzMzczNiwtMT
+EzMTgwNjI4Myw5ODE1NDA4NjYsLTE3MzI5MTYzNDUsLTE2ODE0
+MTU5MzcsOTcxMjk0NzY1LC02MTM4NjI5MzQsMjE0NDM1MTE0MC
+wtMjY0NTk0MTYwLDY2MzkwMTIwMiwyMDM1NjcxNTU3LC0xNTM5
+MTU3NzIxLDE1NDY5MTU3MTYsMTExMzYzNzk5LDE3NDk2ODMyMT
+QsLTY0Mzg3MDUyNSw5ODY2NjY0NjgsLTE4NTc3MjI4NCwxMTI2
+MDYxODE4XX0=
 -->
