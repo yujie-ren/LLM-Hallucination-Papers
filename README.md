@@ -51,7 +51,7 @@
 16. HalluMeasure: Fine-grained Hallucination Measurement Using Chain-of-Thought Reasoning [[pdf]](https://aclanthology.org/2024.emnlp-main.837/)  
 (Amazon, Detect hallucination in LLM's responses, Decompose claims, Check atomic claims using CoT reasoning)
 17. Game on Tree: Visual Hallucination Mitigation via Coarse-to-Fine View Tree and Game Theory [[pdf]](https://aclanthology.org/2024.emnlp-main.998/)  
-(PKU, )
+(PKU, Mitigate hallucination in VLM, )
 
 
 
@@ -192,8 +192,8 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzY4NTE0MywtMjE2NzM5MzUyLC0xNj
-E0NTM3NTczLC0zMTI3NTQ5LC0xMDA5NjIxMzgyLDQ3MTMwMzIz
-OCwtMTc2MDMyMzA2MSwxMjQ3MTQ5Mjc5LDUxNjQ0NzQyLDUxMz
-I5OTM3Nl19
+eyJoaXN0b3J5IjpbMjI4MTc5MzgwLC0yMTY3MzkzNTIsLTE2MT
+Q1Mzc1NzMsLTMxMjc1NDksLTEwMDk2MjEzODIsNDcxMzAzMjM4
+LC0xNzYwMzIzMDYxLDEyNDcxNDkyNzksNTE2NDQ3NDIsNTEzMj
+k5Mzc2XX0=
 -->
