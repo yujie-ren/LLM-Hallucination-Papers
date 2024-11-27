@@ -89,7 +89,7 @@
 35. V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization [[pdf]](https://aclanthology.org/2024.findings-emnlp.775/)  
 (NUS, Mitigate hallu in VLM, Mitigate over-reliance on backbone, Preference learning)
 36. Mitigating Hallucination in Fictional Character Role-Play [[pdf]](https://aclanthology.org/2024.findings-emnlp.846/)  
-()
+(UC San Diego, )
 
 
 
@@ -233,11 +233,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTc0ODk2NiwtOTI5NTQ4Njg5LC0xMz
-Y2ODQyMTMsLTkzMTc4OTgyMCwxNjgzNzY1MTYxLC0yMDg0NjY2
-ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQwODY2LC
-0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NSwtNjEz
-ODYyOTM0LDIxNDQzNTExNDAsLTI2NDU5NDE2MCw2NjM5MDEyMD
-IsMjAzNTY3MTU1NywtMTUzOTE1NzcyMSwxNTQ2OTE1NzE2LDEx
-MTM2Mzc5OV19
+eyJoaXN0b3J5IjpbNzM5NTMyOTc2LC05Mjk1NDg2ODksLTEzNj
+Y4NDIxMywtOTMxNzg5ODIwLDE2ODM3NjUxNjEsLTIwODQ2NjY4
+NjQsLTE4MTMzMzczNiwtMTEzMTgwNjI4Myw5ODE1NDA4NjYsLT
+E3MzI5MTYzNDUsLTE2ODE0MTU5MzcsOTcxMjk0NzY1LC02MTM4
+NjI5MzQsMjE0NDM1MTE0MCwtMjY0NTk0MTYwLDY2MzkwMTIwMi
+wyMDM1NjcxNTU3LC0xNTM5MTU3NzIxLDE1NDY5MTU3MTYsMTEx
+MzYzNzk5XX0=
 -->
