@@ -73,7 +73,8 @@
 27. Mechanistic Understanding and Mitigation of Language Model Non-Factual Hallucinations [[pdf]](https://aclanthology.org/2024.findings-emnlp.466/)  
 (UoT, Explore mechanistic causes of hallucinations, Dataset, Mitigate hallucination)
 28. AutoHallusion: Automatic Generation of Hallucination Benchmarks for Vision-Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.493/)  
-(UoMaryland, Benchmark for VLM, automated benchmark generation approach)
+(UoMaryland, Benchmark for VLM, Automated benchmark generation approach)
+
 
 
 
@@ -215,11 +216,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODY4MTY1MywtMTY4MTQxNTkzNyw5Nz
-EyOTQ3NjUsLTYxMzg2MjkzNCwyMTQ0MzUxMTQwLC0yNjQ1OTQx
-NjAsNjYzOTAxMjAyLDIwMzU2NzE1NTcsLTE1MzkxNTc3MjEsMT
-U0NjkxNTcxNiwxMTEzNjM3OTksMTc0OTY4MzIxNCwtNjQzODcw
-NTI1LDk4NjY2NjQ2OCwtMTg1NzcyMjg0LDExMjYwNjE4MTgsMT
-kxODk1NjE5MCwtMTY5NDgwMjkwNCwtMjE2NzM5MzUyLC0xNjE0
-NTM3NTczXX0=
+eyJoaXN0b3J5IjpbNjA5NzE0ODEsLTE2ODE0MTU5MzcsOTcxMj
+k0NzY1LC02MTM4NjI5MzQsMjE0NDM1MTE0MCwtMjY0NTk0MTYw
+LDY2MzkwMTIwMiwyMDM1NjcxNTU3LC0xNTM5MTU3NzIxLDE1ND
+Y5MTU3MTYsMTExMzYzNzk5LDE3NDk2ODMyMTQsLTY0Mzg3MDUy
+NSw5ODY2NjY0NjgsLTE4NTc3MjI4NCwxMTI2MDYxODE4LDE5MT
+g5NTYxOTAsLTE2OTQ4MDI5MDQsLTIxNjczOTM1MiwtMTYxNDUz
+NzU3M119
 -->
