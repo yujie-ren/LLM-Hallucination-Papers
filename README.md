@@ -100,7 +100,7 @@
 40. The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention [[pdf]](https://aclanthology.org/2024.emnlp-main.513/)  
 (⭐️⭐️UCLA, Benchmark, T2I model, trade-off between diversity interventions and factuality)
 41. Detecting Errors through Ensembling Prompts (DEEP): An End-to-End  LLM  Framework for Detecting Factual Errors [[pdf]](https://aclanthology.org/2024.emnlp-main.728/)  
-(UTA, )
+(UTA, Detect factual errors in summarization, Ensembling prompts, without fine-tu)
 
 
 
@@ -240,11 +240,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjgyOTI4Nyw0MTg4MjY1NiwyNTAwNz
-k2NCwtOTI2MjE5NTU1LDIwODAwMTQ1NDcsLTE2ODg3NzM0NzIs
-MTc0Mjk5NjgzNCw0NjEzMTUyNTUsLTEyNjg0ODMyNTMsLTU3ND
-U1NTMyOCwtMTY4ODgyNjgxNiwtOTI5NTQ4Njg5LC0xMzY2ODQy
-MTMsLTkzMTc4OTgyMCwxNjgzNzY1MTYxLC0yMDg0NjY2ODY0LC
-0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQwODY2LC0xNzMy
-OTE2MzQ1XX0=
+eyJoaXN0b3J5IjpbMTIxNTEyNDU1MiwtOTgyODI5Mjg3LDQxOD
+gyNjU2LDI1MDA3OTY0LC05MjYyMTk1NTUsMjA4MDAxNDU0Nywt
+MTY4ODc3MzQ3MiwxNzQyOTk2ODM0LDQ2MTMxNTI1NSwtMTI2OD
+Q4MzI1MywtNTc0NTU1MzI4LC0xNjg4ODI2ODE2LC05Mjk1NDg2
+ODksLTEzNjY4NDIxMywtOTMxNzg5ODIwLDE2ODM3NjUxNjEsLT
+IwODQ2NjY4NjQsLTE4MTMzMzczNiwtMTEzMTgwNjI4Myw5ODE1
+NDA4NjZdfQ==
 -->
