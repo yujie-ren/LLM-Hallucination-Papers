@@ -97,7 +97,8 @@
 (UNC-Chapel Hill, New method, Multimodal RAG, Factuality of Medical VLM)
 39. Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons [[pdf]](https://aclanthology.org/2024.emnlp-main.420/)  
 (⭐️⭐️CAS, Factual knowledge recall, Reasoning, Knowledge Neuron)
-**[The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention](https://aclanthology.org/2024.emnlp-main.513/)**
+40. The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention [[pdf]](https://aclanthology.org/2024.emnlp-main.513/)  
+()
 
 
 
@@ -237,11 +238,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4NzQxMDYzLDIwODAwMTQ1NDcsLTE2OD
-g3NzM0NzIsMTc0Mjk5NjgzNCw0NjEzMTUyNTUsLTEyNjg0ODMy
-NTMsLTU3NDU1NTMyOCwtMTY4ODgyNjgxNiwtOTI5NTQ4Njg5LC
-0xMzY2ODQyMTMsLTkzMTc4OTgyMCwxNjgzNzY1MTYxLC0yMDg0
-NjY2ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgxNTQwOD
-Y2LC0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5NDc2NSwt
-NjEzODYyOTM0XX0=
+eyJoaXN0b3J5IjpbLTc2NDYyNDczMCwyMDgwMDE0NTQ3LC0xNj
+g4NzczNDcyLDE3NDI5OTY4MzQsNDYxMzE1MjU1LC0xMjY4NDgz
+MjUzLC01NzQ1NTUzMjgsLTE2ODg4MjY4MTYsLTkyOTU0ODY4OS
+wtMTM2Njg0MjEzLC05MzE3ODk4MjAsMTY4Mzc2NTE2MSwtMjA4
+NDY2Njg2NCwtMTgxMzMzNzM2LC0xMTMxODA2MjgzLDk4MTU0MD
+g2NiwtMTczMjkxNjM0NSwtMTY4MTQxNTkzNyw5NzEyOTQ3NjUs
+LTYxMzg2MjkzNF19
 -->
