@@ -93,7 +93,7 @@
 37. CED: Comparing Embedding Differences for Detecting Out-of-Distribution and Hallucinated Text [[pdf]](https://aclanthology.org/2024.findings-emnlp.874/)  
 (YonseiU, OOD detection)
 38. RULE: Reliable Multimodal  RAG  for Factuality in Medical Vision Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.62/)  
-()
+(UNC-Chapel Hill, )
 
 
 
@@ -233,7 +233,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODM5MDE1OSw0NjEzMTUyNTUsLTEyNj
+eyJoaXN0b3J5IjpbMTk3Mjg1MjIwNCw0NjEzMTUyNTUsLTEyNj
 g0ODMyNTMsLTU3NDU1NTMyOCwtMTY4ODgyNjgxNiwtOTI5NTQ4
 Njg5LC0xMzY2ODQyMTMsLTkzMTc4OTgyMCwxNjgzNzY1MTYxLC
 0yMDg0NjY2ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgx
