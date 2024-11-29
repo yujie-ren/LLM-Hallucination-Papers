@@ -1,5 +1,5 @@
 ﻿# LLM-Hallucination-Papers
-﻿**(Keyword: hallucination-hallu, factuality-factu, bias)**
+﻿**( Keyword: hallucination-hallu, factuality-factu, bias )**
 
 ## Contents
 
@@ -236,11 +236,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mjk1NDE3Niw0NjEzMTUyNTUsLTEyNj
-g0ODMyNTMsLTU3NDU1NTMyOCwtMTY4ODgyNjgxNiwtOTI5NTQ4
-Njg5LC0xMzY2ODQyMTMsLTkzMTc4OTgyMCwxNjgzNzY1MTYxLC
-0yMDg0NjY2ODY0LC0xODEzMzM3MzYsLTExMzE4MDYyODMsOTgx
-NTQwODY2LC0xNzMyOTE2MzQ1LC0xNjgxNDE1OTM3LDk3MTI5ND
-c2NSwtNjEzODYyOTM0LDIxNDQzNTExNDAsLTI2NDU5NDE2MCw2
-NjM5MDEyMDJdfQ==
+eyJoaXN0b3J5IjpbLTEzMzA3MDA1NDQsNDYxMzE1MjU1LC0xMj
+Y4NDgzMjUzLC01NzQ1NTUzMjgsLTE2ODg4MjY4MTYsLTkyOTU0
+ODY4OSwtMTM2Njg0MjEzLC05MzE3ODk4MjAsMTY4Mzc2NTE2MS
+wtMjA4NDY2Njg2NCwtMTgxMzMzNzM2LC0xMTMxODA2MjgzLDk4
+MTU0MDg2NiwtMTczMjkxNjM0NSwtMTY4MTQxNTkzNyw5NzEyOT
+Q3NjUsLTYxMzg2MjkzNCwyMTQ0MzUxMTQwLC0yNjQ1OTQxNjAs
+NjYzOTAxMjAyXX0=
 -->
