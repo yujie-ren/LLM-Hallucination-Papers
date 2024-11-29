@@ -98,7 +98,7 @@
 39. Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons [[pdf]](https://aclanthology.org/2024.emnlp-main.420/)  
 (⭐️⭐️CAS, Factual knowledge recall, Reasoning, Knowledge Neuron)
 40. The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention [[pdf]](https://aclanthology.org/2024.emnlp-main.513/)  
-(⭐️UCLA, )
+(⭐️UCLA, benchmark to systematically quantify the trade-off between using diversity interventions and preserving demographic factuality in T2I models)
 
 
 
@@ -238,11 +238,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwMDc5NjQsLTkyNjIxOTU1NSwyMDgwMD
-E0NTQ3LC0xNjg4NzczNDcyLDE3NDI5OTY4MzQsNDYxMzE1MjU1
-LC0xMjY4NDgzMjUzLC01NzQ1NTUzMjgsLTE2ODg4MjY4MTYsLT
-kyOTU0ODY4OSwtMTM2Njg0MjEzLC05MzE3ODk4MjAsMTY4Mzc2
-NTE2MSwtMjA4NDY2Njg2NCwtMTgxMzMzNzM2LC0xMTMxODA2Mj
-gzLDk4MTU0MDg2NiwtMTczMjkxNjM0NSwtMTY4MTQxNTkzNyw5
-NzEyOTQ3NjVdfQ==
+eyJoaXN0b3J5IjpbMTkxNTUyNjk2NCwyNTAwNzk2NCwtOTI2Mj
+E5NTU1LDIwODAwMTQ1NDcsLTE2ODg3NzM0NzIsMTc0Mjk5Njgz
+NCw0NjEzMTUyNTUsLTEyNjg0ODMyNTMsLTU3NDU1NTMyOCwtMT
+Y4ODgyNjgxNiwtOTI5NTQ4Njg5LC0xMzY2ODQyMTMsLTkzMTc4
+OTgyMCwxNjgzNzY1MTYxLC0yMDg0NjY2ODY0LC0xODEzMzM3Mz
+YsLTExMzE4MDYyODMsOTgxNTQwODY2LC0xNzMyOTE2MzQ1LC0x
+NjgxNDE1OTM3XX0=
 -->
