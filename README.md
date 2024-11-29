@@ -108,6 +108,7 @@
 
 
 
+
 ##  ACL 202408
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
@@ -244,11 +245,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc0NTgyNzMsMTYxNzc1MjUzMiwyMD
-AxMTI3NjE5LDUzMDY4MjM2NCwtOTgyODI5Mjg3LDQxODgyNjU2
-LDI1MDA3OTY0LC05MjYyMTk1NTUsMjA4MDAxNDU0NywtMTY4OD
-c3MzQ3MiwxNzQyOTk2ODM0LDQ2MTMxNTI1NSwtMTI2ODQ4MzI1
-MywtNTc0NTU1MzI4LC0xNjg4ODI2ODE2LC05Mjk1NDg2ODksLT
-EzNjY4NDIxMywtOTMxNzg5ODIwLDE2ODM3NjUxNjEsLTIwODQ2
-NjY4NjRdfQ==
+eyJoaXN0b3J5IjpbMTY2OTcxMjg0NSwxNjE3NzUyNTMyLDIwMD
+ExMjc2MTksNTMwNjgyMzY0LC05ODI4MjkyODcsNDE4ODI2NTYs
+MjUwMDc5NjQsLTkyNjIxOTU1NSwyMDgwMDE0NTQ3LC0xNjg4Nz
+czNDcyLDE3NDI5OTY4MzQsNDYxMzE1MjU1LC0xMjY4NDgzMjUz
+LC01NzQ1NTUzMjgsLTE2ODg4MjY4MTYsLTkyOTU0ODY4OSwtMT
+M2Njg0MjEzLC05MzE3ODk4MjAsMTY4Mzc2NTE2MSwtMjA4NDY2
+Njg2NF19
 -->
