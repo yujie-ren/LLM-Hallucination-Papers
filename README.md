@@ -101,7 +101,7 @@
 (⭐️⭐️UCLA, Benchmark, T2I model, trade-off between diversity interventions and factuality)
 41. Detecting Errors through Ensembling Prompts (DEEP): An End-to-End  LLM  Framework for Detecting Factual Errors [[pdf]](https://aclanthology.org/2024.emnlp-main.728/)  
 (UTA, Detect factual errors in summarization, Ensembling prompts, without fine-tuning)
-
+Temporally Consistent Factuality Probing for Large Language Models](https://aclanthology.org/2024.emnlp-main.887/)**
 
 
 ##  ACL 202408
@@ -240,11 +240,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNjgyMzY0LC05ODI4MjkyODcsNDE4OD
-I2NTYsMjUwMDc5NjQsLTkyNjIxOTU1NSwyMDgwMDE0NTQ3LC0x
-Njg4NzczNDcyLDE3NDI5OTY4MzQsNDYxMzE1MjU1LC0xMjY4ND
-gzMjUzLC01NzQ1NTUzMjgsLTE2ODg4MjY4MTYsLTkyOTU0ODY4
-OSwtMTM2Njg0MjEzLC05MzE3ODk4MjAsMTY4Mzc2NTE2MSwtMj
-A4NDY2Njg2NCwtMTgxMzMzNzM2LC0xMTMxODA2MjgzLDk4MTU0
-MDg2Nl19
+eyJoaXN0b3J5IjpbNjc1MDQ1NzIzLDUzMDY4MjM2NCwtOTgyOD
+I5Mjg3LDQxODgyNjU2LDI1MDA3OTY0LC05MjYyMTk1NTUsMjA4
+MDAxNDU0NywtMTY4ODc3MzQ3MiwxNzQyOTk2ODM0LDQ2MTMxNT
+I1NSwtMTI2ODQ4MzI1MywtNTc0NTU1MzI4LC0xNjg4ODI2ODE2
+LC05Mjk1NDg2ODksLTEzNjY4NDIxMywtOTMxNzg5ODIwLDE2OD
+M3NjUxNjEsLTIwODQ2NjY4NjQsLTE4MTMzMzczNiwtMTEzMTgw
+NjI4M119
 -->
