@@ -96,7 +96,7 @@
 38. RULE: Reliable Multimodal  RAG  for Factuality in Medical Vision Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.62/)  
 (UNC-Chapel Hill, New method, Multimodal RAG, Factuality of Medical VLM)
 39. Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons [[pdf]](https://aclanthology.org/2024.emnlp-main.420/)  
-()
+(⭐️CAS, )
 
 
 
@@ -237,11 +237,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzYyMjAzOCwxNzQyOTk2ODM0LDQ2MT
-MxNTI1NSwtMTI2ODQ4MzI1MywtNTc0NTU1MzI4LC0xNjg4ODI2
-ODE2LC05Mjk1NDg2ODksLTEzNjY4NDIxMywtOTMxNzg5ODIwLD
-E2ODM3NjUxNjEsLTIwODQ2NjY4NjQsLTE4MTMzMzczNiwtMTEz
-MTgwNjI4Myw5ODE1NDA4NjYsLTE3MzI5MTYzNDUsLTE2ODE0MT
-U5MzcsOTcxMjk0NzY1LC02MTM4NjI5MzQsMjE0NDM1MTE0MCwt
-MjY0NTk0MTYwXX0=
+eyJoaXN0b3J5IjpbLTE2ODg3NzM0NzIsMTc0Mjk5NjgzNCw0Nj
+EzMTUyNTUsLTEyNjg0ODMyNTMsLTU3NDU1NTMyOCwtMTY4ODgy
+NjgxNiwtOTI5NTQ4Njg5LC0xMzY2ODQyMTMsLTkzMTc4OTgyMC
+wxNjgzNzY1MTYxLC0yMDg0NjY2ODY0LC0xODEzMzM3MzYsLTEx
+MzE4MDYyODMsOTgxNTQwODY2LC0xNzMyOTE2MzQ1LC0xNjgxND
+E1OTM3LDk3MTI5NDc2NSwtNjEzODYyOTM0LDIxNDQzNTExNDAs
+LTI2NDU5NDE2MF19
 -->
