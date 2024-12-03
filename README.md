@@ -117,7 +117,8 @@
 (THU, Molecule research, Factual, Dataset)
 49. VeriScore: Evaluating the factuality of verifiable claims in long-form text generation [[pdf]](https://aclanthology.org/2024.findings-emnlp.552/)  
 (UMass Amherst, Based on FActScore, Not every claim is verifiable, Benchmark)
-**[Improving Factual Consistency of News Summarization by Contrastive Preference Optimization](https://aclanthology.org/2024.findings-emnlp.648/)**
+50. Improving Factual Consistency of News Summarization by Contrastive Preference Optimization [[pdf]](https://aclanthology.org/2024.findings-emnlp.648/)  
+()
 
 
 
@@ -257,11 +258,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTU0NDQ5MSwtMTMwMDYwNzc5OCwxNT
-kyODk1OTg0LC03NjI1MzQyMDgsLTIwNDc2OTQ4NzcsLTE1MzE3
-MTc4NjYsLTkzMDAyNDc3OSwtNDQ1MTk2NTEsLTE4Njk3NDE5OD
-csMTY2OTcxMjg0NSwxNjE3NzUyNTMyLDIwMDExMjc2MTksNTMw
-NjgyMzY0LC05ODI4MjkyODcsNDE4ODI2NTYsMjUwMDc5NjQsLT
-kyNjIxOTU1NSwyMDgwMDE0NTQ3LC0xNjg4NzczNDcyLDE3NDI5
-OTY4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE1OTIwNzAxNTMsLTEzMDA2MDc3OTgsMT
+U5Mjg5NTk4NCwtNzYyNTM0MjA4LC0yMDQ3Njk0ODc3LC0xNTMx
+NzE3ODY2LC05MzAwMjQ3NzksLTQ0NTE5NjUxLC0xODY5NzQxOT
+g3LDE2Njk3MTI4NDUsMTYxNzc1MjUzMiwyMDAxMTI3NjE5LDUz
+MDY4MjM2NCwtOTgyODI5Mjg3LDQxODgyNjU2LDI1MDA3OTY0LC
+05MjYyMTk1NTUsMjA4MDAxNDU0NywtMTY4ODc3MzQ3MiwxNzQy
+OTk2ODM0XX0=
 -->
