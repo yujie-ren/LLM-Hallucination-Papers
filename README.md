@@ -116,7 +116,7 @@
 48. MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension [[pdf]](https://aclanthology.org/2024.findings-emnlp.216/)  
 (THU, Molecule research, Factual, Dataset)
 49. Mechanistic Understanding and Mitigation of Language Model Non-Factual Hallucinations [[pdf]](https://aclanthology.org/2024.findings-emnlp.466/)  
-()
+(UoT, )
 
 
 
@@ -257,7 +257,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzg3OTU2NiwxNTkyODk1OTg0LC0yMD
+eyJoaXN0b3J5IjpbLTc2MjUzNDIwOCwxNTkyODk1OTg0LC0yMD
 Q3Njk0ODc3LC0xNTMxNzE3ODY2LC05MzAwMjQ3NzksLTQ0NTE5
 NjUxLC0xODY5NzQxOTg3LDE2Njk3MTI4NDUsMTYxNzc1MjUzMi
 wyMDAxMTI3NjE5LDUzMDY4MjM2NCwtOTgyODI5Mjg3LDQxODgy
