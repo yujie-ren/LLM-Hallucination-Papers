@@ -125,7 +125,8 @@
 (MZUAI, Bias and factuality detection, News media)  
 53. FactAlign: Long-form Factuality Alignment of Large Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.955/)  
 (NTU, Factuality alignment, New method)
-
+54. Dial  BeInfo for Faithfulness: Improving Factuality of Information-Seeking Dialogue via Behavioural Fine-Tuning [[pdf]](https://aclanthology.org/2024.findings-emnlp.998/)  
+()
 
 
 
@@ -265,11 +266,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNzEzNjc2LDg5NDkzNDYyOCwxNDk4ND
-c0NDc1LDE0NjI1ODM1MzIsLTEzMDA2MDc3OTgsMTU5Mjg5NTk4
-NCwtNzYyNTM0MjA4LC0yMDQ3Njk0ODc3LC0xNTMxNzE3ODY2LC
-05MzAwMjQ3NzksLTQ0NTE5NjUxLC0xODY5NzQxOTg3LDE2Njk3
-MTI4NDUsMTYxNzc1MjUzMiwyMDAxMTI3NjE5LDUzMDY4MjM2NC
-wtOTgyODI5Mjg3LDQxODgyNjU2LDI1MDA3OTY0LC05MjYyMTk1
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTMyODIwMDk3Myw2NDA3MTM2NzYsODk0OT
+M0NjI4LDE0OTg0NzQ0NzUsMTQ2MjU4MzUzMiwtMTMwMDYwNzc5
+OCwxNTkyODk1OTg0LC03NjI1MzQyMDgsLTIwNDc2OTQ4NzcsLT
+E1MzE3MTc4NjYsLTkzMDAyNDc3OSwtNDQ1MTk2NTEsLTE4Njk3
+NDE5ODcsMTY2OTcxMjg0NSwxNjE3NzUyNTMyLDIwMDExMjc2MT
+ksNTMwNjgyMzY0LC05ODI4MjkyODcsNDE4ODI2NTYsMjUwMDc5
+NjRdfQ==
 -->
