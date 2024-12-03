@@ -122,7 +122,10 @@
 51. MAVEN-FACT: A Large-scale Event Factuality Detection Dataset [[pdf]](https://aclanthology.org/2024.findings-emnlp.651/)  
 (HKUST, Event Factuality Detection)
 52. SAFARI: Cross-lingual Bias and Factuality Detection in News Media and News Articles [[pdf]](https://aclanthology.org/2024.findings-emnlp.712/)  
-(MZUAI, )
+(MZUAI, Bias and factuality detection, News media)  
+
+
+
 
 
 ##  ACL 202408
@@ -261,11 +264,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTczNjIxMDQsMTQ5ODQ3NDQ3NSwxND
-YyNTgzNTMyLC0xMzAwNjA3Nzk4LDE1OTI4OTU5ODQsLTc2MjUz
-NDIwOCwtMjA0NzY5NDg3NywtMTUzMTcxNzg2NiwtOTMwMDI0Nz
-c5LC00NDUxOTY1MSwtMTg2OTc0MTk4NywxNjY5NzEyODQ1LDE2
-MTc3NTI1MzIsMjAwMTEyNzYxOSw1MzA2ODIzNjQsLTk4MjgyOT
-I4Nyw0MTg4MjY1NiwyNTAwNzk2NCwtOTI2MjE5NTU1LDIwODAw
-MTQ1NDddfQ==
+eyJoaXN0b3J5IjpbODk0OTM0NjI4LDE0OTg0NzQ0NzUsMTQ2Mj
+U4MzUzMiwtMTMwMDYwNzc5OCwxNTkyODk1OTg0LC03NjI1MzQy
+MDgsLTIwNDc2OTQ4NzcsLTE1MzE3MTc4NjYsLTkzMDAyNDc3OS
+wtNDQ1MTk2NTEsLTE4Njk3NDE5ODcsMTY2OTcxMjg0NSwxNjE3
+NzUyNTMyLDIwMDExMjc2MTksNTMwNjgyMzY0LC05ODI4MjkyOD
+csNDE4ODI2NTYsMjUwMDc5NjQsLTkyNjIxOTU1NSwyMDgwMDE0
+NTQ3XX0=
 -->
