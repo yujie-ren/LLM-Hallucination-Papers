@@ -114,7 +114,7 @@
 47. SummaCoz: A Dataset for Improving the Interpretability of Factual Consistency Detection for Summarization [[pdf]](https://aclanthology.org/2024.findings-emnlp.210/)  
 (IowaStateU, Interpretability, Factual consistency, Summarization, Dataset)
 48. MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension [[pdf]](https://aclanthology.org/2024.findings-emnlp.216/)  
-()
+(THU, Molecule research, Factual, Dataset)
 
 
 
@@ -256,11 +256,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAyMzQzNTYsLTIwNDc2OTQ4NzcsLT
-E1MzE3MTc4NjYsLTkzMDAyNDc3OSwtNDQ1MTk2NTEsLTE4Njk3
-NDE5ODcsMTY2OTcxMjg0NSwxNjE3NzUyNTMyLDIwMDExMjc2MT
-ksNTMwNjgyMzY0LC05ODI4MjkyODcsNDE4ODI2NTYsMjUwMDc5
-NjQsLTkyNjIxOTU1NSwyMDgwMDE0NTQ3LC0xNjg4NzczNDcyLD
-E3NDI5OTY4MzQsNDYxMzE1MjU1LC0xMjY4NDgzMjUzLC01NzQ1
-NTUzMjhdfQ==
+eyJoaXN0b3J5IjpbMTU5Mjg5NTk4NCwtMjA0NzY5NDg3NywtMT
+UzMTcxNzg2NiwtOTMwMDI0Nzc5LC00NDUxOTY1MSwtMTg2OTc0
+MTk4NywxNjY5NzEyODQ1LDE2MTc3NTI1MzIsMjAwMTEyNzYxOS
+w1MzA2ODIzNjQsLTk4MjgyOTI4Nyw0MTg4MjY1NiwyNTAwNzk2
+NCwtOTI2MjE5NTU1LDIwODAwMTQ1NDcsLTE2ODg3NzM0NzIsMT
+c0Mjk5NjgzNCw0NjEzMTUyNTUsLTEyNjg0ODMyNTMsLTU3NDU1
+NTMyOF19
 -->
