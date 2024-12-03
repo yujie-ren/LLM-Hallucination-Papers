@@ -116,7 +116,7 @@
 48. MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension [[pdf]](https://aclanthology.org/2024.findings-emnlp.216/)  
 (THU, Molecule research, Factual, Dataset)
 49. VeriScore: Evaluating the factuality of verifiable claims in long-form text generation [[pdf]](https://aclanthology.org/2024.findings-emnlp.552/)  
-()
+(UMass Amherst, )
 
 
 
@@ -257,11 +257,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjk3Njc1OSwxNTkyODk1OTg0LC03Nj
-I1MzQyMDgsLTIwNDc2OTQ4NzcsLTE1MzE3MTc4NjYsLTkzMDAy
-NDc3OSwtNDQ1MTk2NTEsLTE4Njk3NDE5ODcsMTY2OTcxMjg0NS
-wxNjE3NzUyNTMyLDIwMDExMjc2MTksNTMwNjgyMzY0LC05ODI4
-MjkyODcsNDE4ODI2NTYsMjUwMDc5NjQsLTkyNjIxOTU1NSwyMD
-gwMDE0NTQ3LC0xNjg4NzczNDcyLDE3NDI5OTY4MzQsNDYxMzE1
-MjU1XX0=
+eyJoaXN0b3J5IjpbMTYyMzMyNzgsMTU5Mjg5NTk4NCwtNzYyNT
+M0MjA4LC0yMDQ3Njk0ODc3LC0xNTMxNzE3ODY2LC05MzAwMjQ3
+NzksLTQ0NTE5NjUxLC0xODY5NzQxOTg3LDE2Njk3MTI4NDUsMT
+YxNzc1MjUzMiwyMDAxMTI3NjE5LDUzMDY4MjM2NCwtOTgyODI5
+Mjg3LDQxODgyNjU2LDI1MDA3OTY0LC05MjYyMTk1NTUsMjA4MD
+AxNDU0NywtMTY4ODc3MzQ3MiwxNzQyOTk2ODM0LDQ2MTMxNTI1
+NV19
 -->
