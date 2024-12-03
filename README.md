@@ -112,7 +112,7 @@
 46. OpenFactCheck: A Unified Framework for Factuality Evaluation of  LLMs [[pdf]](https://aclanthology.org/2024.emnlp-demo.23/)  
 (MBZUAI, Framework for factuality evaluation)
 47. SummaCoz: A Dataset for Improving the Interpretability of Factual Consistency Detection for Summarization [[pdf]](https://aclanthology.org/2024.findings-emnlp.210/)  
-(IowaStateU, Interpretability, Factual consistency, Summarization, )
+(IowaStateU, Interpretability, Factual consistency, Summarization, Dataset)
 
 
 
@@ -255,11 +255,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxNjYwOTMsLTE1MzE3MTc4NjYsLTkzMD
-AyNDc3OSwtNDQ1MTk2NTEsLTE4Njk3NDE5ODcsMTY2OTcxMjg0
-NSwxNjE3NzUyNTMyLDIwMDExMjc2MTksNTMwNjgyMzY0LC05OD
-I4MjkyODcsNDE4ODI2NTYsMjUwMDc5NjQsLTkyNjIxOTU1NSwy
-MDgwMDE0NTQ3LC0xNjg4NzczNDcyLDE3NDI5OTY4MzQsNDYxMz
-E1MjU1LC0xMjY4NDgzMjUzLC01NzQ1NTUzMjgsLTE2ODg4MjY4
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNDc2OTQ4NzcsLTE1MzE3MTc4NjYsLT
+kzMDAyNDc3OSwtNDQ1MTk2NTEsLTE4Njk3NDE5ODcsMTY2OTcx
+Mjg0NSwxNjE3NzUyNTMyLDIwMDExMjc2MTksNTMwNjgyMzY0LC
+05ODI4MjkyODcsNDE4ODI2NTYsMjUwMDc5NjQsLTkyNjIxOTU1
+NSwyMDgwMDE0NTQ3LC0xNjg4NzczNDcyLDE3NDI5OTY4MzQsND
+YxMzE1MjU1LC0xMjY4NDgzMjUzLC01NzQ1NTUzMjgsLTE2ODg4
+MjY4MTZdfQ==
 -->
