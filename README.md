@@ -105,6 +105,10 @@
 (IIT-India, Consistent Factuality Probing, Temporal)
 43. FAME: Towards Factual Multi-Task Model Editing [[pdf]](https://aclanthology.org/2024.emnlp-main.894/)  
 (⭐️BIT, Dataset, Model editing, Method)
+44. Factuality of Large Language Models: A Survey [[pdf]](https://aclanthology.org/2024.emnlp-main.1088/)  
+
+
+
 
 
 
@@ -245,11 +249,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTcxMjg0NSwxNjE3NzUyNTMyLDIwMD
-ExMjc2MTksNTMwNjgyMzY0LC05ODI4MjkyODcsNDE4ODI2NTYs
-MjUwMDc5NjQsLTkyNjIxOTU1NSwyMDgwMDE0NTQ3LC0xNjg4Nz
-czNDcyLDE3NDI5OTY4MzQsNDYxMzE1MjU1LC0xMjY4NDgzMjUz
-LC01NzQ1NTUzMjgsLTE2ODg4MjY4MTYsLTkyOTU0ODY4OSwtMT
-M2Njg0MjEzLC05MzE3ODk4MjAsMTY4Mzc2NTE2MSwtMjA4NDY2
-Njg2NF19
+eyJoaXN0b3J5IjpbLTE2MDY4NDc3OTAsMTY2OTcxMjg0NSwxNj
+E3NzUyNTMyLDIwMDExMjc2MTksNTMwNjgyMzY0LC05ODI4Mjky
+ODcsNDE4ODI2NTYsMjUwMDc5NjQsLTkyNjIxOTU1NSwyMDgwMD
+E0NTQ3LC0xNjg4NzczNDcyLDE3NDI5OTY4MzQsNDYxMzE1MjU1
+LC0xMjY4NDgzMjUzLC01NzQ1NTUzMjgsLTE2ODg4MjY4MTYsLT
+kyOTU0ODY4OSwtMTM2Njg0MjEzLC05MzE3ODk4MjAsMTY4Mzc2
+NTE2MV19
 -->
