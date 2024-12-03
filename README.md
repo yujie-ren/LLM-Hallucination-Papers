@@ -110,7 +110,7 @@
 45. SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization [[pdf]](https://aclanthology.org/2024.emnlp-main.1120/)  
 (UoMassachusetts, Factual alignment, Clinical summarization, GPT4 offer feedback)
 46. OpenFactCheck: A Unified Framework for Factuality Evaluation of  LLMs [[pdf]](https://aclanthology.org/2024.emnlp-demo.23/)  
-(MBZUAI, )
+(MBZUAI, Framework for factuality evaluation)
 
 
 
@@ -253,7 +253,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMzI0NjAxLC05MzAwMjQ3NzksLTQ0NT
+eyJoaXN0b3J5IjpbNzI2NTgyMzEyLC05MzAwMjQ3NzksLTQ0NT
 E5NjUxLC0xODY5NzQxOTg3LDE2Njk3MTI4NDUsMTYxNzc1MjUz
 MiwyMDAxMTI3NjE5LDUzMDY4MjM2NCwtOTgyODI5Mjg3LDQxOD
 gyNjU2LDI1MDA3OTY0LC05MjYyMTk1NTUsMjA4MDAxNDU0Nywt
