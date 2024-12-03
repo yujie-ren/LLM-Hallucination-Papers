@@ -126,7 +126,7 @@
 53. FactAlign: Long-form Factuality Alignment of Large Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.955/)  
 (NTU, Factuality alignment, New method)
 54. Dial  BeInfo for Faithfulness: Improving Factuality of Information-Seeking Dialogue via Behavioural Fine-Tuning [[pdf]](https://aclanthology.org/2024.findings-emnlp.998/)  
-(PolyAI-London, )
+(PolyAI-London, Improving factuality by fine-tuning)
 
 
 
@@ -266,7 +266,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNTQ3OTI2LDY0MDcxMzY3Niw4OTQ5Mz
+eyJoaXN0b3J5IjpbMjcyMTU4MjE2LDY0MDcxMzY3Niw4OTQ5Mz
 Q2MjgsMTQ5ODQ3NDQ3NSwxNDYyNTgzNTMyLC0xMzAwNjA3Nzk4
 LDE1OTI4OTU5ODQsLTc2MjUzNDIwOCwtMjA0NzY5NDg3NywtMT
 UzMTcxNzg2NiwtOTMwMDI0Nzc5LC00NDUxOTY1MSwtMTg2OTc0
