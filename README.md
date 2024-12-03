@@ -108,7 +108,7 @@
 44. Factuality of Large Language Models: A Survey [[pdf]](https://aclanthology.org/2024.emnlp-main.1088/)  
 (⭐️MBZUAI, Survey, Compare several surveys about Factuality)
 45. SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization [[pdf]](https://aclanthology.org/2024.emnlp-main.1120/)  
-(UoMassachusetts, Amher)
+(UoMassachusetts, Factual alignment, Clinical summarization, )
 
 
 
@@ -250,11 +250,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDY0NzI0MSwtNDQ1MTk2NTEsLTE4Nj
-k3NDE5ODcsMTY2OTcxMjg0NSwxNjE3NzUyNTMyLDIwMDExMjc2
-MTksNTMwNjgyMzY0LC05ODI4MjkyODcsNDE4ODI2NTYsMjUwMD
-c5NjQsLTkyNjIxOTU1NSwyMDgwMDE0NTQ3LC0xNjg4NzczNDcy
-LDE3NDI5OTY4MzQsNDYxMzE1MjU1LC0xMjY4NDgzMjUzLC01Nz
-Q1NTUzMjgsLTE2ODg4MjY4MTYsLTkyOTU0ODY4OSwtMTM2Njg0
-MjEzXX0=
+eyJoaXN0b3J5IjpbLTc5ODEzMjc3LC00NDUxOTY1MSwtMTg2OT
+c0MTk4NywxNjY5NzEyODQ1LDE2MTc3NTI1MzIsMjAwMTEyNzYx
+OSw1MzA2ODIzNjQsLTk4MjgyOTI4Nyw0MTg4MjY1NiwyNTAwNz
+k2NCwtOTI2MjE5NTU1LDIwODAwMTQ1NDcsLTE2ODg3NzM0NzIs
+MTc0Mjk5NjgzNCw0NjEzMTUyNTUsLTEyNjg0ODMyNTMsLTU3ND
+U1NTMyOCwtMTY4ODgyNjgxNiwtOTI5NTQ4Njg5LC0xMzY2ODQy
+MTNdfQ==
 -->
