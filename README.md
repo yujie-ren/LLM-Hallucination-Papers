@@ -112,7 +112,7 @@
 46. OpenFactCheck: A Unified Framework for Factuality Evaluation of  LLMs [[pdf]](https://aclanthology.org/2024.emnlp-demo.23/)  
 (MBZUAI, Framework for factuality evaluation)
 47. SummaCoz: A Dataset for Improving the Interpretability of Factual Consistency Detection for Summarization [[pdf]](https://aclanthology.org/2024.findings-emnlp.210/)  
-()
+(IowaStateU, )
 
 
 
@@ -255,7 +255,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwODI4MzAzLC0xNTMxNzE3ODY2LC05Mz
+eyJoaXN0b3J5IjpbNTE0NTY3NzAzLC0xNTMxNzE3ODY2LC05Mz
 AwMjQ3NzksLTQ0NTE5NjUxLC0xODY5NzQxOTg3LDE2Njk3MTI4
 NDUsMTYxNzc1MjUzMiwyMDAxMTI3NjE5LDUzMDY4MjM2NCwtOT
 gyODI5Mjg3LDQxODgyNjU2LDI1MDA3OTY0LC05MjYyMTk1NTUs
