@@ -120,7 +120,7 @@
 50. Improving Factual Consistency of News Summarization by Contrastive Preference Optimization [[pdf]](https://aclanthology.org/2024.findings-emnlp.648/)  
 (SCUT, News summarization, Factual consistency)
 51. MAVEN-FACT: A Large-scale Event Factuality Detection Dataset [[pdf]](https://aclanthology.org/2024.findings-emnlp.651/)  
-()
+(HKUST, )
 
 
 
@@ -260,11 +260,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM0Mzc3MjMsMTQ2MjU4MzUzMiwtMT
-MwMDYwNzc5OCwxNTkyODk1OTg0LC03NjI1MzQyMDgsLTIwNDc2
-OTQ4NzcsLTE1MzE3MTc4NjYsLTkzMDAyNDc3OSwtNDQ1MTk2NT
-EsLTE4Njk3NDE5ODcsMTY2OTcxMjg0NSwxNjE3NzUyNTMyLDIw
-MDExMjc2MTksNTMwNjgyMzY0LC05ODI4MjkyODcsNDE4ODI2NT
-YsMjUwMDc5NjQsLTkyNjIxOTU1NSwyMDgwMDE0NTQ3LC0xNjg4
-NzczNDcyXX0=
+eyJoaXN0b3J5IjpbNzg4ODE2NDg2LDE0NjI1ODM1MzIsLTEzMD
+A2MDc3OTgsMTU5Mjg5NTk4NCwtNzYyNTM0MjA4LC0yMDQ3Njk0
+ODc3LC0xNTMxNzE3ODY2LC05MzAwMjQ3NzksLTQ0NTE5NjUxLC
+0xODY5NzQxOTg3LDE2Njk3MTI4NDUsMTYxNzc1MjUzMiwyMDAx
+MTI3NjE5LDUzMDY4MjM2NCwtOTgyODI5Mjg3LDQxODgyNjU2LD
+I1MDA3OTY0LC05MjYyMTk1NTUsMjA4MDAxNDU0NywtMTY4ODc3
+MzQ3Ml19
 -->
