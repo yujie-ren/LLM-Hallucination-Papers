@@ -221,7 +221,7 @@
 
 ## NeurIPS 202412
 ### NeurIPS 2024 Test of Time Paper Awards [link](https://blog.neurips.cc/2024/11/27/announcing-the-neurips-2024-test-of-time-paper-awards/)
-1. Generative Adversarial Nets [[pdf]]()
+1. Generative Adversarial Nets [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 
 
 [Top](#llm-hallucination-papers)
@@ -241,7 +241,7 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMTA4Mzc0LDE2NTg2NTAwMjQsLTEyOT
+eyJoaXN0b3J5IjpbMTQ4NTExNzIyLDE2NTg2NTAwMjQsLTEyOT
 M2NDc3MzQsLTE3ODM2Nzk4MDIsLTIxMjE3MjcwMjgsLTE0MDE2
 NjE4MTIsLTIwNDA0MTk3MTYsNDkxMzQyODI2LDE4Njc2MTQ0OD
 csOTAxNTk4MDI1LC0xNDEwNTkzNzc5LC04OTU2OTIzMDAsLTcw
