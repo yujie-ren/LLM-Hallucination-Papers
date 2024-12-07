@@ -1,9 +1,10 @@
 ﻿
-﻿# LLM-Hallucination-Papers
+﻿#LLM-Hallucination-Papers
 ﻿**Keyword for retrieval: hallucination - hallu, factuality - factu, knowledge - know**
+# LLM-Hallucination-Papers
+**Keyword for retrieval: hallucination - hallu, factuality - factu, knowledge - know**
 
 ## Contents
-
 |Year |      |      |      |      |      |
 |:---:|    :----:        |        :---:         |        :---:         |      :---:    | :---:  |
 |2024|[arXiv-24](#arxiv-2024)|[EMNLP-2411](#emnlp-202411) | [ACL-2408](#acl-202408) | [NAACL-2406](#naacl-202406) |[COLM-2410](#colm-202410)|
@@ -19,7 +20,7 @@
 (Tencent AI，使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT)
 - Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
 (UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改)
-[Top](#contents)
+[Top](#llm-hallucination-papers)
 
 ##  EMNLP 202411
 1. EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
@@ -262,11 +263,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMTA0MTIsLTE0MTA1OTM3NzksLTg5NT
-Y5MjMwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLTczMTk3NDky
-MCwtMTkyMjk0MjMyMSwyNzIxNTgyMTYsNjQwNzEzNjc2LDg5ND
-kzNDYyOCwxNDk4NDc0NDc1LDE0NjI1ODM1MzIsLTEzMDA2MDc3
-OTgsMTU5Mjg5NTk4NCwtNzYyNTM0MjA4LC0yMDQ3Njk0ODc3LC
-0xNTMxNzE3ODY2LC05MzAwMjQ3NzksLTQ0NTE5NjUxLC0xODY5
-NzQxOTg3XX0=
+eyJoaXN0b3J5IjpbOTAxNTk4MDI1LC0xNDEwNTkzNzc5LC04OT
+U2OTIzMDAsLTcwMjYwNTU4MCwxMDM1MTI4MTc0LC03MzE5NzQ5
+MjAsLTE5MjI5NDIzMjEsMjcyMTU4MjE2LDY0MDcxMzY3Niw4OT
+Q5MzQ2MjgsMTQ5ODQ3NDQ3NSwxNDYyNTgzNTMyLC0xMzAwNjA3
+Nzk4LDE1OTI4OTU5ODQsLTc2MjUzNDIwOCwtMjA0NzY5NDg3Ny
+wtMTUzMTcxNzg2NiwtOTMwMDI0Nzc5LC00NDUxOTY1MSwtMTg2
+OTc0MTk4N119
 -->
