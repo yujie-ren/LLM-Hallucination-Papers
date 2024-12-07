@@ -231,7 +231,7 @@
 (the cornerstone work that set the encoder-decoder architecture, inspiring later attention-based improvements)
 
 ### Best Papers 
-1. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [[arxiv]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+1. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [[arxiv]](https://arxiv.org/abs/2404.02905)
 
 [Top](#llm-hallucination-papers)
 
@@ -250,11 +250,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNjg2Mzk4LDExNDIxMDQwOTEsLTg3NT
-M1NTkyMywxMDY2ODIzNzM3LDE0ODUxMTcyMiwxNjU4NjUwMDI0
-LC0xMjkzNjQ3NzM0LC0xNzgzNjc5ODAyLC0yMTIxNzI3MDI4LC
-0xNDAxNjYxODEyLC0yMDQwNDE5NzE2LDQ5MTM0MjgyNiwxODY3
-NjE0NDg3LDkwMTU5ODAyNSwtMTQxMDU5Mzc3OSwtODk1NjkyMz
-AwLC03MDI2MDU1ODAsMTAzNTEyODE3NCwtNzMxOTc0OTIwLC0x
-OTIyOTQyMzIxXX0=
+eyJoaXN0b3J5IjpbMTAxNjU5MzE0NSwxMTQyMTA0MDkxLC04Nz
+UzNTU5MjMsMTA2NjgyMzczNywxNDg1MTE3MjIsMTY1ODY1MDAy
+NCwtMTI5MzY0NzczNCwtMTc4MzY3OTgwMiwtMjEyMTcyNzAyOC
+wtMTQwMTY2MTgxMiwtMjA0MDQxOTcxNiw0OTEzNDI4MjYsMTg2
+NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3NzksLTg5NTY5Mj
+MwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLTczMTk3NDkyMCwt
+MTkyMjk0MjMyMV19
 -->
