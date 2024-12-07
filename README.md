@@ -205,7 +205,7 @@
 
 ##  Other 2024
 
-### COLM 202410
+## COLM 202410
 - Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)  
 (KAIST，检测Multilingual LLM使用不同语言，回答不同地理区域问题时的幻觉程度)
 - PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
@@ -266,11 +266,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTk3NDkyMCwtMTkyMjk0MjMyMSwyNz
-IxNTgyMTYsNjQwNzEzNjc2LDg5NDkzNDYyOCwxNDk4NDc0NDc1
-LDE0NjI1ODM1MzIsLTEzMDA2MDc3OTgsMTU5Mjg5NTk4NCwtNz
-YyNTM0MjA4LC0yMDQ3Njk0ODc3LC0xNTMxNzE3ODY2LC05MzAw
-MjQ3NzksLTQ0NTE5NjUxLC0xODY5NzQxOTg3LDE2Njk3MTI4ND
-UsMTYxNzc1MjUzMiwyMDAxMTI3NjE5LDUzMDY4MjM2NCwtOTgy
-ODI5Mjg3XX0=
+eyJoaXN0b3J5IjpbMjg5MjYxNzg3LC03MzE5NzQ5MjAsLTE5Mj
+I5NDIzMjEsMjcyMTU4MjE2LDY0MDcxMzY3Niw4OTQ5MzQ2Mjgs
+MTQ5ODQ3NDQ3NSwxNDYyNTgzNTMyLC0xMzAwNjA3Nzk4LDE1OT
+I4OTU5ODQsLTc2MjUzNDIwOCwtMjA0NzY5NDg3NywtMTUzMTcx
+Nzg2NiwtOTMwMDI0Nzc5LC00NDUxOTY1MSwtMTg2OTc0MTk4Ny
+wxNjY5NzEyODQ1LDE2MTc3NTI1MzIsMjAwMTEyNzYxOSw1MzA2
+ODIzNjRdfQ==
 -->
