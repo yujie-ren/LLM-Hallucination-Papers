@@ -7,7 +7,7 @@
 |:---:|    :----:        |        :---:         |        :---:         |      :---:    | :---:  |
 |2024|[arXiv-24](#arxiv-2024)|[EMNLP-2411](#emnlp-202411) | [ACL-2408](#acl-202408) | [NAACL-2406](#naacl-202406) |[COLM-2410](#colm-202410)|
 |    |[Other-24](#other-2024)|[NeurIPS-2412](#neurips-202412)|[ICML-2407](#icml-202407)|[ICLR-2405](#iclr-202405)|      |
-|2023| [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |## ICLR 202405
+|2023| [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
 
 ##  arXiv 2024
 - Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
@@ -260,7 +260,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTg4MDc1MywtNzAyNjA1NTgwLDEwMz
+eyJoaXN0b3J5IjpbLTg5NTY5MjMwMCwtNzAyNjA1NTgwLDEwMz
 UxMjgxNzQsLTczMTk3NDkyMCwtMTkyMjk0MjMyMSwyNzIxNTgy
 MTYsNjQwNzEzNjc2LDg5NDkzNDYyOCwxNDk4NDc0NDc1LDE0Nj
 I1ODM1MzIsLTEzMDA2MDc3OTgsMTU5Mjg5NTk4NCwtNzYyNTM0
