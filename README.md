@@ -222,7 +222,7 @@
 ## NeurIPS 202412
 ### NeurIPS 2024 Test of Time Paper Awards [link](https://blog.neurips.cc/2024/11/27/announcing-the-neurips-2024-test-of-time-paper-awards/)
 1. Generative Adversarial Nets [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
-2. Sequence to Sequence Learning with Neural Networks [[pdf]]()
+2. Sequence to Sequence Learning with Neural Networks [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
 
 [Top](#llm-hallucination-papers)
 
@@ -241,7 +241,7 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzQ0ODU5NiwxNDg1MTE3MjIsMTY1OD
+eyJoaXN0b3J5IjpbMTA2NjgyMzczNywxNDg1MTE3MjIsMTY1OD
 Y1MDAyNCwtMTI5MzY0NzczNCwtMTc4MzY3OTgwMiwtMjEyMTcy
 NzAyOCwtMTQwMTY2MTgxMiwtMjA0MDQxOTcxNiw0OTEzNDI4Mj
 YsMTg2NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3NzksLTg5
