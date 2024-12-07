@@ -185,7 +185,7 @@
 (THU，利用LLM内部状态检测幻觉)
 - Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding [[pdf]](https://aclanthology.org/2024.findings-acl.937/)  
 (UHH，减轻LVLM幻觉)
-
+[Top](#llm-hallucination-papers)
 
 ## NAACL 202406
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
@@ -231,7 +231,7 @@
 ## EMNLP 202312
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODU1NTA2MiwtMjA0MDQxOTcxNiw0OT
+eyJoaXN0b3J5IjpbLTM0MzY4MjkyMiwtMjA0MDQxOTcxNiw0OT
 EzNDI4MjYsMTg2NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3
 NzksLTg5NTY5MjMwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLT
 czMTk3NDkyMCwtMTkyMjk0MjMyMSwyNzIxNTgyMTYsNjQwNzEz
