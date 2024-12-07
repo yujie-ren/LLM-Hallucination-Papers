@@ -5,7 +5,7 @@
 
 |Year |      |      |      |      |      |
 |:---:|    :----:        |        :---:         |        :---:         |      :---:    | :---:  |
-|2024| [ACL](#acl-202408) | [EMNLP](#emnlp-202411) | [NAACL](#naacl-202406) |[Other](#other-2024)|[arXiv](#arxiv-2024)
+|2024|[arXiv](#arxiv-2024)|[ACL-2408](#acl-202408) | [EMNLP](#emnlp-202411) | [NAACL](#naacl-202406) |[Other](#other-2024)|
 |2023| [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
 
 ##  arXiv 2024
@@ -266,11 +266,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI5NDIzMjEsMjcyMTU4MjE2LDY0MD
-cxMzY3Niw4OTQ5MzQ2MjgsMTQ5ODQ3NDQ3NSwxNDYyNTgzNTMy
-LC0xMzAwNjA3Nzk4LDE1OTI4OTU5ODQsLTc2MjUzNDIwOCwtMj
-A0NzY5NDg3NywtMTUzMTcxNzg2NiwtOTMwMDI0Nzc5LC00NDUx
-OTY1MSwtMTg2OTc0MTk4NywxNjY5NzEyODQ1LDE2MTc3NTI1Mz
-IsMjAwMTEyNzYxOSw1MzA2ODIzNjQsLTk4MjgyOTI4Nyw0MTg4
-MjY1Nl19
+eyJoaXN0b3J5IjpbLTE2MTA5NjE1MjQsLTE5MjI5NDIzMjEsMj
+cyMTU4MjE2LDY0MDcxMzY3Niw4OTQ5MzQ2MjgsMTQ5ODQ3NDQ3
+NSwxNDYyNTgzNTMyLC0xMzAwNjA3Nzk4LDE1OTI4OTU5ODQsLT
+c2MjUzNDIwOCwtMjA0NzY5NDg3NywtMTUzMTcxNzg2NiwtOTMw
+MDI0Nzc5LC00NDUxOTY1MSwtMTg2OTc0MTk4NywxNjY5NzEyOD
+Q1LDE2MTc3NTI1MzIsMjAwMTEyNzYxOSw1MzA2ODIzNjQsLTk4
+MjgyOTI4N119
 -->
