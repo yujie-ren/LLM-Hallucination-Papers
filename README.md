@@ -216,11 +216,12 @@
 - Fine-grained Hallucination Detection and Editing for Language Models [[pdf]](https://openreview.net/forum?id=dJMTn3QOWO)  
 (U of Washington，**使用了factscore，直接调用FactScorer函数，使用retrieval+ChatGPT**)
 - Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations [[pdf]](https://openreview.net/forum?id=c30qeMg8dv)
-- Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability [[pdf]](https://openreview.net/forum?id=Zt1dwG8xrK)
-
+- Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability [[pdf]](https://openreview.net/forum?id=Zt1dwG8xrK)  
 [Top](#llm-hallucination-papers)
 
 ## NeurIPS 202412
+
+
 [Top](#llm-hallucination-papers)
 
 ## ICML 202407
@@ -238,11 +239,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTM3NjQ5MiwtMTc4MzY3OTgwMiwtMj
-EyMTcyNzAyOCwtMTQwMTY2MTgxMiwtMjA0MDQxOTcxNiw0OTEz
-NDI4MjYsMTg2NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3Nz
-ksLTg5NTY5MjMwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLTcz
-MTk3NDkyMCwtMTkyMjk0MjMyMSwyNzIxNTgyMTYsNjQwNzEzNj
-c2LDg5NDkzNDYyOCwxNDk4NDc0NDc1LDE0NjI1ODM1MzIsLTEz
-MDA2MDc3OThdfQ==
+eyJoaXN0b3J5IjpbLTEyOTM2NDc3MzQsLTE3ODM2Nzk4MDIsLT
+IxMjE3MjcwMjgsLTE0MDE2NjE4MTIsLTIwNDA0MTk3MTYsNDkx
+MzQyODI2LDE4Njc2MTQ0ODcsOTAxNTk4MDI1LC0xNDEwNTkzNz
+c5LC04OTU2OTIzMDAsLTcwMjYwNTU4MCwxMDM1MTI4MTc0LC03
+MzE5NzQ5MjAsLTE5MjI5NDIzMjEsMjcyMTU4MjE2LDY0MDcxMz
+Y3Niw4OTQ5MzQ2MjgsMTQ5ODQ3NDQ3NSwxNDYyNTgzNTMyLC0x
+MzAwNjA3Nzk4XX0=
 -->
