@@ -226,6 +226,7 @@
 [[arxiv]](https://arxiv.org/abs/1406.2661)
 2. Sequence to Sequence Learning with Neural Networks  
 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
+[[arxiv]](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
 
 [Top](#llm-hallucination-papers)
 
@@ -244,11 +245,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTM1NTkyMywxMDY2ODIzNzM3LDE0OD
-UxMTcyMiwxNjU4NjUwMDI0LC0xMjkzNjQ3NzM0LC0xNzgzNjc5
-ODAyLC0yMTIxNzI3MDI4LC0xNDAxNjYxODEyLC0yMDQwNDE5Nz
-E2LDQ5MTM0MjgyNiwxODY3NjE0NDg3LDkwMTU5ODAyNSwtMTQx
-MDU5Mzc3OSwtODk1NjkyMzAwLC03MDI2MDU1ODAsMTAzNTEyOD
-E3NCwtNzMxOTc0OTIwLC0xOTIyOTQyMzIxLDI3MjE1ODIxNiw2
-NDA3MTM2NzZdfQ==
+eyJoaXN0b3J5IjpbMTA0ODUwNjg1MywtODc1MzU1OTIzLDEwNj
+Y4MjM3MzcsMTQ4NTExNzIyLDE2NTg2NTAwMjQsLTEyOTM2NDc3
+MzQsLTE3ODM2Nzk4MDIsLTIxMjE3MjcwMjgsLTE0MDE2NjE4MT
+IsLTIwNDA0MTk3MTYsNDkxMzQyODI2LDE4Njc2MTQ0ODcsOTAx
+NTk4MDI1LC0xNDEwNTkzNzc5LC04OTU2OTIzMDAsLTcwMjYwNT
+U4MCwxMDM1MTI4MTc0LC03MzE5NzQ5MjAsLTE5MjI5NDIzMjEs
+MjcyMTU4MjE2XX0=
 -->
