@@ -226,48 +226,15 @@
 ## Other 2024
 
 ## ACL 2023
-- Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity  Even Better [[pdf]](https://aclanthology.org/2023.acl-long.3/)
-- Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination [[pdf]](https://aclanthology.org/2023.acl-long.329/)
-- Optimal Transport for Unsupervised Hallucination Detection in Neural Machine Translation [[pdf]](https://aclanthology.org/2023.acl-long.770/)
-- Towards Fewer Hallucinations in Knowledge-Grounded Dialogue Generation via Augmentative and Contrastive Knowledge-Dialogue [[pdf]](https://aclanthology.org/2023.acl-short.148/)
-- RHO: Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding [[pdf]](https://aclanthology.org/2023.findings-acl.275/)
-- CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization [[pdf]](https://aclanthology.org/2023.findings-acl.685/)
 
 ## EMNLP 2023
-- Evaluating Object Hallucination in Large Vision-Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.20/)
-- HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation [[pdf]](https://aclanthology.org/2023.emnlp-main.42/)
-- Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus [[pdf]](https://aclanthology.org/2023.emnlp-main.58/)
-- The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations [[pdf]](https://aclanthology.org/2023.emnlp-main.155/)
-- Critic-Driven Decoding for Mitigating Hallucinations in Data-to-text Generation [[pdf]](https://aclanthology.org/2023.emnlp-main.172/)
-- Why  LLMs Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation [[pdf]](https://aclanthology.org/2023.emnlp-main.192/)
-- The Curious Case of Hallucinatory (Un)answerability: Finding Truths in the Hidden States of Over-Confident Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.220/)
-- Fine-tuned  LLMs Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over  Wikidata [[pdf]](https://aclanthology.org/2023.emnlp-main.353/)
-- HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.397/)
-- Detecting and Mitigating Hallucinations in Multilingual Summarisation [[pdf]](https://aclanthology.org/2023.emnlp-main.551/)
-- SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models [[pdf]](https://aclanthology.org/2023.emnlp-main.557/)
-- Models See Hallucinations: Evaluating the Factuality in Video Captioning [[pdf]](https://aclanthology.org/2023.emnlp-main.723/)
-- Hallucination Mitigation in Natural Language Generation from Large-Scale Open-Domain Knowledge Graphs [[pdf]](https://aclanthology.org/2023.emnlp-main.770/)
-- KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection [[pdf]](https://aclanthology.org/2023.emnlp-main.867/)
-- CRUSH4SQL: Collective Retrieval Using Schema Hallucination For  Text2SQL [[pdf]](https://aclanthology.org/2023.emnlp-main.868/)
-- Hallucination Detection for Generative Large Language Models by  Bayesian Sequential Estimation [[pdf]](https://aclanthology.org/2023.emnlp-main.949/)
-- DelucionQA: Detecting Hallucinations in Domain-specific Question Answering [[pdf]](https://aclanthology.org/2023.findings-emnlp.59/)
-- Towards Mitigating  LLM  Hallucination via Self Reflection [[pdf]](https://aclanthology.org/2023.findings-emnlp.123/)
-- mmT5: Modular Multilingual Pre-Training Solves Source Language Hallucinations [[pdf]](https://aclanthology.org/2023.findings-emnlp.132/)
-- WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on  Wikipedia [[pdf]](https://aclanthology.org/2023.findings-emnlp.157/)
-- Sources of Hallucination by Large Language Models on Inference Tasks [[pdf]](https://aclanthology.org/2023.findings-emnlp.182/)
-- A New Benchmark and Reverse Validation Method for Passage-level Hallucination Detection [[pdf]](https://aclanthology.org/2023.findings-emnlp.256/)
-- Hallucination Detection for Grounded Instruction Generation [[pdf]](https://aclanthology.org/2023.findings-emnlp.266/)
-- INVITE: a Testbed of Automatically Generated Invalid Questions to Evaluate Large Language Models for Hallucinations [[pdf]](https://aclanthology.org/2023.findings-emnlp.360/)
-- CReTIHC: Designing Causal Reasoning Tasks about Temporal Interventions and Hallucinated Confoundings [[pdf]](https://aclanthology.org/2023.findings-emnlp.693/)
-- Eyes Show the Way: Modelling Gaze Behaviour for Hallucination Detection [[pdf]](https://aclanthology.org/2023.findings-emnlp.764/)
-- SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
-- Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxMzQyODI2LDE4Njc2MTQ0ODcsOTAxNT
-k4MDI1LC0xNDEwNTkzNzc5LC04OTU2OTIzMDAsLTcwMjYwNTU4
-MCwxMDM1MTI4MTc0LC03MzE5NzQ5MjAsLTE5MjI5NDIzMjEsMj
-cyMTU4MjE2LDY0MDcxMzY3Niw4OTQ5MzQ2MjgsMTQ5ODQ3NDQ3
-NSwxNDYyNTgzNTMyLC0xMzAwNjA3Nzk4LDE1OTI4OTU5ODQsLT
-c2MjUzNDIwOCwtMjA0NzY5NDg3NywtMTUzMTcxNzg2NiwtOTMw
-MDI0Nzc5XX0=
+eyJoaXN0b3J5IjpbMTUxMzk2NTUxOCw0OTEzNDI4MjYsMTg2Nz
+YxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3NzksLTg5NTY5MjMw
+MCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLTczMTk3NDkyMCwtMT
+kyMjk0MjMyMSwyNzIxNTgyMTYsNjQwNzEzNjc2LDg5NDkzNDYy
+OCwxNDk4NDc0NDc1LDE0NjI1ODM1MzIsLTEzMDA2MDc3OTgsMT
+U5Mjg5NTk4NCwtNzYyNTM0MjA4LC0yMDQ3Njk0ODc3LC0xNTMx
+NzE3ODY2XX0=
 -->
