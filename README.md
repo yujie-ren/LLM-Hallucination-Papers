@@ -12,6 +12,7 @@
 |2023| [ACL-2307](#acl-202307) | [EMNLP-2312](#emnlp-202312) |                      |
 
 ##  arXiv 2024
+[Top](#llm-hallucination-papers)
 - Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
 (在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据)
 - Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](https://arxiv.org/abs/2409.12784)  
@@ -131,7 +132,7 @@
 (NTU, Factuality alignment, New method)
 54. Dial  BeInfo for Faithfulness: Improving Factuality of Information-Seeking Dialogue via Behavioural Fine-Tuning [[pdf]](https://aclanthology.org/2024.findings-emnlp.998/)  
 (PolyAI-London, Improving factuality by fine-tuning)
-
+[Top](#llm-hallucination-papers)
 
 
 ##  ACL 202408
@@ -231,7 +232,7 @@
 ## EMNLP 202312
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzIzNDcxMCwtMjA0MDQxOTcxNiw0OT
+eyJoaXN0b3J5IjpbLTk0MjYzMTYxMiwtMjA0MDQxOTcxNiw0OT
 EzNDI4MjYsMTg2NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3
 NzksLTg5NTY5MjMwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLT
 czMTk3NDkyMCwtMTkyMjk0MjMyMSwyNzIxNTgyMTYsNjQwNzEz
