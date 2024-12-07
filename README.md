@@ -203,8 +203,6 @@
 (SJTU，减轻幻觉，检测语义框架中的细粒度幻觉)
 
 
-##  Other 2024
-
 ## COLM 202410
 - Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)  
 (KAIST，检测Multilingual LLM使用不同语言，回答不同地理区域问题时的幻觉程度)
@@ -264,7 +262,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU5MDA1OTMsMTAzNTEyODE3NCwtNz
+eyJoaXN0b3J5IjpbLTE1NzYyMzIwMzcsMTAzNTEyODE3NCwtNz
 MxOTc0OTIwLC0xOTIyOTQyMzIxLDI3MjE1ODIxNiw2NDA3MTM2
 NzYsODk0OTM0NjI4LDE0OTg0NzQ0NzUsMTQ2MjU4MzUzMiwtMT
 MwMDYwNzc5OCwxNTkyODk1OTg0LC03NjI1MzQyMDgsLTIwNDc2
