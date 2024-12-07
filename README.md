@@ -190,7 +190,7 @@
 [Top](#llm-hallucination-papers)
 
 ## NAACL 202406
-### Hallucination & Factuality
+#### Hallucination & Factuality
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
 (KAIST AI，减轻LVLM幻觉，self-feedback)
 - On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)  
@@ -208,7 +208,7 @@
 [Top](#llm-hallucination-papers)
 
 ## COLM 202410
-### Hallucination & Factuality
+#### Hallucination & Factuality
 - Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)  
 (KAIST，检测Multilingual LLM使用不同语言，回答不同地理区域问题时的幻觉程度)
 - PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
@@ -250,7 +250,7 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE4NTc3NjcsMTE0MjEwNDA5MSwtOD
+eyJoaXN0b3J5IjpbLTE2MzAyNjA5OTMsMTE0MjEwNDA5MSwtOD
 c1MzU1OTIzLDEwNjY4MjM3MzcsMTQ4NTExNzIyLDE2NTg2NTAw
 MjQsLTEyOTM2NDc3MzQsLTE3ODM2Nzk4MDIsLTIxMjE3MjcwMj
 gsLTE0MDE2NjE4MTIsLTIwNDA0MTk3MTYsNDkxMzQyODI2LDE4
