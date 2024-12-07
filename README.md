@@ -130,7 +130,7 @@
 53. FactAlign: Long-form Factuality Alignment of Large Language Models [[pdf]](https://aclanthology.org/2024.findings-emnlp.955/)  
 (NTU, Factuality alignment, New method)
 54. Dial  BeInfo for Faithfulness: Improving Factuality of Information-Seeking Dialogue via Behavioural Fine-Tuning [[pdf]](https://aclanthology.org/2024.findings-emnlp.998/)  
-(PolyAI-London, Improving factuality by fine-tuning)
+(PolyAI-London, Improving factuality by fine-tuning)  
 [Top](#llm-hallucination-papers)
 
 
@@ -236,11 +236,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE2NjE4MTIsLTIwNDA0MTk3MTYsND
-kxMzQyODI2LDE4Njc2MTQ0ODcsOTAxNTk4MDI1LC0xNDEwNTkz
-Nzc5LC04OTU2OTIzMDAsLTcwMjYwNTU4MCwxMDM1MTI4MTc0LC
-03MzE5NzQ5MjAsLTE5MjI5NDIzMjEsMjcyMTU4MjE2LDY0MDcx
-MzY3Niw4OTQ5MzQ2MjgsMTQ5ODQ3NDQ3NSwxNDYyNTgzNTMyLC
-0xMzAwNjA3Nzk4LDE1OTI4OTU5ODQsLTc2MjUzNDIwOCwtMjA0
-NzY5NDg3N119
+eyJoaXN0b3J5IjpbODMyOTY3MTYsLTE0MDE2NjE4MTIsLTIwND
+A0MTk3MTYsNDkxMzQyODI2LDE4Njc2MTQ0ODcsOTAxNTk4MDI1
+LC0xNDEwNTkzNzc5LC04OTU2OTIzMDAsLTcwMjYwNTU4MCwxMD
+M1MTI4MTc0LC03MzE5NzQ5MjAsLTE5MjI5NDIzMjEsMjcyMTU4
+MjE2LDY0MDcxMzY3Niw4OTQ5MzQ2MjgsMTQ5ODQ3NDQ3NSwxND
+YyNTgzNTMyLC0xMzAwNjA3Nzk4LDE1OTI4OTU5ODQsLTc2MjUz
+NDIwOF19
 -->
