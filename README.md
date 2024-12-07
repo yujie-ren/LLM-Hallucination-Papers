@@ -208,6 +208,7 @@
 [Top](#llm-hallucination-papers)
 
 ## COLM 202410
+### Hallucination & Factuality
 - Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore [[pdf]](https://openreview.net/forum?id=lkrH6ovzsj)  
 (KAIST，检测Multilingual LLM使用不同语言，回答不同地理区域问题时的幻觉程度)
 - PRobELM: Plausibility Ranking Evaluation for Language Models [[pdf]](https://openreview.net/forum?id=k8KS9Ps71d)
@@ -239,11 +240,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDE0NTYxOCwtMTc4MzY3OTgwMiwtMj
-EyMTcyNzAyOCwtMTQwMTY2MTgxMiwtMjA0MDQxOTcxNiw0OTEz
-NDI4MjYsMTg2NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3Nz
-ksLTg5NTY5MjMwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLTcz
-MTk3NDkyMCwtMTkyMjk0MjMyMSwyNzIxNTgyMTYsNjQwNzEzNj
-c2LDg5NDkzNDYyOCwxNDk4NDc0NDc1LDE0NjI1ODM1MzIsLTEz
-MDA2MDc3OThdfQ==
+eyJoaXN0b3J5IjpbNTk3NDE2NjAwLC0xNzgzNjc5ODAyLC0yMT
+IxNzI3MDI4LC0xNDAxNjYxODEyLC0yMDQwNDE5NzE2LDQ5MTM0
+MjgyNiwxODY3NjE0NDg3LDkwMTU5ODAyNSwtMTQxMDU5Mzc3OS
+wtODk1NjkyMzAwLC03MDI2MDU1ODAsMTAzNTEyODE3NCwtNzMx
+OTc0OTIwLC0xOTIyOTQyMzIxLDI3MjE1ODIxNiw2NDA3MTM2Nz
+YsODk0OTM0NjI4LDE0OTg0NzQ0NzUsMTQ2MjU4MzUzMiwtMTMw
+MDYwNzc5OF19
 -->
