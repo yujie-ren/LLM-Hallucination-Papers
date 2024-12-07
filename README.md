@@ -12,7 +12,6 @@
 |2023| [ACL-2307](#acl-202307) | [EMNLP-2312](#emnlp-202312) |                      |
 
 ##  arXiv 2024
-[Top](#llm-hallucination-papers)
 - Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
 (在新knowledge上fine-tuning具有风险，会增加模型的Hallucination，可能为当前项目提供论据)
 - Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[pdf]](https://arxiv.org/abs/2409.12784)  
@@ -233,11 +232,11 @@
 ## EMNLP 202312
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzQ5MTUzMCwtMjA0MDQxOTcxNiw0OT
-EzNDI4MjYsMTg2NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3
-NzksLTg5NTY5MjMwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLT
-czMTk3NDkyMCwtMTkyMjk0MjMyMSwyNzIxNTgyMTYsNjQwNzEz
-Njc2LDg5NDkzNDYyOCwxNDk4NDc0NDc1LDE0NjI1ODM1MzIsLT
-EzMDA2MDc3OTgsMTU5Mjg5NTk4NCwtNzYyNTM0MjA4LC0yMDQ3
-Njk0ODc3XX0=
+eyJoaXN0b3J5IjpbNTE2NzM0Mzc2LC0yMDQwNDE5NzE2LDQ5MT
+M0MjgyNiwxODY3NjE0NDg3LDkwMTU5ODAyNSwtMTQxMDU5Mzc3
+OSwtODk1NjkyMzAwLC03MDI2MDU1ODAsMTAzNTEyODE3NCwtNz
+MxOTc0OTIwLC0xOTIyOTQyMzIxLDI3MjE1ODIxNiw2NDA3MTM2
+NzYsODk0OTM0NjI4LDE0OTg0NzQ0NzUsMTQ2MjU4MzUzMiwtMT
+MwMDYwNzc5OCwxNTkyODk1OTg0LC03NjI1MzQyMDgsLTIwNDc2
+OTQ4NzddfQ==
 -->
