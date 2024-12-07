@@ -9,7 +9,7 @@
 |:---:|    :----:        |        :---:         |        :---:         |      :---:    | :---:  |
 |2024|[arXiv-24](#arxiv-2024)|[EMNLP-2411](#emnlp-202411) | [ACL-2408](#acl-202408) | [NAACL-2406](#naacl-202406) |[COLM-2410](#colm-202410)|
 |    |[Other-24](#other-2024)|[NeurIPS-2412](#neurips-202412)|[ICML-2407](#icml-202407)|[ICLR-2405](#iclr-202405)|      |
-|2023| [ACL-2307](#acl-202307) | [EMNLP](#emnlp-2023) |                      |
+|2023| [ACL-2307](#acl-202307) | [EMNLP-2312](#emnlp-202312) |                      |
 
 ##  arXiv 2024
 - Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[pdf]](https://arxiv.org/abs/2405.05904)  
@@ -228,14 +228,14 @@
 
 ## ACL 202307
 
-## EMNLP 2023
+## EMNLP 202312
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY5MDEwNjMsLTIwNDA0MTk3MTYsND
-kxMzQyODI2LDE4Njc2MTQ0ODcsOTAxNTk4MDI1LC0xNDEwNTkz
-Nzc5LC04OTU2OTIzMDAsLTcwMjYwNTU4MCwxMDM1MTI4MTc0LC
-03MzE5NzQ5MjAsLTE5MjI5NDIzMjEsMjcyMTU4MjE2LDY0MDcx
-MzY3Niw4OTQ5MzQ2MjgsMTQ5ODQ3NDQ3NSwxNDYyNTgzNTMyLC
-0xMzAwNjA3Nzk4LDE1OTI4OTU5ODQsLTc2MjUzNDIwOCwtMjA0
-NzY5NDg3N119
+eyJoaXN0b3J5IjpbMTA2MzIzNDcxMCwtMjA0MDQxOTcxNiw0OT
+EzNDI4MjYsMTg2NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3
+NzksLTg5NTY5MjMwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLT
+czMTk3NDkyMCwtMTkyMjk0MjMyMSwyNzIxNTgyMTYsNjQwNzEz
+Njc2LDg5NDkzNDYyOCwxNDk4NDc0NDc1LDE0NjI1ODM1MzIsLT
+EzMDA2MDc3OTgsMTU5Mjg5NTk4NCwtNzYyNTM0MjA4LC0yMDQ3
+Njk0ODc3XX0=
 -->
