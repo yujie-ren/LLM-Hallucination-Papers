@@ -1,8 +1,8 @@
 # LLM-Hallucination-Papers
-**Keyword for retrieval:  
+**Keyword for retrieval:**  
 - hallucination - hallu  
 - factuality - factu  
-- knowledge - knowle**
+- knowledge - knowle
 
 ## Contents
 |Year |      |      |      |      |      |
@@ -263,7 +263,7 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDcyMDk4MiwxODY3NjE0NDg3LDkwMT
+eyJoaXN0b3J5IjpbMTc5NjM3OTgxOCwxODY3NjE0NDg3LDkwMT
 U5ODAyNSwtMTQxMDU5Mzc3OSwtODk1NjkyMzAwLC03MDI2MDU1
 ODAsMTAzNTEyODE3NCwtNzMxOTc0OTIwLC0xOTIyOTQyMzIxLD
 I3MjE1ODIxNiw2NDA3MTM2NzYsODk0OTM0NjI4LDE0OTg0NzQ0
