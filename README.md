@@ -23,6 +23,7 @@
 [Top](#llm-hallucination-papers)
 
 ##  EMNLP 202411
+#### Hallucination & Factuality
 1. EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
 (NJU, Mitigate object hallucination in MLLMs, Gradient ascent by designing losses)
 2. Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps [[pdf]](https://aclanthology.org/2024.emnlp-main.84/)  
@@ -236,11 +237,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE3MjcwMjgsLTE0MDE2NjE4MTIsLT
-IwNDA0MTk3MTYsNDkxMzQyODI2LDE4Njc2MTQ0ODcsOTAxNTk4
-MDI1LC0xNDEwNTkzNzc5LC04OTU2OTIzMDAsLTcwMjYwNTU4MC
-wxMDM1MTI4MTc0LC03MzE5NzQ5MjAsLTE5MjI5NDIzMjEsMjcy
-MTU4MjE2LDY0MDcxMzY3Niw4OTQ5MzQ2MjgsMTQ5ODQ3NDQ3NS
-wxNDYyNTgzNTMyLC0xMzAwNjA3Nzk4LDE1OTI4OTU5ODQsLTc2
-MjUzNDIwOF19
+eyJoaXN0b3J5IjpbODM0NzcyMTQ5LC0yMTIxNzI3MDI4LC0xND
+AxNjYxODEyLC0yMDQwNDE5NzE2LDQ5MTM0MjgyNiwxODY3NjE0
+NDg3LDkwMTU5ODAyNSwtMTQxMDU5Mzc3OSwtODk1NjkyMzAwLC
+03MDI2MDU1ODAsMTAzNTEyODE3NCwtNzMxOTc0OTIwLC0xOTIy
+OTQyMzIxLDI3MjE1ODIxNiw2NDA3MTM2NzYsODk0OTM0NjI4LD
+E0OTg0NzQ0NzUsMTQ2MjU4MzUzMiwtMTMwMDYwNzc5OCwxNTky
+ODk1OTg0XX0=
 -->
