@@ -136,6 +136,7 @@
 
 
 ##  ACL 202408
+### Hallucination & Factuality
 - Self-Alignment for Factuality: Mitigating Hallucinations in  LLMs via Self-Evaluation [[pdf]](https://aclanthology.org/2024.acl-long.107/)  
 (CUHK，减轻模型幻觉，使用了TruthfulQA数据集，没提供代码)
 - Unified Hallucination Detection for Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.acl-long.178/)  
@@ -237,11 +238,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM2Nzk4MDIsLTIxMjE3MjcwMjgsLT
-E0MDE2NjE4MTIsLTIwNDA0MTk3MTYsNDkxMzQyODI2LDE4Njc2
-MTQ0ODcsOTAxNTk4MDI1LC0xNDEwNTkzNzc5LC04OTU2OTIzMD
-AsLTcwMjYwNTU4MCwxMDM1MTI4MTc0LC03MzE5NzQ5MjAsLTE5
-MjI5NDIzMjEsMjcyMTU4MjE2LDY0MDcxMzY3Niw4OTQ5MzQ2Mj
-gsMTQ5ODQ3NDQ3NSwxNDYyNTgzNTMyLC0xMzAwNjA3Nzk4LDE1
-OTI4OTU5ODRdfQ==
+eyJoaXN0b3J5IjpbMjEwODc2NDE3MiwtMTc4MzY3OTgwMiwtMj
+EyMTcyNzAyOCwtMTQwMTY2MTgxMiwtMjA0MDQxOTcxNiw0OTEz
+NDI4MjYsMTg2NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3Nz
+ksLTg5NTY5MjMwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLTcz
+MTk3NDkyMCwtMTkyMjk0MjMyMSwyNzIxNTgyMTYsNjQwNzEzNj
+c2LDg5NDkzNDYyOCwxNDk4NDc0NDc1LDE0NjI1ODM1MzIsLTEz
+MDA2MDc3OThdfQ==
 -->
