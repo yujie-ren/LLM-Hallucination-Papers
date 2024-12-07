@@ -220,7 +220,7 @@
 [Top](#llm-hallucination-papers)
 
 ## NeurIPS 202412
-### Test of Time Papers [link](https://blog.neurips.cc/2024/11/27/announcing-the-neurips-2024-test-of-time-paper-awards/)
+#### Test of Time Papers [link](https://blog.neurips.cc/2024/11/27/announcing-the-neurips-2024-test-of-time-paper-awards/)
 1. Generative Adversarial Nets 
 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 [[arxiv]](https://arxiv.org/abs/1406.2661)  
@@ -230,7 +230,7 @@
 [[arxiv]](https://arxiv.org/abs/1409.3215)  
 (the cornerstone work that set the encoder-decoder architecture, inspiring later attention-based improvements)
 
-### Best Papers 
+#### Best Papers 
 1. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [[arxiv]](https://arxiv.org/abs/2404.02905)
 
 [Top](#llm-hallucination-papers)
@@ -250,11 +250,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjU5MzE0NSwxMTQyMTA0MDkxLC04Nz
-UzNTU5MjMsMTA2NjgyMzczNywxNDg1MTE3MjIsMTY1ODY1MDAy
-NCwtMTI5MzY0NzczNCwtMTc4MzY3OTgwMiwtMjEyMTcyNzAyOC
-wtMTQwMTY2MTgxMiwtMjA0MDQxOTcxNiw0OTEzNDI4MjYsMTg2
-NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3NzksLTg5NTY5Mj
-MwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLTczMTk3NDkyMCwt
-MTkyMjk0MjMyMV19
+eyJoaXN0b3J5IjpbLTE5MjE4NTc3NjcsMTE0MjEwNDA5MSwtOD
+c1MzU1OTIzLDEwNjY4MjM3MzcsMTQ4NTExNzIyLDE2NTg2NTAw
+MjQsLTEyOTM2NDc3MzQsLTE3ODM2Nzk4MDIsLTIxMjE3MjcwMj
+gsLTE0MDE2NjE4MTIsLTIwNDA0MTk3MTYsNDkxMzQyODI2LDE4
+Njc2MTQ0ODcsOTAxNTk4MDI1LC0xNDEwNTkzNzc5LC04OTU2OT
+IzMDAsLTcwMjYwNTU4MCwxMDM1MTI4MTc0LC03MzE5NzQ5MjAs
+LTE5MjI5NDIzMjFdfQ==
 -->
