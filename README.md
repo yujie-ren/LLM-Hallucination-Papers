@@ -224,7 +224,8 @@
 1. Generative Adversarial Nets  
 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 [[arxiv]](https://arxiv.org/abs/1406.2661)
-3. Sequence to Sequence Learning with Neural Networks [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
+2. Sequence to Sequence Learning with Neural Networks  
+[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
 
 [Top](#llm-hallucination-papers)
 
@@ -243,7 +244,7 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzI0ODg2MiwxMDY2ODIzNzM3LDE0OD
+eyJoaXN0b3J5IjpbLTg3NTM1NTkyMywxMDY2ODIzNzM3LDE0OD
 UxMTcyMiwxNjU4NjUwMDI0LC0xMjkzNjQ3NzM0LC0xNzgzNjc5
 ODAyLC0yMTIxNzI3MDI4LC0xNDAxNjYxODEyLC0yMDQwNDE5Nz
 E2LDQ5MTM0MjgyNiwxODY3NjE0NDg3LDkwMTU5ODAyNSwtMTQx
