@@ -201,7 +201,7 @@
 - Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)  
 (UC Davis，结合幻觉和reasoning，语义联想引起的幻觉)
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)  
-(SJTU，减轻幻觉，检测语义框架中的细粒度幻觉) 
+(SJTU，减轻幻觉，检测语义框架中的细粒度幻觉)  
 [Top](#llm-hallucination-papers)
 
 ## COLM 202410
@@ -215,7 +215,7 @@
 - Training Language Models on the Knowledge Graph: Insights on Hallucinations and Their Detectability [[pdf]](https://openreview.net/forum?id=Zt1dwG8xrK)
 **----Inspiring----**
 -  MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative LLMs [[pdf]](https://openreview.net/forum?id=X9yV4lFHt4)
-- How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)
+- How Susceptible are LLMs to Influence in Prompts? [[pdf]](https://openreview.net/forum?id=y7JnjDcIQa)  
 [Top](#llm-hallucination-papers)
 
 ## NeurIPS 202412
@@ -236,7 +236,7 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUyNzk4NDIsLTE0MDE2NjE4MTIsLT
+eyJoaXN0b3J5IjpbLTIxMjE3MjcwMjgsLTE0MDE2NjE4MTIsLT
 IwNDA0MTk3MTYsNDkxMzQyODI2LDE4Njc2MTQ0ODcsOTAxNTk4
 MDI1LC0xNDEwNTkzNzc5LC04OTU2OTIzMDAsLTcwMjYwNTU4MC
 wxMDM1MTI4MTc0LC03MzE5NzQ5MjAsLTE5MjI5NDIzMjEsMjcy
