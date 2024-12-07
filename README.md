@@ -184,7 +184,7 @@
 - Unsupervised Real-Time Hallucination Detection based on the Internal States of Large Language Models [[pdf]](https://aclanthology.org/2024.findings-acl.854/)  
 (THU，利用LLM内部状态检测幻觉)
 - Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding [[pdf]](https://aclanthology.org/2024.findings-acl.937/)  
-(UHH，减轻LVLM幻觉)
+(UHH，减轻LVLM幻觉)  
 [Top](#llm-hallucination-papers)
 
 ## NAACL 202406
@@ -201,7 +201,7 @@
 - Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination? [[pdf]](https://aclanthology.org/2024.naacl-long.424/)  
 (UC Davis，结合幻觉和reasoning，语义联想引起的幻觉)
 - Hallucination Diversity-Aware Active Learning for Text Summarization [[pdf]](https://aclanthology.org/2024.naacl-long.479/)  
-(SJTU，减轻幻觉，检测语义框架中的细粒度幻觉)
+(SJTU，减轻幻觉，检测语义框架中的细粒度幻觉) 
 [Top](#llm-hallucination-papers)
 
 ## COLM 202410
@@ -236,11 +236,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyOTY3MTYsLTE0MDE2NjE4MTIsLTIwND
-A0MTk3MTYsNDkxMzQyODI2LDE4Njc2MTQ0ODcsOTAxNTk4MDI1
-LC0xNDEwNTkzNzc5LC04OTU2OTIzMDAsLTcwMjYwNTU4MCwxMD
-M1MTI4MTc0LC03MzE5NzQ5MjAsLTE5MjI5NDIzMjEsMjcyMTU4
-MjE2LDY0MDcxMzY3Niw4OTQ5MzQ2MjgsMTQ5ODQ3NDQ3NSwxND
-YyNTgzNTMyLC0xMzAwNjA3Nzk4LDE1OTI4OTU5ODQsLTc2MjUz
-NDIwOF19
+eyJoaXN0b3J5IjpbLTE5MTUyNzk4NDIsLTE0MDE2NjE4MTIsLT
+IwNDA0MTk3MTYsNDkxMzQyODI2LDE4Njc2MTQ0ODcsOTAxNTk4
+MDI1LC0xNDEwNTkzNzc5LC04OTU2OTIzMDAsLTcwMjYwNTU4MC
+wxMDM1MTI4MTc0LC03MzE5NzQ5MjAsLTE5MjI5NDIzMjEsMjcy
+MTU4MjE2LDY0MDcxMzY3Niw4OTQ5MzQ2MjgsMTQ5ODQ3NDQ3NS
+wxNDYyNTgzNTMyLC0xMzAwNjA3Nzk4LDE1OTI4OTU5ODQsLTc2
+MjUzNDIwOF19
 -->
