@@ -223,7 +223,7 @@
 ### NeurIPS 2024 Test of Time Paper Awards [link](https://blog.neurips.cc/2024/11/27/announcing-the-neurips-2024-test-of-time-paper-awards/)
 1. Generative Adversarial Nets  
 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
-[[arxiv]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+[[arxiv]](https://arxiv.org/abs/1406.2661)
 3. Sequence to Sequence Learning with Neural Networks [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
 
 [Top](#llm-hallucination-papers)
@@ -243,11 +243,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMzMxOTUzLDEwNjY4MjM3MzcsMTQ4NT
-ExNzIyLDE2NTg2NTAwMjQsLTEyOTM2NDc3MzQsLTE3ODM2Nzk4
-MDIsLTIxMjE3MjcwMjgsLTE0MDE2NjE4MTIsLTIwNDA0MTk3MT
-YsNDkxMzQyODI2LDE4Njc2MTQ0ODcsOTAxNTk4MDI1LC0xNDEw
-NTkzNzc5LC04OTU2OTIzMDAsLTcwMjYwNTU4MCwxMDM1MTI4MT
-c0LC03MzE5NzQ5MjAsLTE5MjI5NDIzMjEsMjcyMTU4MjE2LDY0
-MDcxMzY3Nl19
+eyJoaXN0b3J5IjpbMTIzNzI0ODg2MiwxMDY2ODIzNzM3LDE0OD
+UxMTcyMiwxNjU4NjUwMDI0LC0xMjkzNjQ3NzM0LC0xNzgzNjc5
+ODAyLC0yMTIxNzI3MDI4LC0xNDAxNjYxODEyLC0yMDQwNDE5Nz
+E2LDQ5MTM0MjgyNiwxODY3NjE0NDg3LDkwMTU5ODAyNSwtMTQx
+MDU5Mzc3OSwtODk1NjkyMzAwLC03MDI2MDU1ODAsMTAzNTEyOD
+E3NCwtNzMxOTc0OTIwLC0xOTIyOTQyMzIxLDI3MjE1ODIxNiw2
+NDA3MTM2NzZdfQ==
 -->
