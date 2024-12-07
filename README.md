@@ -18,7 +18,7 @@
 (Tencent AI，使用了TruthfulQA和FActScore，TruthfulQA只评估了MC任务，FActScore使用默认retrieval+ChatGPT)
 - Unfamiliar Finetuning Examples Control How Language Models Hallucinate [[pdf]](https://arxiv.org/abs/2403.05612)  
 (UC Berkeley+Google，**使用了FActScore**，使用默认的retrieval+ChatGPT，指出FActScore代码需要一点修改)
-[Top](#contents)
+[Top](#llm-hallucination-papers)
 
 ##  EMNLP 202411
 1. EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[pdf]](https://aclanthology.org/2024.emnlp-main.67/)  
@@ -261,11 +261,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkyMjcyMDksLTg5NTY5MjMwMCwtNz
-AyNjA1NTgwLDEwMzUxMjgxNzQsLTczMTk3NDkyMCwtMTkyMjk0
-MjMyMSwyNzIxNTgyMTYsNjQwNzEzNjc2LDg5NDkzNDYyOCwxND
-k4NDc0NDc1LDE0NjI1ODM1MzIsLTEzMDA2MDc3OTgsMTU5Mjg5
-NTk4NCwtNzYyNTM0MjA4LC0yMDQ3Njk0ODc3LC0xNTMxNzE3OD
-Y2LC05MzAwMjQ3NzksLTQ0NTE5NjUxLC0xODY5NzQxOTg3LDE2
-Njk3MTI4NDVdfQ==
+eyJoaXN0b3J5IjpbLTQyNTI0NDk1NCwtODk1NjkyMzAwLC03MD
+I2MDU1ODAsMTAzNTEyODE3NCwtNzMxOTc0OTIwLC0xOTIyOTQy
+MzIxLDI3MjE1ODIxNiw2NDA3MTM2NzYsODk0OTM0NjI4LDE0OT
+g0NzQ0NzUsMTQ2MjU4MzUzMiwtMTMwMDYwNzc5OCwxNTkyODk1
+OTg0LC03NjI1MzQyMDgsLTIwNDc2OTQ4NzcsLTE1MzE3MTc4Nj
+YsLTkzMDAyNDc3OSwtNDQ1MTk2NTEsLTE4Njk3NDE5ODcsMTY2
+OTcxMjg0NV19
 -->
