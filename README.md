@@ -190,6 +190,7 @@
 [Top](#llm-hallucination-papers)
 
 ## NAACL 202406
+### Hallucination & Factuality
 - Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23/)  
 (KAIST AI，减轻LVLM幻觉，self-feedback)
 - On Large Language Models’ Hallucination with Regard to Known Facts [[pdf]](https://aclanthology.org/2024.naacl-long.60/)  
@@ -238,7 +239,7 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODc2NDE3MiwtMTc4MzY3OTgwMiwtMj
+eyJoaXN0b3J5IjpbMTY2MDE0NTYxOCwtMTc4MzY3OTgwMiwtMj
 EyMTcyNzAyOCwtMTQwMTY2MTgxMiwtMjA0MDQxOTcxNiw0OTEz
 NDI4MjYsMTg2NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3Nz
 ksLTg5NTY5MjMwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLTcz
