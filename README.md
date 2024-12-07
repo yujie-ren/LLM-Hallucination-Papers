@@ -6,7 +6,7 @@
 |Year |      |      |      |      |      |
 |:---:|    :----:        |        :---:         |        :---:         |      :---:    | :---:  |
 |2024|[arXiv-24](#arxiv-2024)|[EMNLP-2411](#emnlp-202411) | [ACL-2408](#acl-202408) | [NAACL-2406](#naacl-202406) |[COLM-2410](#colm-202410)|
-|    |[NeurIPS-2412](#neurips-202412)|      |      |      |      |
+|    |[Other-24](#other-2024)|[NeurIPS-2412](#neurips-202412)|      |      |      |
 |2023| [ACL](#acl-2023) | [EMNLP](#emnlp-2023) |                      |
 
 ##  arXiv 2024
@@ -223,7 +223,7 @@
 
 ## ICLR 202405
 
-
+## Other 2024
 
 ## ACL 2023
 - Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity  Even Better [[pdf]](https://aclanthology.org/2023.acl-long.3/)
@@ -263,11 +263,11 @@
 - SAC3: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency [[pdf]](https://aclanthology.org/2023.findings-emnlp.1032/)
 - Mitigating Intrinsic Named Entity-Related Hallucinations of Abstractive Text Summarization [[pdf]](https://aclanthology.org/2023.findings-emnlp.1059/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTcwNzM5NDIsMTAzNTEyODE3NCwtNz
-MxOTc0OTIwLC0xOTIyOTQyMzIxLDI3MjE1ODIxNiw2NDA3MTM2
-NzYsODk0OTM0NjI4LDE0OTg0NzQ0NzUsMTQ2MjU4MzUzMiwtMT
-MwMDYwNzc5OCwxNTkyODk1OTg0LC03NjI1MzQyMDgsLTIwNDc2
-OTQ4NzcsLTE1MzE3MTc4NjYsLTkzMDAyNDc3OSwtNDQ1MTk2NT
-EsLTE4Njk3NDE5ODcsMTY2OTcxMjg0NSwxNjE3NzUyNTMyLDIw
-MDExMjc2MTldfQ==
+eyJoaXN0b3J5IjpbNjg2NDA1OTYwLDEwMzUxMjgxNzQsLTczMT
+k3NDkyMCwtMTkyMjk0MjMyMSwyNzIxNTgyMTYsNjQwNzEzNjc2
+LDg5NDkzNDYyOCwxNDk4NDc0NDc1LDE0NjI1ODM1MzIsLTEzMD
+A2MDc3OTgsMTU5Mjg5NTk4NCwtNzYyNTM0MjA4LC0yMDQ3Njk0
+ODc3LC0xNTMxNzE3ODY2LC05MzAwMjQ3NzksLTQ0NTE5NjUxLC
+0xODY5NzQxOTg3LDE2Njk3MTI4NDUsMTYxNzc1MjUzMiwyMDAx
+MTI3NjE5XX0=
 -->
