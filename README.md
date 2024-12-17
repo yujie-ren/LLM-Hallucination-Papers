@@ -233,6 +233,10 @@
 #### Best Papers 
 1. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [[arxiv]](https://arxiv.org/abs/2404.02905)
 
+I Don't Know: Explicit Modeling of Uncertainty with an [IDK] Token [[pdf]](https://arxiv.org/abs/2412.06676v1)
+
+
+
 [Top](#llm-hallucination-papers)
 
 ## ICML 202407
@@ -250,11 +254,11 @@
 ## EMNLP 202312
 [Top](#llm-hallucination-papers)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjAwMjQ1OSwxMTQyMTA0MDkxLC04Nz
-UzNTU5MjMsMTA2NjgyMzczNywxNDg1MTE3MjIsMTY1ODY1MDAy
-NCwtMTI5MzY0NzczNCwtMTc4MzY3OTgwMiwtMjEyMTcyNzAyOC
-wtMTQwMTY2MTgxMiwtMjA0MDQxOTcxNiw0OTEzNDI4MjYsMTg2
-NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OTM3NzksLTg5NTY5Mj
-MwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQsLTczMTk3NDkyMCwt
-MTkyMjk0MjMyMV19
+eyJoaXN0b3J5IjpbLTE2ODU2OTIyODIsMTI4MjAwMjQ1OSwxMT
+QyMTA0MDkxLC04NzUzNTU5MjMsMTA2NjgyMzczNywxNDg1MTE3
+MjIsMTY1ODY1MDAyNCwtMTI5MzY0NzczNCwtMTc4MzY3OTgwMi
+wtMjEyMTcyNzAyOCwtMTQwMTY2MTgxMiwtMjA0MDQxOTcxNiw0
+OTEzNDI4MjYsMTg2NzYxNDQ4Nyw5MDE1OTgwMjUsLTE0MTA1OT
+M3NzksLTg5NTY5MjMwMCwtNzAyNjA1NTgwLDEwMzUxMjgxNzQs
+LTczMTk3NDkyMF19
 -->
